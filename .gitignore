@@ -7,4 +7,7 @@ ipython_config.py
 
 
 catboost_info/*
-logs.txt
+logs.log
+output/results-old/
+output/results-old2/
+analysis - Copy.ipynb
