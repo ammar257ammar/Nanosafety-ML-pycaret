@@ -8,6 +8,13 @@ ipython_config.py
 
 catboost_info/*
 logs.log
+command.log
 output/results-old/
 output/results-old2/
+output/results-old3/
+config/*
+models/*
+plots/*
 analysis - Copy.ipynb
+analysis - Copy - recent.ipynb
+input/test_set_asina.txt
