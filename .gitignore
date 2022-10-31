@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+__pycache__
 # IPython
 profile_default/
 ipython_config.py
@@ -11,5 +11,9 @@ logs.log
 command.log
 config/*
 models/*
+bkp/*
+analysis.ipynb
+analysis_test.ipynb
 analysis - Copy.ipynb
 analysis - Copy - recent.ipynb
+9999-classification-compare-models.ipynb

@@ -1,6 +1,0 @@
-index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE	TT (Sec)
-rf	Random Forest Regressor	12.9087	399.7033	19.9487	0.6121	0.5361	1.1488	1.448
-et	Extra Trees Regressor	13.1647	494.5852	22.1768	0.5204	0.5663	1.0184	1.647
-lightgbm	Light Gradient Boosting Machine	16.4033	504.1126	22.4348	0.5112	0.6376	1.6219	0.047
-gbr	Gradient Boosting Regressor	21.2403	739.5285	27.1787	0.2828	0.7694	2.5553	0.372
-dummy	Dummy Regressor	25.9732	1032.2711	32.1119	-0.0007	0.8655	4.3553	0.016

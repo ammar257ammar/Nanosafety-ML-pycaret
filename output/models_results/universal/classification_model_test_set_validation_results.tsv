@@ -1,0 +1,2 @@
+index	Model	Accuracy	AUC	Recall	Prec.	F1	Kappa	MCC
+0	Random Forest Classifier	0.8542	0.896	0.6705	0.6838	0.6771	0.5829	0.583

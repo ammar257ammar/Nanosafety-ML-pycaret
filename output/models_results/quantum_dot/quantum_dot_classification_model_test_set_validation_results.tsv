@@ -1,0 +1,2 @@
+index	Model	Accuracy	AUC	Recall	Prec.	F1	Kappa	MCC
+0	Light Gradient Boosting Machine	0.8043	0.8491	0.6203	0.6282	0.6242	0.4919	0.4919

@@ -1,0 +1,2 @@
+index	Model	Accuracy	AUC	Recall	Prec.	F1	Kappa	MCC
+0	CatBoost Classifier	0.8837	0.9263	0.5	0.4	0.4444	0.3804	0.3834

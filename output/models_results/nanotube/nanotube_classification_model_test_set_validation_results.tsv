@@ -1,0 +1,2 @@
+index	Model	Accuracy	AUC	Recall	Prec.	F1	Kappa	MCC
+0	Extreme Gradient Boosting	0.9111	0.9595	0.8571	0.8571	0.8571	0.7926	0.7926
