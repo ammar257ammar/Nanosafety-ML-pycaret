@@ -1,0 +1,10 @@
+	universal regression lr	universal regression lasso	universal regression ridge	universal regression svm	universal regression rf	universal regression et	universal regression gbr	universal regression lightgbm
+Inner CV R2 (mean/std)	-6.11/9.22	0.22/0.02	0.24/0.02	0.34/0.02	0.42/0.03	0.31/0.02	0.59/0.02	0.6/0.02
+Outer CV R2 (mean/std)	-519.73/1622.0	0.21/0.02	0.24/0.03	0.35/0.01	0.6/0.05	0.56/0.05	0.6/0.04	0.6/0.04
+Test Set validation R2	0.22	0.2	0.22	0.31	0.62	0.57	0.61	0.6
+Inner CV RMSE (mean/std)	70.65/47.21	28.18/0.15	27.72/0.13	25.88/0.4	24.25/0.44	26.53/0.15	20.28/0.49	20.19/0.39
+Outer CV RMSE (mean/std)	-282.14/714.71	-28.23/1.02	-27.68/0.98	-25.68/1.1	-20.14/1.05	-21.16/1.04	-20.1/0.78	-19.98/0.91
+Test Set validation RMSE	29.21	29.52	29.11	27.4	20.43	21.64	20.7	20.8
+Inner CV MAE (mean/std)	23.61/1.87	22.25/0.19	21.56/0.24	18.21/0.18	18.09/0.43	20.67/0.19	13.85/0.23	14.15/0.22
+Outer CV MAE (mean/std)	-31.07/25.94	-22.3/0.63	-21.52/0.58	-18.01/0.68	-13.02/0.43	-12.97/0.43	-13.7/0.4	-14.02/0.37
+Test Set validation MAE	22.35	22.94	22.29	18.99	13.15	13.25	13.97	14.37

@@ -1,0 +1,24 @@
+index	universal dataset model	metal oxide subset model	carbon-based subset model	nanotube subset model	quantum dot subset model
+boosting_type	gbdt	gbdt	gbdt	gbdt	gbdt
+class_weight					
+colsample_bytree	1.0	1.0	1.0	1.0	1.0
+importance_type	split	split	split	split	split
+learning_rate	0.16	0.1	0.0	0.1	0.15
+max_depth	-1	-1	-1	-1	-1
+min_child_samples	9	20	80	20	19
+min_child_weight	0.0	0.0	0.0	0.0	0.0
+min_split_gain	0.91	0.0	0.89	0.0	0.02
+n_estimators	86	100	180	100	273
+n_jobs	-1	-1	-1	-1	-1
+num_leaves	227	31	61	31	227
+objective					
+random_state	834	834	834	834	834
+reg_alpha	3.53	0.0	0.0	0.0	2.09
+reg_lambda	0.01	0.0	0.0	0.0	8.73
+silent	warn	warn	warn	warn	warn
+subsample	1.0	1.0	1.0	1.0	1.0
+subsample_for_bin	200000	200000	200000	200000	200000
+subsample_freq	0	0	0	0	0
+feature_fraction	0.96		0.61		0.49
+bagging_fraction	0.63		0.41		0.86
+bagging_freq	4		1		0
