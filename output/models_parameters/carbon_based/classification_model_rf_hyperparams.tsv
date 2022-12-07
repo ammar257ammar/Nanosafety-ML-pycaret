@@ -1,0 +1,20 @@
+index	parameter_value
+bootstrap	False
+ccp_alpha	0.0
+class_weight	{}
+criterion	entropy
+max_depth	4
+max_features	0.6542315743122962
+max_leaf_nodes	
+max_samples	
+min_impurity_decrease	0.4958539459863441
+min_impurity_split	
+min_samples_leaf	3
+min_samples_split	5
+min_weight_fraction_leaf	0.0
+n_estimators	193
+n_jobs	-1
+oob_score	False
+random_state	834
+verbose	0
+warm_start	False

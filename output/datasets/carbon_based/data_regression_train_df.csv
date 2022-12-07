@@ -1,0 +1,170 @@
+NP_type,Coating,core_size_nm,hydro_size_nm,Surf_charge_mV,shape,Dose_microg_mL,Duration_h,Cell_name,Cell_species,cell_Organ,Cell_morphology,Cell_age,cell_type,sex,Assay,Test_indicator,nanomaterial_group,Viability
+Graphite,None,4.0,,31.4,Sphere,100.0,2.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,99.18
+Carbon,None,22.61,,,,0.01,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,73.99
+C60,Dextran,30.0,,-16.9,Sphere,25.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,97.03
+C70,Dextran,15.0,109.1,-20.7,Sphere,10.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,NR,toluylene red,carbon,94.62
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,42.25
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,95.56
+Carbon,None,179.15,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,89.24
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,75.46
+Carbon,None,180.15,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,62.33
+Carbon,None,22.61,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,99.55
+Carbon,None,53.7,,-39.9,Sphere,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,carbon,81.88
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,82.97
+Carbon,COOH,5.9,,,,0.17,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,96.8
+Carbon,None,182.15,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,46.64
+C70,Dextran,15.0,109.1,-20.7,Sphere,40.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,Live/Dead,CalceinAM,carbon,89.02
+Carbon,None,174.15,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,100.0
+C60,None,76.0,,-36.0,Sphere,5.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,99.04
+Graphite,None,4.0,,31.4,Sphere,20.0,24.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,103.81
+Carbon,None,35.29,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,100.0
+Carbon,None,178.15,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,95.07
+C70,None,8.0,,-20.0,Sphere,20.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,57.1
+C60,None,34.64,142.0,-37.4,Sphere,100.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,72.15
+Carbon,None,22.61,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,85.65
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,96.33
+Graphite,None,4.0,,31.4,Sphere,50.0,24.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,68.72
+Carbon,None,22.61,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,100.0
+C70,Dextran,15.0,109.1,-20.7,Sphere,80.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,NR,toluylene red,carbon,83.27
+C60,None,7.0,,-25.0,Sphere,20.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,48.75
+C60,Dextran,30.0,,-16.9,Sphere,50.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,90.66
+Carbon,None,22.61,,,,0.04,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,38.12
+C60,None,125.0,,-25.3,Sphere,18.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,carbon,90.05
+C60,None,34.64,142.0,-37.4,Sphere,1.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,76.38
+C60,None,34.64,142.0,-37.4,Sphere,50.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,76.38
+C60,None,34.64,142.0,-37.4,Sphere,10.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,71.59
+C60,None,34.64,142.0,-37.4,Sphere,0.1,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,74.35
+Graphite,None,4.0,,31.4,Sphere,50.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,78.29
+C60,None,34.64,142.0,-37.4,Sphere,1.0,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,74.22
+C60,None,125.0,,-25.3,Sphere,144.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,carbon,73.06
+Diamond,None,4.0,,-35.6,Sphere,50.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,100.42
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,57.64
+C70,Dextran,15.0,109.1,-20.7,Sphere,40.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,carbon,88.15
+C60,None,34.64,142.0,-37.4,Sphere,100.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,75.8
+Carbon,None,35.29,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,86.1
+C60,Dextran,30.29,372.0,-10.1,Sphere,160.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,52.21
+C60,None,34.64,142.0,-37.4,Sphere,50.0,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,78.49
+C60,None,34.64,142.0,-37.4,Sphere,50.0,48.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,51.7
+C60,Dextran,30.29,372.0,-10.1,Sphere,20.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,77.69
+Graphite,None,4.0,,31.4,Sphere,100.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,66.81
+Carbon,None,167.15,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,97.76
+Diamond,None,4.0,,-35.6,Sphere,50.0,24.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,106.13
+Diamond,None,4.0,,-35.6,Sphere,20.0,2.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,113.14
+Carbon,None,35.29,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,86.55
+C60,None,34.64,142.0,-37.4,Sphere,0.1,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,69.9
+Carbon,None,21.0,,,Sphere,100.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,WST-1,TetrazoliumSalt,carbon,93.81
+C60,Dextran,30.0,,-16.9,Sphere,200.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,69.84
+Carbon,None,21.0,,,Sphere,50.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,WST-1,TetrazoliumSalt,carbon,95.16
+Carbon,None,21.0,,,Sphere,5.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,WST-1,TetrazoliumSalt,carbon,99.04
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,5.09
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,94.98
+C60,None,125.0,,-25.3,Sphere,7.2,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,carbon,96.12
+C60,Dextran,30.29,372.0,-10.1,Sphere,5.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,Live/Dead,CalceinAM,carbon,97.92
+Graphite,None,4.0,,31.4,Sphere,100.0,24.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,96.62
+C60,None,125.0,,-25.3,Sphere,3.6,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,carbon,100.0
+Carbon,None,35.29,,,,0.02,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,78.92
+Diamond,None,4.0,,-35.6,Sphere,100.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,102.92
+Diamond,None,4.0,,-35.6,Sphere,100.0,2.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,113.14
+Carbon,None,177.15,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,100.0
+Carbon,None,22.61,,,,0.04,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,38.12
+Graphite,None,4.0,,31.4,Sphere,20.0,2.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,89.53
+C60,None,125.0,,-25.3,Sphere,36.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,carbon,79.85
+Carbon,None,53.7,,-39.9,Sphere,800.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,carbon,40.62
+C60,Dextran,30.29,372.0,-10.1,Sphere,80.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,45.87
+C60,Dextran,30.29,372.0,-10.1,Sphere,5.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,95.39
+Diamond,None,4.0,,-35.6,Sphere,50.0,2.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,118.48
+C70,Dextran,15.0,109.1,-20.7,Sphere,40.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,NR,toluylene red,carbon,89.58
+Carbon,None,35.29,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,89.24
+C60,None,34.64,142.0,-37.4,Sphere,50.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,100.0
+C60,None,34.64,142.0,-37.4,Sphere,1.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,85.08
+Carbon,None,900.0,,,,0.0,48.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,NR,toluylene red,carbon,108.0
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,51.63
+Carbon,None,21.0,,,Sphere,75.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,WST-1,TetrazoliumSalt,carbon,94.92
+Carbon,COOH,5.9,,,,0.03,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,104.25
+C60,None,34.64,142.0,-37.4,Sphere,0.1,48.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,59.75
+C60,None,34.64,142.0,-37.4,Sphere,50.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,52.61
+Diamond,None,4.0,,-35.6,Sphere,50.0,24.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,96.09
+Carbon,None,35.29,,,,0.01,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,86.1
+C70,None,57.0,,-35.0,Sphere,20.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,96.07
+C70,Dextran,15.0,109.1,-20.7,Sphere,20.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,carbon,91.67
+Carbon,COONa,5.9,,,,0.07,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,97.95
+C70,Dextran,15.0,109.1,-20.7,Sphere,80.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,carbon,85.68
+Carbon,None,53.7,,-39.9,Sphere,400.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,carbon,56.68
+C70,Dextran,15.0,109.1,-20.7,Sphere,20.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,NR,toluylene red,carbon,92.25
+Carbon,SO3Na,5.9,,,,0.34,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,102.24
+C60,Dextran,30.29,372.0,-10.1,Sphere,40.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,70.0
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,0.05
+Carbon,None,900.0,,,,0.0,48.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,NR,toluylene red,carbon,100.0
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,8.86
+C60,None,34.64,142.0,-37.4,Sphere,10.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,80.03
+Carbon,None,21.0,,,Sphere,25.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,WST-1,TetrazoliumSalt,carbon,95.88
+C60,Dextran,30.29,372.0,-10.1,Sphere,20.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,76.97
+C60,None,34.64,142.0,-37.4,Sphere,50.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,78.62
+C60,None,7.0,,-25.0,Sphere,10.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,80.9
+C70,Dextran,15.0,109.1,-20.7,Sphere,10.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,carbon,96.02
+Carbon,None,53.7,,-39.9,Sphere,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,carbon,87.92
+Carbon,None,35.29,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,81.61
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,65.88
+Carbon,None,35.29,,,,0.02,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,73.09
+Carbon,None,22.61,,,,0.07,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,24.66
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,63.0
+Carbon,None,181.15,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,49.78
+C60,Dextran,30.29,372.0,-10.1,Sphere,200.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,Live/Dead,CalceinAM,carbon,82.89
+Carbon,COONa,5.9,,,,0.17,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,97.09
+C60,None,34.64,142.0,-37.4,Sphere,10.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,92.46
+Carbon,None,170.15,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,91.03
+Carbon,None,165.15,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,100.0
+C70,None,57.0,,-35.0,Sphere,5.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,92.9
+Carbon,None,22.61,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,94.17
+Carbon,COOH,5.9,,,,0.69,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,101.67
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,0.01
+Carbon,None,22.61,,,,0.02,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,57.85
+Carbon,None,21.0,,,Sphere,100.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,WST-1,TetrazoliumSalt,carbon,93.82
+Carbon,None,35.29,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,97.31
+C60,Dextran,30.0,,-16.9,Sphere,25.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,87.81
+Carbon,None,35.29,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,95.96
+Diamond,None,4.0,,-35.6,Sphere,20.0,24.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,100.85
+C60,None,125.0,,-25.3,Sphere,72.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,carbon,77.91
+Carbon,SO3Na,5.9,,,,0.69,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,105.68
+C60,Dextran,30.0,,-16.9,Sphere,100.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,Live/Dead,CalceinAM,carbon,87.55
+Carbon,None,22.61,,,,0.02,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,47.09
+Carbon,None,166.15,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,97.76
+Carbon,None,22.61,,,,0.01,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,73.54
+Carbon,COONa,5.9,,,,0.03,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,96.52
+Carbon,COONa,5.9,,,,0.69,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,93.08
+Diamond,None,4.0,,-35.6,Sphere,20.0,24.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,90.95
+C60,Dextran,30.0,,-16.9,Sphere,50.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,Live/Dead,CalceinAM,carbon,91.33
+C60,Dextran,30.29,372.0,-10.1,Sphere,10.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,81.35
+C60,Dextran,30.0,,-16.9,Sphere,200.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,71.34
+C60,None,76.0,,-36.0,Sphere,20.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,75.24
+Carbon,None,171.15,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,83.86
+C60,None,7.0,,-25.0,Sphere,5.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,81.86
+Carbon,COOH,5.9,,,,0.34,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,98.23
+Carbon,None,35.29,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,96.86
+Carbon,None,900.0,,,,0.0,48.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,NR,toluylene red,carbon,102.0
+C60,Dextran,30.29,372.0,-10.1,Sphere,80.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,67.31
+Carbon,None,60.0,,,,0.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,Live/Dead,CalceinAM,carbon,80.15
+Carbon,None,169.15,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,93.72
+C60,None,34.64,142.0,-37.4,Sphere,1.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,77.78
+C60,Dextran,30.29,372.0,-10.1,Sphere,5.0,24.0,C6,Rat,Brain,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,84.45
+C60,None,34.64,142.0,-37.4,Sphere,10.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,52.19
+Carbon,SO3Na,5.9,,,,0.17,24.0,Neuro­2a,Mouse,Brain,Neural,Adult,cancer,,MTT,TetrazoliumSalt,carbon,98.23
+Graphite,None,4.0,,31.4,Sphere,50.0,24.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,101.27
+Carbon,None,173.15,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,73.54
+Carbon,None,35.29,,,,0.0,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,100.0
+Carbon,None,900.0,,,,0.0,48.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,NR,toluylene red,carbon,98.0
+Carbon,None,35.29,,,,0.01,24.0,LLC­PK1,Pig,Kidney,Epithelial,neonate,Normal,male,WST-1,TetrazoliumSalt,carbon,81.17
+Carbon,None,35.29,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,92.38
+C60,Dextran,30.0,,-16.9,Sphere,200.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,Live/Dead,CalceinAM,carbon,80.95
+C60,Dextran,30.0,,-16.9,Sphere,50.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,77.48
+C60,None,34.64,142.0,-37.4,Sphere,0.1,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,74.64
+C60,Dextran,30.29,372.0,-10.1,Sphere,40.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,63.92
+Graphite,None,4.0,,31.4,Sphere,50.0,2.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,110.06
+C60,None,34.64,142.0,-37.4,Sphere,100.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,48.8
+Graphite,None,4.0,,31.4,Sphere,100.0,24.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,57.61
+C60,None,34.64,142.0,-37.4,Sphere,10.0,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,77.07
+C60,None,34.64,142.0,-37.4,Sphere,1.0,48.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,63.56
+Carbon,None,21.0,,,Sphere,25.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,WST-1,TetrazoliumSalt,carbon,97.98
+Carbon,None,22.61,,,,0.0,24.0,IP15,Human,Kidney,Spindle,Adult,Normal,male,WST-1,TetrazoliumSalt,carbon,96.86
+C60,None,76.0,,-36.0,Sphere,10.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,88.2
+Diamond,None,4.0,,-35.6,Sphere,100.0,24.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,103.09

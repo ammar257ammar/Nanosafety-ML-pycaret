@@ -1,0 +1,2 @@
+index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE
+0	Light Gradient Boosting Machine	17.1	500.1	22.36	0.44	0.68	0.93

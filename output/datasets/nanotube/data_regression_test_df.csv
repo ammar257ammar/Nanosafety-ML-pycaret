@@ -1,0 +1,136 @@
+NP_type,Coating,core_size_nm,hydro_size_nm,Surf_charge_mV,Surface_area_m2_g,shape,Dose_microg_mL,Duration_h,Cell_name,Cell_species,cell_Organ,Cell_morphology,Cell_age,cell_type,sex,Assay,Test_indicator,nanomaterial_group,Viability
+MWCNT,None,12.5,,,195.29,,100.0,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,18.79
+MWCNT,None,17.6,,0.9,,Needle,16.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,NR,toluylene red,nanotubes,102.47
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.6
+MWCNT,None,58.66,,,18.89,,31.3,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,86.35
+SWCNT,None,112.9,,12.9,,Needle,1.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,87.85
+MWCNT,None,,,-13.0,,Needle,200.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,18.05
+MWCNT,None,12.5,,,195.29,,100.0,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,26.78
+MWCNT,None,12.5,,,195.29,,100.0,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,WST-1,TetrazoliumSalt,nanotubes,26.92
+MWCNT,None,,,-13.0,,Needle,100.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,27.8
+MWCNT,None,12.5,,,195.29,,12.5,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,WST-1,TetrazoliumSalt,nanotubes,65.93
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,88.42
+MWCNT,None,41.48,,,47.22,,62.5,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,66.29
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.65
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,Live/Dead,propidium_iodide,nanotubes,87.16
+SWCNT,COOH,1.5,,-8.1,,Needle,100.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,55.46
+MWCNT,None,12.5,,,195.29,,12.5,48.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,64.87
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.68
+SWCNT,PEG_based,183.3,,-30.14,,Needle,1.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,61.42
+SWCNT,None,1.15,,-15.53,,Needle,1.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,XTT,TetrazoliumSalt,nanotubes,98.36
+MWCNT,None,12.5,,,177.57,,200.0,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,WST-1,TetrazoliumSalt,nanotubes,28.47
+Nanotubes,Tween80,25.0,,,,,0.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,54.29
+MWCNT,COOH,24.6,,-20.2,,Needle,100.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,55.63
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,NR,toluylene red,nanotubes,101.16
+MWCNT,None,28.26,,,235.78,,3.9,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,96.05
+SWCNT,None,112.9,,12.9,,Needle,10.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,77.68
+Nanotubes,Tween80,25.0,,,,,0.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,48.57
+MWCNT,None,13.6,,,254.0,,19.0,48.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,74.0
+SWCNT,None,1.15,,-15.53,,Needle,100.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,XTT,TetrazoliumSalt,nanotubes,76.89
+MWCNT,COOH,50.0,50.4,-11.0,,Needle,100.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,98.2
+MWCNT,None,12.5,,,195.29,,25.0,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,WST-1,TetrazoliumSalt,nanotubes,60.44
+MWCNT,COOH,24.6,,-20.2,,Needle,75.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,WST-1,TetrazoliumSalt,nanotubes,59.76
+MWCNT,None,5.0,,,,Needle,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.62
+MWCNT,None,12.5,,,195.29,,0.0,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,100.0
+MWCNT,None,8.0,,-6.96,,Needle,100.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,82.42
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,Live/Dead,toluylene red,nanotubes,98.37
+MWCNT,None,64.2,,,18.0,,38.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,80.0
+MWCNT,None,36.53,,,179.28,,7.8,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,69.91
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,74.65
+SWCNT,None,601.7,,-13.0,,Needle,100.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,12.09
+SWCNT,None,112.9,,12.9,,Needle,100.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,62.03
+MWCNT,None,12.5,,,195.29,,25.0,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,46.98
+MWCNT,None,10.33,292.0,-9.09,,Needle,8.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,94.48
+MWCNT,None,8.0,,-6.96,,Needle,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,99.4
+MWCNT,None,32.0,,,106.7,,20.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,89.9
+MWCNT,None,60.0,,,27.5,,10.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Alamar_Blue,AlamarBlue,nanotubes,97.24
+MWCNT,None,36.53,,,179.28,,125.0,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,11.69
+MWCNT,None,5.0,,,,Needle,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.45
+MWCNT,None,12.5,,,177.57,,25.0,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,WST-1,TetrazoliumSalt,nanotubes,32.68
+MWCNT,None,12.5,,,177.57,,200.0,48.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,WST-1,TetrazoliumSalt,nanotubes,24.27
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,Live/Dead,propidium_iodide,nanotubes,89.68
+SWCNT,None,601.7,,-13.0,,Needle,12.5,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,73.38
+MWCNT,None,60.0,,,27.5,,100.0,24.0,HBE,Human,Lung,Epidermal,Adult,Normal,,Alamar_Blue,AlamarBlue,nanotubes,69.2
+MWCNT,None,12.0,,,189.0,,190.0,48.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,60.0
+MWCNT,None,15.5,,,233.0,,150.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,88.15
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,Live/Dead,toluylene red,nanotubes,92.79
+MWCNT,None,32.0,,,106.7,,5.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,103.11
+SWCNT,None,112.9,,12.9,,Needle,100.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,64.28
+MWCNT,None,,,,,Needle,100.0,96.0,EJ28,Human,Bladder,Epithelial,Adult,cancer,female,WST-1,TetrazoliumSalt,nanotubes,44.42
+MWCNT,None,17.0,,,75.0,,57.0,48.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,92.0
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,Live/Dead,toluylene red,nanotubes,85.35
+MWCNT,None,,,-13.0,,Needle,100.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,26.48
+Nanotubes,None,18.0,,,,,0.02,96.0,EJ28,Human,Bladder,Epithelial,Adult,cancer,female,WST-1,TetrazoliumSalt,nanotubes,81.95
+MWCNT,None,58.66,,,18.89,,15.6,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,93.37
+Nanotubes,None,18.0,,,,,0.02,96.0,EJ28,Human,Bladder,Epithelial,Adult,cancer,female,WST-1,TetrazoliumSalt,nanotubes,78.81
+MWCNT,None,46.02,,,139.84,,3.9,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,86.99
+MWCNT,None,15.5,,,233.0,,125.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,30.12
+MWCNT,None,,,,,Needle,100.0,96.0,EJ28,Human,Bladder,Epithelial,Adult,cancer,female,WST-1,TetrazoliumSalt,nanotubes,68.57
+MWCNT,None,32.0,,,106.7,,100.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,64.17
+SWCNT,None,9.0,,12.9,,Needle,1.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,42.17
+MWCNT,None,47.87,,,243.38,,0.0,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,100.0
+SWCNT,None,112.9,,12.9,,Needle,100.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,72.46
+MWCNT,COOH,24.6,,-20.2,,Needle,75.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,59.75
+MWCNT,None,64.2,,,18.0,,57.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,59.0
+MWCNT,None,74.0,,,22.0,,0.0,4.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,100.0
+Nanotubes,Tween80,25.0,,,,,0.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,51.43
+MWCNT,None,17.4,190.6,-18.9,,Needle,8.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,89.59
+MWCNT,None,12.5,,,195.29,,50.0,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,15.03
+MWCNT,None,15.5,,,233.0,,10.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,92.97
+MWCNT,None,12.5,,,177.57,,0.0,48.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,LDH,LDHrelease,nanotubes,100.0
+MWCNT,None,5.0,,,,Needle,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.15
+MWCNT,COOH,216.44,,-5.56,,Needle,128.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,46.74
+MWCNT,COOH,24.6,,-20.2,,Needle,25.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,WST-1,TetrazoliumSalt,nanotubes,91.12
+SWCNT,None,9.0,,12.9,,Needle,50.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,45.98
+MWCNT,None,15.5,,,233.0,,100.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,39.56
+MWCNT,None,12.5,,,195.29,,200.0,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,10.34
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,Live/Dead,toluylene red,nanotubes,99.77
+MWCNT,None,5.0,,,,Needle,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.51
+MWCNT,None,56.24,,,36.15,,3.9,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,92.35
+MWCNT,None,15.5,,,233.0,,100.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,90.35
+MWCNT,None,12.5,,,177.57,,12.5,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,WST-1,TetrazoliumSalt,nanotubes,62.07
+MWCNT,None,58.66,,,18.89,,3.9,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,92.47
+SWCNT,None,9.0,,12.9,,Needle,50.0,48.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,50.28
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.9
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.72
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,NR,toluylene red,nanotubes,96.63
+MWCNT,COOH,50.0,,-11.0,,Needle,200.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,79.39
+MWCNT,COOH,50.0,50.4,-11.0,,Needle,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,96.41
+MWCNT,None,17.0,,,75.0,,0.0,48.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,100.0
+MWCNT,COOH,8.0,,-9.64,,Needle,50.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,95.15
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.35
+MWCNT,None,74.0,,,22.0,,190.0,4.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,70.0
+Nanotubes,None,18.0,,,,,0.02,96.0,EJ28,Human,Bladder,Epithelial,Adult,cancer,female,WST-1,TetrazoliumSalt,nanotubes,50.38
+MWCNT,None,8.0,,-6.96,,Needle,200.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,87.73
+MWCNT,None,64.2,,,18.0,,38.0,4.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,101.0
+MWCNT,None,,,,,Needle,50.0,48.0,UM­UC­3,Human,Urinary bladder,Epithelial,Adult,cancer,male,CytoTox-Glo,Dead-Cell-Protease,nanotubes,75.42
+MWCNT,None,12.5,,,195.29,,50.0,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,LDH,LDHrelease,nanotubes,78.26
+MWCNT,None,12.5,,,177.57,,12.5,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,10.47
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.64
+MWCNT,None,21.55,183.23,-14.74,,Needle,64.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,78.71
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,NR,toluylene red,nanotubes,104.88
+Nanotubes,None,68.0,,,,,0.0,96.0,HMM,Human,Blood,Monocyte/Macrophage,Adult,Normal,,NR,toluylene red,nanotubes,92.21
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.5
+SWCNT,None,601.7,,-13.0,,Needle,200.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,2.45
+MWCNT,None,12.0,,,189.0,,19.0,48.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,111.0
+MWCNT,None,12.5,,,177.57,,50.0,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,2.82
+MWCNT,None,17.4,,-18.9,,Needle,2.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,NR,toluylene red,nanotubes,100.46
+MWCNT,None,5.0,,,,Needle,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,nanotubes,0.69
+MWCNT,None,12.5,,,195.29,,200.0,48.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,15.4
+SWCNT,None,16.4,,-9.72,,Needle,200.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,87.13
+Nanotubes,None,11.0,,,,,0.05,48.0,UM­UC­3,Human,Urinary bladder,Epithelial,Adult,cancer,male,WST-1,TetrazoliumSalt,nanotubes,94.03
+MWCNT,None,17.0,,,75.0,,190.0,4.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,80.0
+MWCNT,None,32.0,,,106.7,,10.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,103.0
+MWCNT,None,47.87,,,243.38,,62.5,48.0,16HBE14,Human,Heart,Epithelial,Young,Normal,male,CellTiter_Glo,luciferase,nanotubes,75.82
+MWCNT,None,12.5,,,177.57,,0.0,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,100.0
+MWCNT,None,12.5,,,195.29,,0.0,48.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,LDH,LDHrelease,nanotubes,100.0
+MWCNT,None,10.33,292.0,-9.09,,Needle,4.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,94.48
+MWCNT,None,17.0,,,75.0,,0.0,4.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,Trypan_Blue,Trypan_Blue,nanotubes,100.0
+SWCNT,None,112.9,,12.9,,Needle,1.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,66.38
+MWCNT,None,32.0,,,106.7,,40.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,87.6
+MWCNT,None,38.8,179.13,-16.84,,Needle,16.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,95.43
+MWCNT,None,17.6,,0.9,,Needle,4.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,NR,toluylene red,nanotubes,104.63
+MWCNT,None,12.5,,,177.57,,50.0,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,LDH,LDHrelease,nanotubes,69.06
+SWCNT,None,9.0,,12.9,,Needle,100.0,48.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,48.31
+MWCNT,None,25.0,,-9.78,,Needle,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,100.3
+MWCNT,None,12.5,,,195.29,,12.5,72.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Trypan_Blue,Trypan_Blue,nanotubes,27.25

@@ -1,0 +1,2 @@
+index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE
+0	Support Vector Regression	16.46	597.78	24.45	0.38	0.68	4.42

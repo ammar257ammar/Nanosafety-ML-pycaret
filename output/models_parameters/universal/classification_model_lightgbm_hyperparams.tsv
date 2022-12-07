@@ -1,0 +1,24 @@
+index	parameter_value
+boosting_type	gbdt
+class_weight	
+colsample_bytree	1.0
+importance_type	split
+learning_rate	0.1564753010297142
+max_depth	-1
+min_child_samples	9
+min_child_weight	0.001
+min_split_gain	0.9096981909518245
+n_estimators	86
+n_jobs	-1
+num_leaves	227
+objective	
+random_state	834
+reg_alpha	3.527042251277355e-06
+reg_lambda	0.012050978949079394
+silent	warn
+subsample	1.0
+subsample_for_bin	200000
+subsample_freq	0
+feature_fraction	0.9604822404977342
+bagging_fraction	0.6291910427818465
+bagging_freq	4

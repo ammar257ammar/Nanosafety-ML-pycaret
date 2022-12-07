@@ -1,0 +1,2 @@
+index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE
+0	Linear Regression	22.35	853.33	29.21	0.22	0.78	2.55

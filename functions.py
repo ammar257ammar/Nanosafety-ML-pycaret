@@ -183,3 +183,13 @@ def quantile_discretize(df, y):
     df[y+'_discrete'] = pd.qcut(df[y], q=5)
 
     return df
+
+def round_float(s):
+
+    import re
+    m = re.match("(\d+\.\d+)",s.__str__())
+    try:
+        r = round(float(m.groups(0)[0]),2)
+    except:
+        r = s
+    return r

@@ -1,0 +1,16 @@
+index	parameter_value
+C	0.27919938735839644
+class_weight	{}
+dual	False
+fit_intercept	True
+intercept_scaling	1
+l1_ratio	
+max_iter	1000
+multi_class	auto
+n_jobs	
+penalty	l2
+random_state	834
+solver	lbfgs
+tol	0.0001
+verbose	0
+warm_start	False

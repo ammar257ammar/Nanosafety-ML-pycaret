@@ -1,0 +1,9 @@
+index	parameter_value
+alpha	1.0
+copy_X	True
+fit_intercept	True
+max_iter	
+normalize	False
+random_state	834
+solver	auto
+tol	0.001

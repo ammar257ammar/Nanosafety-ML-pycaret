@@ -1,0 +1,2 @@
+index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE
+0	Lasso Regression	22.94	871.14	29.52	0.2	0.79	2.7

@@ -1,0 +1,2 @@
+index	Model	Accuracy	AUC	Recall	Prec.	F1	Kappa	MCC
+0	Gradient Boosting Classifier	0.9	0.95	0.75	0.75	0.75	0.69	0.69

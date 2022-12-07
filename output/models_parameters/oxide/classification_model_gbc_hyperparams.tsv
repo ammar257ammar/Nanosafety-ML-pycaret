@@ -1,0 +1,23 @@
+index	parameter_value
+ccp_alpha	0.0
+criterion	friedman_mse
+init	
+learning_rate	0.05385314353584033
+loss	deviance
+max_depth	11
+max_features	0.7205263312618156
+max_leaf_nodes	
+min_impurity_decrease	5.149311357297934e-07
+min_impurity_split	
+min_samples_leaf	2
+min_samples_split	8
+min_weight_fraction_leaf	0.0
+n_estimators	228
+n_iter_no_change	
+presort	deprecated
+random_state	834
+subsample	0.8240637273445981
+tol	0.0001
+validation_fraction	0.1
+verbose	0
+warm_start	False
