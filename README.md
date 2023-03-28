@@ -1,6 +1,6 @@
 # Exploratory Quantitative Structure Activity Relationships (QSAR) machine learning modeling targeting cellular viability
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ammar257ammar/Nanosafety-cell-viability-pycaret) ![GitHub top language](https://img.shields.io/github/languages/top/ammar257ammar/Nanosafety-cell-viability-pycaret) ![GitHub](https://img.shields.io/github/license/ammar257ammar/Nanosafety-cell-viability-pycaret)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ammar257ammar/Nanosafety-cell-viability-pycaret) ![GitHub top language](https://img.shields.io/github/languages/top/ammar257ammar/Nanosafety-cell-viability-pycaret) ![GitHub](https://img.shields.io/github/license/ammar257ammar/Nanosafety-cell-viability-pycaret) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7778039.svg)](https://doi.org/10.5281/zenodo.7778039)
 
 
 ## This work is part of the study titled: A data reusability assessment in the nanosafety domain based on the NSDRA framework followed by an exploratory Quantitative Structure Activity Relationships (QSAR) modeling targeting cellular viability. 
