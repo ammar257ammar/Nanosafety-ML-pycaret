@@ -1,2 +1,2 @@
 index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE
-0	Extra Trees Regressor	13.25	468.13	21.64	0.57	0.57	1.05
+0	Extra Trees Regressor	7.79	157.26	12.54	0.85	0.37	0.56

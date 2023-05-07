@@ -1,7 +1,7 @@
 index	parameter_value
-alpha	0.43211884783644994
+alpha	0.5529451653519443
 copy_X	True
-fit_intercept	True
+fit_intercept	False
 max_iter	
 normalize	False
 random_state	834

@@ -1,12 +1,12 @@
 index	parameter_value
-alpha	7.744835132282434e-07
+alpha	0.0001
 average	False
 class_weight	
 early_stopping	False
 epsilon	0.1
-eta0	0.015240800745469386
-fit_intercept	False
-l1_ratio	0.4004353530338397
+eta0	0.001
+fit_intercept	True
+l1_ratio	0.15
 learning_rate	optimal
 loss	hinge
 max_iter	1000

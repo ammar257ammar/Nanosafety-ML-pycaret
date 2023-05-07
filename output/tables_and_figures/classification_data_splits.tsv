@@ -1,4 +1,4 @@
-	universal	oxide	carbon_based	nanotube	quantum_dot
-Total number of instances	11315	4082	212	675	3013
-Number of training instances	9052	3265	169	540	2410
-Number of test instances	2263	817	43	135	603
+	universal	oxide	nanotube
+Total number of instances	4656	2544	207
+Number of training instances	3724	2035	165
+Number of test instances	932	509	42

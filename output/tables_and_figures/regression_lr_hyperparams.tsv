@@ -1,5 +1,5 @@
-index	universal dataset model	metal oxide subset model	carbon-based subset model	nanotube subset model	quantum dot subset model
-copy_X	True	True	True	True	True
-fit_intercept	False	True	False	False	False
-n_jobs	-1	-1	-1	-1	-1
-normalize	False	False	False	False	True
+index	universal dataset model	metal oxide subset model	nanotube subset model
+copy_X	True	True	True
+fit_intercept	False	True	True
+n_jobs	-1	-1	-1
+normalize	True	False	False

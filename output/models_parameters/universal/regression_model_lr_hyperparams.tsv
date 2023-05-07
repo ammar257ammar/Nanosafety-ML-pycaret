@@ -2,4 +2,4 @@ index	parameter_value
 copy_X	True
 fit_intercept	False
 n_jobs	-1
-normalize	False
+normalize	True

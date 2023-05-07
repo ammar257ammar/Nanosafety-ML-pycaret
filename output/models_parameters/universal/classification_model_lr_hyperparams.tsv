@@ -1,6 +1,6 @@
 index	parameter_value
-C	3.5638880521026017
-class_weight	{}
+C	6.848590074753428
+class_weight	balanced
 dual	False
 fit_intercept	True
 intercept_scaling	1

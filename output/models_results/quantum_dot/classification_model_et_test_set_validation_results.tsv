@@ -1,2 +1,0 @@
-index	Model	Accuracy	AUC	Recall	Prec.	F1	Kappa	MCC
-0	Extra Trees Classifier	0.79	0.79	0.56	0.61	0.59	0.45	0.45

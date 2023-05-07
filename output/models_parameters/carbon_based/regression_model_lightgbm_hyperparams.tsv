@@ -3,22 +3,22 @@ boosting_type	gbdt
 class_weight	
 colsample_bytree	1.0
 importance_type	split
-learning_rate	0.04607789245692106
+learning_rate	0.19144556536338872
 max_depth	-1
-min_child_samples	2
+min_child_samples	10
 min_child_weight	0.001
-min_split_gain	0.17430894721568402
-n_estimators	211
+min_split_gain	0.593233772927078
+n_estimators	244
 n_jobs	-1
-num_leaves	52
+num_leaves	84
 objective	
 random_state	834
-reg_alpha	0.0012240535133299431
-reg_lambda	2.598297388219329e-05
+reg_alpha	1.4492413972771476e-07
+reg_lambda	0.7502719711258973
 silent	warn
 subsample	1.0
 subsample_for_bin	200000
 subsample_freq	0
-feature_fraction	0.9534138549468945
-bagging_fraction	0.9658587918169301
-bagging_freq	7
+feature_fraction	0.6490053912045948
+bagging_fraction	0.5878732008719765
+bagging_freq	1

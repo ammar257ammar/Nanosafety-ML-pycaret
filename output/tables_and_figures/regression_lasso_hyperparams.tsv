@@ -1,12 +1,12 @@
-index	universal dataset model	metal oxide subset model	carbon-based subset model	nanotube subset model	quantum dot subset model
-alpha	0.04	0.24	0.14	0.07	0.06
-copy_X	True	True	True	True	True
-fit_intercept	False	False	True	True	True
-max_iter	1000	1000	1000	1000	1000
-normalize	True	False	False	True	False
-positive	False	False	False	False	False
-precompute	False	False	False	False	False
-random_state	834	834	834	834	834
-selection	cyclic	cyclic	cyclic	cyclic	cyclic
-tol	0.0	0.0	0.0	0.0	0.0
-warm_start	False	False	False	False	False
+index	universal dataset model	metal oxide subset model	nanotube subset model
+alpha	0.01	0.19	0.06
+copy_X	True	True	True
+fit_intercept	False	True	True
+max_iter	1000	1000	1000
+normalize	True	False	False
+positive	False	False	False
+precompute	False	False	False
+random_state	834	834	834
+selection	cyclic	cyclic	cyclic
+tol	0.0	0.0	0.0
+warm_start	False	False	False

@@ -1,24 +1,24 @@
-index	universal dataset model	metal oxide subset model	carbon-based subset model	nanotube subset model	quantum dot subset model
-alpha	0.9	0.9	0.9	0.9	0.9
-ccp_alpha	0.0	0.0	0.0	0.0	0.0
-criterion	friedman_mse	friedman_mse	friedman_mse	friedman_mse	friedman_mse
-init					
-learning_rate	0.09	0.1	0.02	0.06	0.02
-loss	ls	ls	ls	ls	ls
-max_depth	11	10	11	11	11
-max_features	0.84	0.69	0.68	0.44	0.96
-max_leaf_nodes					
-min_impurity_decrease	4.78	4.12	0.0	0.02	8.16
-min_impurity_split					
-min_samples_leaf	3	2	1	5	4
-min_samples_split	7	4	3	5	5
-min_weight_fraction_leaf	0.0	0.0	0.0	0.0	0.0
-n_estimators	215	141	297	235	220
-n_iter_no_change					
-presort	deprecated	deprecated	deprecated	deprecated	deprecated
-random_state	834	834	834	834	834
-subsample	0.4	0.99	0.96	0.74	0.89
-tol	0.0	0.0	0.0	0.0	0.0
-validation_fraction	0.1	0.1	0.1	0.1	0.1
-verbose	0	0	0	0	0
-warm_start	False	False	False	False	False
+index	universal dataset model	metal oxide subset model	nanotube subset model
+alpha	0.9	0.9	0.9
+ccp_alpha	0.0	0.0	0.0
+criterion	friedman_mse	friedman_mse	friedman_mse
+init			
+learning_rate	0.21	0.23	0.26
+loss	ls	ls	ls
+max_depth	9	9	7
+max_features	0.62	0.86	0.98
+max_leaf_nodes			
+min_impurity_decrease	0.07	2.07	1.11
+min_impurity_split			
+min_samples_leaf	3	5	5
+min_samples_split	5	8	3
+min_weight_fraction_leaf	0.0	0.0	0.0
+n_estimators	297	295	146
+n_iter_no_change			
+presort	deprecated	deprecated	deprecated
+random_state	834	834	834
+subsample	0.97	0.9	0.96
+tol	0.0	0.0	0.0
+validation_fraction	0.1	0.1	0.1
+verbose	0	0	0
+warm_start	False	False	False

@@ -1,16 +1,16 @@
-index	universal dataset model	metal oxide subset model	carbon-based subset model	nanotube subset model	quantum dot subset model
-C	3.56	9.78	2.77	6.34	0.28
-class_weight	{}	balanced	{}	{}	{}
-dual	False	False	False	False	False
-fit_intercept	True	True	True	True	True
-intercept_scaling	1	1	1	1	1
-l1_ratio					
-max_iter	1000	1000	1000	1000	1000
-multi_class	auto	auto	auto	auto	auto
-n_jobs					
-penalty	l2	l2	l2	l2	l2
-random_state	834	834	834	834	834
-solver	lbfgs	lbfgs	lbfgs	lbfgs	lbfgs
-tol	0.0	0.0	0.0	0.0	0.0
-verbose	0	0	0	0	0
-warm_start	False	False	False	False	False
+index	universal dataset model	metal oxide subset model	nanotube subset model
+C	6.85	5.38	2.63
+class_weight	balanced	balanced	{}
+dual	False	False	False
+fit_intercept	True	True	True
+intercept_scaling	1	1	1
+l1_ratio			
+max_iter	1000	1000	1000
+multi_class	auto	auto	auto
+n_jobs			
+penalty	l2	l2	l2
+random_state	834	834	834
+solver	lbfgs	lbfgs	lbfgs
+tol	0.0	0.0	0.0
+verbose	0	0	0
+warm_start	False	False	False

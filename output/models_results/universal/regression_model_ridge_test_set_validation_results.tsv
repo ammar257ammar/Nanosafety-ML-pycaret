@@ -1,2 +1,2 @@
 index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE
-0	Ridge Regression	22.29	847.34	29.11	0.22	0.78	2.56
+0	Ridge Regression	18.2	579.11	24.06	0.45	0.73	1.98

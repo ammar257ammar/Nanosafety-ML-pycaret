@@ -3,21 +3,21 @@ alpha	0.9
 ccp_alpha	0.0
 criterion	friedman_mse
 init	
-learning_rate	0.05812875928508907
+learning_rate	0.2592461470928692
 loss	ls
-max_depth	11
-max_features	0.43977240644477256
+max_depth	7
+max_features	0.9764645030052908
 max_leaf_nodes	
-min_impurity_decrease	0.015028504822967866
+min_impurity_decrease	1.108712969273419e-09
 min_impurity_split	
 min_samples_leaf	5
-min_samples_split	5
+min_samples_split	3
 min_weight_fraction_leaf	0.0
-n_estimators	235
+n_estimators	146
 n_iter_no_change	
 presort	deprecated
 random_state	834
-subsample	0.7373220177206798
+subsample	0.9596425965022982
 tol	0.0001
 validation_fraction	0.1
 verbose	0

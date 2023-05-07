@@ -1,9 +1,9 @@
-index	universal dataset model	metal oxide subset model	carbon-based subset model	nanotube subset model	quantum dot subset model
-alpha	1.0	1.0	0.15	0.43	1.0
-copy_X	True	True	True	True	True
-fit_intercept	True	True	True	True	True
-max_iter					
-normalize	False	False	True	False	False
-random_state	834	834	834	834	834
-solver	auto	auto	auto	auto	auto
-tol	0.0	0.0	0.0	0.0	0.0
+index	universal dataset model	metal oxide subset model	nanotube subset model
+alpha	1.75	2.24	0.55
+copy_X	True	True	True
+fit_intercept	True	True	False
+max_iter			
+normalize	False	False	False
+random_state	834	834	834
+solver	auto	auto	auto
+tol	0.0	0.0	0.0

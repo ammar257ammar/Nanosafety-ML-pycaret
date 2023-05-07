@@ -162,6 +162,8 @@ def canonicalize_dataset(df):
 
         df.insert(len(df.columns)-2, 'nanomaterial_group', df.pop('nanomaterial_group'))
 
+        #df = df.dropna(subset=['hydro_size_nm', 'Surf_charge_mV', 'Surface_area_m2_g', 'shape'], thresh=2)
+
         print("\nFinal column types: \n")
         print(df.dtypes)
 

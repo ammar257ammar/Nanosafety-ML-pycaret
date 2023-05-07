@@ -1,2 +1,0 @@
-index	Model	Accuracy	AUC	Recall	Prec.	F1	Kappa	MCC
-0	K Neighbors Classifier	0.79	0.76	0.56	0.6	0.58	0.44	0.44

@@ -1,2 +1,2 @@
 index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE
-0	Gradient Boosting Regressor	10.35	293.75	17.14	0.7	0.51	2.51
+0	Gradient Boosting Regressor	8.05	210.51	14.51	0.78	0.36	0.78

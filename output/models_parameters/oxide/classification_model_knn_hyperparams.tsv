@@ -1,9 +1,9 @@
 index	parameter_value
 algorithm	auto
 leaf_size	30
-metric	manhattan
+metric	minkowski
 metric_params	
 n_jobs	-1
-n_neighbors	2
+n_neighbors	1
 p	2
-weights	distance
+weights	uniform
