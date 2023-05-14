@@ -1,9 +1,9 @@
 index	parameter_value
-C	9.341668725130045
+C	9.74433890807444
 cache_size	200
 coef0	0.0
 degree	3
-epsilon	1.0199447817502665
+epsilon	1.0477875860340589
 gamma	scale
 kernel	rbf
 max_iter	-1

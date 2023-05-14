@@ -1,12 +1,12 @@
 index	universal dataset model	metal oxide subset model	nanotube subset model
-C	9.79	10.0	10.0
+C	9.99	9.95	10.0
 cache_size	200	200	200
 coef0	0.0	0.0	0.0
 degree	3	3	3
-epsilon	1.16	1.03	1.65
+epsilon	1.03	1.86	1.1
 gamma	scale	scale	scale
 kernel	rbf	rbf	rbf
 max_iter	-1	-1	-1
-shrinking	True	False	False
+shrinking	True	True	False
 tol	0.0	0.0	0.0
 verbose	False	False	False

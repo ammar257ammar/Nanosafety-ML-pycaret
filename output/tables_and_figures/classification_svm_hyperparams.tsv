@@ -1,20 +1,20 @@
 index	universal dataset model	metal oxide subset model	nanotube subset model
-alpha	1.91	0.0	0.0
+alpha	0.0	3.29	9.83
 average	False	False	False
 class_weight			
 early_stopping	False	False	False
 epsilon	0.1	0.1	0.1
-eta0	0.09	0.0	0.26
-fit_intercept	False	True	True
-l1_ratio	0.97	0.15	0.76
-learning_rate	adaptive	optimal	optimal
+eta0	0.0	0.36	0.01
+fit_intercept	True	False	False
+l1_ratio	0.15	0.06	0.14
+learning_rate	optimal	optimal	optimal
 loss	hinge	hinge	hinge
 max_iter	1000	1000	1000
 n_iter_no_change	5	5	5
 n_jobs	-1	-1	-1
-penalty	elasticnet	l2	l1
+penalty	l2	l2	elasticnet
 power_t	0.5	0.5	0.5
-random_state	834	834	834
+random_state	123456	123456	123456
 shuffle	True	True	True
 tol	0.0	0.0	0.0
 validation_fraction	0.1	0.1	0.1

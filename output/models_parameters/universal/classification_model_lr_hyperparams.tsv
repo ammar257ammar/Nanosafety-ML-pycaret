@@ -1,5 +1,5 @@
 index	parameter_value
-C	6.848590074753428
+C	9.66546905121421
 class_weight	balanced
 dual	False
 fit_intercept	True
@@ -9,7 +9,7 @@ max_iter	1000
 multi_class	auto
 n_jobs	
 penalty	l2
-random_state	834
+random_state	123456
 solver	lbfgs
 tol	0.0001
 verbose	0

@@ -12,8 +12,10 @@ command.log
 config/*
 models/*
 bkp/*
+other/*
 analysis.ipynb
 analysis_test.ipynb
 analysis - Copy.ipynb
 analysis - Copy - recent.ipynb
 9999-classification-compare-models.ipynb
+01-exploratory-analysis-test.ipynb

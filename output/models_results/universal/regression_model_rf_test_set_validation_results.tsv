@@ -1,2 +1,2 @@
 index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE
-0	Random Forest Regressor	8.55	175.87	13.26	0.83	0.45	0.84
+0	Random Forest Regressor	8.3	169.15	13.01	0.84	0.44	0.84

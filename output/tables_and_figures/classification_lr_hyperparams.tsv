@@ -1,5 +1,5 @@
 index	universal dataset model	metal oxide subset model	nanotube subset model
-C	6.85	5.38	2.63
+C	9.67	9.98	2.95
 class_weight	balanced	balanced	{}
 dual	False	False	False
 fit_intercept	True	True	True
@@ -9,7 +9,7 @@ max_iter	1000	1000	1000
 multi_class	auto	auto	auto
 n_jobs			
 penalty	l2	l2	l2
-random_state	834	834	834
+random_state	123456	123456	123456
 solver	lbfgs	lbfgs	lbfgs
 tol	0.0	0.0	0.0
 verbose	0	0	0

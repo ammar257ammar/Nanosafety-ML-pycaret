@@ -1,0 +1,10 @@
+	carbon_based regression lr	carbon_based regression lasso	carbon_based regression ridge	carbon_based regression svm	carbon_based regression rf	carbon_based regression et	carbon_based regression gbr	carbon_based regression lightgbm
+Inner CV R2 (mean/std)	0.61/0.11	0.66/0.1	0.66/0.1	0.58/0.12	0.76/0.08	0.74/0.07	0.78/0.07	0.8/0.07
+Outer CV R2 (mean/std)	0.58/0.21	0.63/0.2	0.62/0.21	0.54/0.21	0.74/0.24	0.74/0.2	0.78/0.2	0.77/0.18
+Test Set validation R2	0.58	0.59	0.59	0.56	0.64	0.67	0.71	0.66
+Inner CV RMSE (mean/std)	9.78/1.58	9.29/2.16	9.35/2.14	10.57/3.16	7.98/2.5	8.12/1.73	7.45/2.23	7.31/2.28
+Outer CV RMSE (mean/std)	9.7/2.07	9.07/1.58	9.18/1.63	10.39/2.26	7.03/2.75	7.29/2.43	6.45/2.58	6.94/2.29
+Test Set validation RMSE	10.96	10.78	10.8	11.23	10.17	9.69	9.12	9.94
+Inner CV MAE (mean/std)	7.96/1.62	7.53/2.02	7.62/1.93	7.97/2.35	6.4/1.97	6.33/1.43	5.84/1.69	5.72/1.83
+Outer CV MAE (mean/std)	8.01/1.84	7.21/1.51	7.32/1.47	7.84/1.27	5.55/2.25	5.6/1.86	5.04/1.94	5.48/1.72
+Test Set validation MAE	8.02	7.73	7.82	7.89	6.89	6.71	6.35	7.42

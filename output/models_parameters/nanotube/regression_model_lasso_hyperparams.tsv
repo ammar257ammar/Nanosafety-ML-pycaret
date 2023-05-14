@@ -1,12 +1,12 @@
 index	parameter_value
-alpha	0.05603809646859226
+alpha	0.21266339142053622
 copy_X	True
-fit_intercept	True
+fit_intercept	False
 max_iter	1000
-normalize	False
+normalize	True
 positive	False
 precompute	False
-random_state	834
+random_state	123456
 selection	cyclic
 tol	0.0001
 warm_start	False

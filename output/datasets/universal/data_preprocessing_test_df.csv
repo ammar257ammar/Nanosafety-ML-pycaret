@@ -1,746 +1,746 @@
 NP_type,Coating,core_size_nm,hydro_size_nm,Surf_charge_mV,Surface_area_m2_g,shape,Dose_microg_mL,Duration_h,Cell_name,Cell_species,cell_Organ,Cell_morphology,Cell_age,cell_type,sex,Assay,Test_indicator,nanomaterial_group,Viability
-SiO2,None,,,-28.0,,Sphere,200.0,48.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,101.59
-SiO2,None,15.0,,-59.7,,Sphere,80.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CCK_8,TetrazoliumSalt,meta_oxide,7.68
-Ag,None,14.3,,-17.2,,Sphere,2.5,48.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,Alamar_Blue,AlamarBlue,other,77.05
-Cr2O3,None,193.0,416.3,-5.62,,Rhombohedral,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,94.85
-Ag,None,28.41,66.0,-33.33,,,0.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,33.38
-Pt,PVP,13.5,,-8.0,,Sphere,50.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,91.47
-TiO2,None,35.0,1814.0,-35.5,66.0,,25.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,76.72
-La2O3,None,45.6,672.9,-12.8,,,500.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,27.6
-Ag,None,,,-2.09,,Wire,5.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,MTS,TetrazoliumSalt,other,97.73
-PLGA,PEG_based,30.0,,-24.09,,Needle,50.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,76.63
-SWCNT,None,601.7,,-13.0,,Needle,100.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,45.3
-PLGA,PEG_based,30.0,,-24.09,,Needle,250.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,55.91
-TiO2,None,124.9,171.0,-17.6,,,0.0,6.0,A431,Human,Skin,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,95.24
-Pt,PVP,13.5,,-8.0,,Sphere,100.0,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,89.49
-ZnO,None,32.0,1093.0,21.6,37.0,,6.25,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,79.42
-Ag,None,29.57,,-27.0,,Sphere,80.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,1.66
-IronOxide,silica_based,420.7,,-17.65,,Sphere,5.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,88.63
-TiO2,None,25.0,504.5,-10.7,210.0,,100.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,142.22
-ZnO,None,32.0,1093.0,21.6,37.0,,3.13,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,80.66
-Polystyrene,NH2,100.0,,25.0,,Sphere,50.0,48.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,CCK_8,TetrazoliumSalt,other,3.07
-SLN,DDAB,134.2,,28.2,,Sphere,330.0,24.0,SV-80,Human,Lung,Fibroblast,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,80.71
-MgO,None,39.2,,11.6,,Sphere,50.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,72.13
-Ag,Cystein_based,8.0,,-56.9,,Sphere,100.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,18.52
-ZnO,None,45.3,310.0,32.7,21.3,,10.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,75.32
-MgO,None,,,-7.21,,Hexagon,600.0,24.0,VERO,Monkey,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,62.54
-IronOxide,PEG_based,18.0,120.0,,,Sphere,500.0,24.0,MDCK,Dog,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,34.92
-MWCNT,None,,,-13.0,,Needle,25.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,47.83
-Chitosan,None,,,63.2,,Sphere,750.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,77.01
-IronOxide,Chitosan,8.0,,11.0,,Sphere,0.5,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,90.71
-Ni2O3,None,140.6,339.5,32.2,,,25.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,83.3
-SLN,DDAB,134.2,,28.2,,Sphere,660.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,other,51.91
-Dendrimer,None,40.4,,25.25,,Sphere,100.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,11.56
-SWCNT,None,601.7,,-13.0,,Needle,200.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,0.14
-CuO,None,52.51,,-39.67,,Sphere,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,NR,toluylene red,meta_oxide,46.0
-SiO2,Digestive enzymes,12.0,96.0,-11.0,,,0.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Live/Dead,Annexin V,meta_oxide,100.0
-Pt,PVP,13.5,,-8.0,,Sphere,100.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,77.96
-Ag,Citrate_based,50.0,,-20.0,,Sphere,50.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,67.1
-PTFE-PMMA,None,851.05,,-5.25,,Irregular,10.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,99.93
-Polystyrene,COOH,94.06,,-29.9,,Sphere,100.0,24.0,AT2,Human,Lung,Epithelial,,Normal,,MTT,TetrazoliumSalt,other,94.57
-TiO2,None,10.0,1457.0,-11.0,,,0.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,100.0
-TiO2,None,6.0,780.0,,,Sphere,10.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,94.42
-SiO2,None,214.0,440.0,79.0,,,0.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,Vialight,luciferase,meta_oxide,123.64
-IronOxide,PEG_based,35.8,,-0.52,,Sphere,3.12,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTS,TetrazoliumSalt,meta_oxide,98.33
-TiO2,None,24.59,172.0,-14.25,,Sphere,10.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,64.7
-TiO2,None,30.0,1843.0,-30.8,69.0,,25.0,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,111.75
-SiO2,None,59.72,,-38.1,,Sphere,200.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,54.71
-IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,200.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,96.04
-SiO2,None,13.0,100.0,-27.0,,,54.47,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,XTT,TetrazoliumSalt,meta_oxide,82.71
-CoO,None,71.8,408.6,28.67,,Cubic,6.2,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,86.08
-Au,None,90.0,107.85,,,Sphere,5.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,85.91
-Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,50.0,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,64.37
-SiO2,NH2,289.56,,21.7,,Sphere,15.6,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,111.3
-Ag,None,28.41,66.0,-33.33,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,67.15
-TiO2,None,25.0,228.3,-10.7,40.0,,150.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,108.55
-Graphite,None,4.0,,31.4,,Sphere,50.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,78.29
-Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,38.76
-SiO2,None,120.0,232.2,-5.21,,Sphere,100.0,96.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,86.89
-C60,Dextran,30.29,372.0,-10.1,,Sphere,80.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,67.31
-Ag,None,29.57,,-27.0,,Sphere,40.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,7.7
-Al2O3,None,39.7,,36.3,,Sphere,20.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,94.72
-ZnO,None,100.0,273.4,-11.7,20.0,,0.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,100.27
-ZnO,None,100.0,273.4,-11.7,20.0,,30.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,60.07
-Fe2O3,None,12.3,297.2,-3.87,,Rhombohedral,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.92
-SiO2,CTAB,90.0,386.9,-35.9,,,0.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,94.04
-MWCNT,None,,,-13.0,,Needle,100.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,23.53
-TiO2,None,193.0,,-11.2,,Sphere,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,91.52
-C70,None,8.0,,-20.0,,Sphere,5.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,81.0
-Ag,Citrate_based,50.0,,-20.0,,Sphere,100.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,59.13
-Co3O4,None,10.0,222.7,24.6,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
-Ni2O3,None,140.6,339.5,32.2,,,50.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,53.0
-Sb2O3,None,150.0,640.3,-13.3,,,500.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,67.9
-SiO2,None,120.0,,-5.21,,Sphere,500.0,96.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,83.33
-CuO,None,12.8,305.3,7.6,,,6.3,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,82.0
-Co3O4,None,10.0,222.7,24.6,,,25.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,90.7
-CeO2,None,18.3,808.5,13.45,,Cubic,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,96.7
-CeO2,None,25.0,305.0,-16.5,,Cubic,25.0,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,100.0
-Ag,None,29.57,,-27.0,,Sphere,100.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,40.1
-SiO2,None,15.0,128.0,-21.77,,Sphere,25.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,87.07
-ZnO,None,86.0,687.0,31.3,7.0,,50.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,7.37
-MWCNT,None,17.6,171.4,0.9,,Needle,16.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,90.81
-Polystyrene,None,100.0,,-33.05,,Sphere,100.0,24.0,AT2,Human,Lung,Epithelial,,Normal,,MTT,TetrazoliumSalt,other,109.0
-Chitosan,None,,,63.2,,Sphere,62.5,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,100.77
-SiO2,None,70.12,,-38.1,,Sphere,500.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,1.13
-CoO,None,71.8,408.6,28.67,,Cubic,12.5,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,78.95
-Chitosan,None,,,74.4,,Irregular,125.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,106.94
-CuO,None,46.3,,42.8,,Sphere,10.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,63.37
-Polystyrene,None,50.0,,-22.66,,Sphere,125.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,CoulterCounter,Impedance,other,96.12
-Carbon,None,53.7,,-39.9,,Sphere,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,carbon,77.76
-Au,None,30.0,58.55,,,Sphere,15.0,72.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,65.61
-Ag,None,28.41,66.0,-33.33,,,0.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,27.02
-TiO2,None,24.59,172.0,-14.25,,Sphere,3.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,80.28
-TiO2,None,6.0,780.0,,,Sphere,1.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,98.31
-Pt,PVP,4.0,13.5,-8.0,,,0.0,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,96.46
-SiO2,Phosphonate,255.62,,-26.8,,Sphere,3.9,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,96.76
-IronOxide,PEI,17.2,,29.28,,Sphere,50.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTS,TetrazoliumSalt,meta_oxide,2.78
-Au,None,124.1,,-24.14,,Star,40.0,96.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,113.39
-TiO2,None,21.0,160.5,-27.8,,Sphere,120.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,124.0
-Ag,None,29.57,,-24.58,,Sphere,400.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,4.35
-TiO2,None,40.0,322.3,-25.27,50.0,,0.0,6.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,ATPLite,luciferase,meta_oxide,96.2
-Au,None,90.0,107.85,,,Sphere,1.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,99.14
-PLGA,Poloxamer,105.0,115.5,-21.0,,Sphere,1000.0,72.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,73.73
-Cr2O3,None,193.0,416.3,-5.62,,Rhombohedral,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,101.77
-Hydroxyapatite,None,25.0,,-0.4,,Rod,30.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,101.71
-IronOxide,silica_based,420.7,,-17.65,,Sphere,0.5,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,LDH,LDHrelease,meta_oxide,96.74
-Chitosan,None,,,72.1,,Irregular,250.0,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,96.11
-Ag,Citrate_based,50.0,,-19.5,,Sphere,100.0,72.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,32.65
-IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,175.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,103.76
-Polystyrene,COOH,116.0,,-46.0,,Sphere,0.01,48.0,Macrophages,Human,Blood,Monocyte,Adult,Normal,,XTT,TetrazoliumSalt,other,100.0
-SWCNT,None,9.0,,12.9,,Needle,1.0,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,78.78
-SWCNT,None,9.0,,12.9,,Needle,100.0,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,48.86
-Mn2O3,None,51.5,298.4,-46.1,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,15.7
-C70,Dextran,15.0,109.1,-20.7,,Sphere,10.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,Live/Dead,CalceinAM,carbon,95.47
-TiO2,None,124.9,171.0,-17.6,,,0.0,48.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,97.86
-CuO,None,46.3,,42.8,,Sphere,20.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,45.22
-Ag,None,66.0,28.41,-33.33,,,0.01,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,5.98
-Polystyrene,None,50.0,,-22.66,,Sphere,150.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,CoulterCounter,Impedance,other,104.11
-Ag,None,29.57,,-24.58,,Sphere,100.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,17.73
-ZrO2,None,10.0,,-45.5,,Sphere,150.0,24.0,HCT-116,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,51.1
-TiO2,None,12.6,310.0,14.68,,Tetragonal,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,98.53
-Au,None,50.0,74.8,,,Sphere,1.0,72.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,96.7
-ZnO,None,100.0,258.55,-9.96,,Sphere,40.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,7.91
-SiO2,NH2,289.56,,21.7,,Sphere,31.2,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,114.86
-Fe2O3,None,42.5,957.0,-8.2,82.8,,0.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.89
-TiO2,None,25.0,420.7,-9.96,,Sphere,20.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,112.79
-IronOxide,None,46.8,,1.7,,Sphere,100.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.79
-ZnO,None,100.0,273.4,-11.7,20.0,,15.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,101.04
-Ni2O3,None,140.6,339.5,32.2,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
-IronOxide,None,6.0,,-36.5,,Sphere,4.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,42.23
-Fe2O3,None,12.3,297.2,-3.87,,Rhombohedral,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.92
-Mn2O3,None,29.8,291.1,-3.0,,,750.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,39.1
-CuO,None,46.3,,42.8,,Sphere,0.1,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.04
-ZnO,None,100.0,273.4,-11.7,20.0,,10.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,104.99
-SiO2,None,203.3,,-36.3,,Sphere,10.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,42.18
-EudragitRL,None,142.0,185.0,56.0,,Sphere,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,other,129.84
-Polystyrene,COOH,116.0,,-46.0,,Sphere,10.0,48.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,XTT,TetrazoliumSalt,other,115.45
-Cr2O3,None,60.0,616.8,5.7,,,0.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,100.0
-ZnO,None,35.6,295.5,-41.6,27.9,,10.0,24.0,SW480,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,2.0
-MWCNT,COOH,24.6,,-20.2,,Needle,100.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,WST-1,TetrazoliumSalt,nanotubes,44.68
-Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.0,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,47.72
-CuO,None,12.8,305.3,7.6,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,66.2
-IronOxide,Dextran,18.0,170.0,,,Sphere,300.0,24.0,VERO,Monkey,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,100.0
-C60,Dextran,30.29,372.0,-10.1,,Sphere,20.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,77.69
-ZnO,None,115.0,360.0,-10.0,14.4,,50.0,24.0,HONDC,Human,Nose,,,,,MTT,TetrazoliumSalt,meta_oxide,-1.43
-C60,Dextran,30.29,372.0,-10.1,,Sphere,200.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,Live/Dead,CalceinAM,carbon,82.89
-SiO2,None,22.27,,-26.96,,Sphere,1000.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,CalceinAM,meta_oxide,7.89
-SiO2,Phosphonate,135.0,375.4,-26.8,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,72.39
-In2O3,None,59.6,310.6,5.4,,Cubic,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.92
-SiO2,None,33.5,120.0,-47.6,576.23,,10.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,109.44
-SiO2,CTAB,238.5,,-35.9,,Sphere,31.2,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,84.93
-Ni2O3,None,140.6,339.5,32.2,,,25.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,68.2
-PLGA,PEG_based,90.0,,-22.46,,Sphere,100.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,93.64
-SWCNT,None,9.0,,12.9,,Needle,0.1,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,81.34
-Ag,Citrate_based,50.0,,-21.5,,Sphere,25.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,79.55
-TiO2,None,25.0,504.5,-10.7,210.0,,150.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,121.11
-CoO,None,71.8,208.3,21.6,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,27.8
-SiO2,None,148.95,,-73.8,,Sphere,5.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,meta_oxide,100.28
-Pt,None,24.6,,-11.0,,Sphere,60.0,48.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTS,TetrazoliumSalt,other,86.0
-PLGA,None,,,-14.0,,Sphere,100.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,WST-1,TetrazoliumSalt,other,90.77
-Au,Citrate_based,61.06,,-30.55,,Sphere,15.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,100.7
-Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,84.0
-Pt,PVP,13.5,,-8.0,,Sphere,100.0,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,91.95
-SWCNT,None,1.15,,-15.53,,Needle,10.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,XTT,TetrazoliumSalt,nanotubes,92.13
-SiO2,None,199.89,,-36.3,,Sphere,200.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,62.78
-SLN,CTAB,135.1,,28.2,,Sphere,66.0,24.0,Y-79,Human,Retina,MulticellularClusters,Young,cancer,female,Alamar_Blue,AlamarBlue,other,7.09
-SiO2,DPPC,19.4,889.03,-13.5,,Sphere,32.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,97.24
-ZnO,None,100.0,258.55,-9.96,,Sphere,30.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,68.58
-TiO2,None,25.0,504.5,-10.7,210.0,,100.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,82.26
-Fe3O4,None,10.0,80.0,-35.0,110.0,,10.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,95.3
-Chitosan,None,,,50.0,,Sphere,20.0,36.0,K562,Human,BoneMarrow,Lymphoblast,Adult,cancer,female,MTT,TetrazoliumSalt,other,30.58
-ZnO,None,45.3,310.0,32.7,21.3,,20.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,43.78
-Polystyrene,NH2,50.0,,15.8,,Sphere,25.0,24.0,AT2,Human,Lung,Epithelial,,Normal,,MTT,TetrazoliumSalt,other,79.39
-IronOxide,None,42.5,,-8.2,,Sphere,5.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,88.53
-ZrO2,None,40.1,508.8,-14.85,,Monoclinic,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,101.07
-Au,Citrate_based,18.2,8.7,-8.1,,Sphere,,24.0,PBMC,Human,Blood,Lymphoblast,Adult,Normal,,MTT,TetrazoliumSalt,other,83.91
-Ag,None,66.0,28.41,-33.33,,,0.01,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,3.83
-Ag,None,,,-16.2,,Sphere,100.0,72.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,MTT,TetrazoliumSalt,other,64.76
-Dendrimer,None,11.0,,4.93,,Sphere,10.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,45.81
-Y2O3,None,32.7,743.3,26.09,,Cubic,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,102.01
-Bi2O3,None,90.0,2029.0,-2.3,,,50.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,91.2
-Ag,None,,,-31.7,,Rod,20.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,103.34
-ZnO,None,52.0,640.0,29.4,15.0,,3.13,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,88.69
-Ag,PVP,20.0,148.0,-14.2,,Irregular,3.1,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,106.2
-TiO2,None,21.0,163.4,,,Sphere,1000.0,48.0,HFL1,Human,Lung,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,meta_oxide,39.11
-Hydroxyapatite,None,30.0,,-5.7,,Rod,100.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,97.33
-Ag,None,29.57,,-24.58,,Sphere,200.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,23.1
-CuO,None,12.8,305.3,7.6,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,100.0
-ZnO,None,100.0,273.4,-11.7,20.0,,20.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,81.08
-Cr2O3,None,60.0,616.8,5.7,,,500.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,70.4
-Co3O4,None,10.0,222.7,24.6,,,0.4,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,100.0
-SLN,CTAB,135.1,,28.2,,Sphere,165.0,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,3.38
-SiO2,sodium_based,345.2,,-13.0,,Sphere,50.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,103.09
-SiO2,NH2,,437.0,21.7,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,93.91
-TiO2,None,35.0,1814.0,-35.5,66.0,,50.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,73.3
-SiO2,None,70.12,,-38.1,,Sphere,200.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,42.68
-TiO2,None,25.0,420.7,-9.96,,Sphere,120.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,124.3
-C60,None,34.64,142.0,-37.4,,Sphere,100.0,48.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,62.57
-Hydroxyapatite,None,25.0,,-0.4,,Rod,100.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,111.49
-Ag,None,66.0,28.41,-33.33,,,0.01,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,35.57
-Ag,None,29.57,,-27.0,,Sphere,150.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,0.67
-ZnO,None,86.0,687.0,31.3,7.0,,6.25,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,88.03
-ZnO,None,115.0,500.0,-9.0,14.5,,50.0,24.0,HONDC,Human,Nose,,,,,MTT,TetrazoliumSalt,meta_oxide,1.44
-Polystyrene,None,50.0,,-33.0,,Sphere,10.0,24.0,TT1,Human,Lung,Epithelial,Adult,cancer,,MTT,TetrazoliumSalt,other,92.8
-C60,None,125.0,,-25.3,,Sphere,72.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,carbon,77.91
-Au,Chitosan,,190.7,42.28,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,36.92
-Graphite,None,4.0,,31.4,,Sphere,20.0,2.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,89.53
-SWCNT,None,1.15,,-15.53,,Needle,100.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,25.09
-Ag,None,29.57,,-27.0,,Sphere,40.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,61.8
-Er2O3,None,113.8,442.5,26.14,,Cubic,50.0,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,96.58
-MWCNT,COOH,,128.5,,,Needle,60.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,86.77
-Au,PEG_based,21.7,,-7.6,,Sphere,,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,other,95.65
-Ag,GSH,6.0,,-50.9,,Sphere,25.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,23.81
-MgO,None,12.0,,-9.83,,Rod,600.0,24.0,3T3_L1,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,38.93
-Au,None,124.1,,-24.14,,Star,400.0,96.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,126.78
-Dendrimer,SC,70.2,,-13.65,,Sphere,10.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,114.32
-IronOxide,PEG_based,35.8,,-0.52,,Sphere,6.25,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTS,TetrazoliumSalt,meta_oxide,99.63
-PLGA,PVA,182.0,,-3.5,,Sphere,200.0,4.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,98.14
-Ag,None,29.57,,-24.58,,Sphere,100.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,22.07
-ZnO,None,52.0,640.0,29.4,15.0,,50.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,4.26
-EudragitRL,None,185.0,,56.0,,Sphere,50.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,other,80.59
-SLN,None,98.4,,-14.6,,Sphere,14015.2,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,NR,toluylene red,other,18.28
-Ag,None,28.41,66.0,-33.33,,,0.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,3.25
-PLGA,None,,,-20.5,,Sphere,5.4,24.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,MTT,TetrazoliumSalt,other,103.66
-IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,300.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,96.04
-Hydroxyapatite,None,,,-11.7,,Rod,100.0,72.0,MC3T3-E1,Mouse,Bone,Preosteoblast,neonate,Normal,,MTT,TetrazoliumSalt,other,99.34
-TiO2,None,25.0,504.5,-10.7,210.0,,40.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,94.12
-PLGA,None,,,-14.0,,Sphere,10.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,WST-1,TetrazoliumSalt,other,115.32
-TiO2,None,33.7,308.0,-25.3,42.5,,100.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,116.81
-Ag,None,29.57,,-24.58,,Sphere,400.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,34.23
-IronOxide,Folic_acid_based,80.0,420.55,-27.7,,,0.0,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,87.88
-IronOxide,None,28.33,,-18.4,,Sphere,0.1,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,meta_oxide,76.07
-Fe2O3,None,42.5,957.0,-8.2,82.8,,0.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.62
-ZrO2,None,10.0,,-45.5,,Sphere,100.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,Live/Dead,Trypan_Blue,meta_oxide,55.78
-Au,None,50.0,74.8,,,Sphere,1.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,97.46
-IronOxide,None,42.5,,-8.2,,Sphere,50.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.13
-Au,Citrate_based,4.9,,-158.0,,Sphere,15.0,24.0,Jurkat,Human,Blood,Lymphoblast,Adult,cancer,male,MTT,TetrazoliumSalt,other,93.31
-ZnO,None,100.0,258.55,-9.96,,Sphere,35.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,7.91
-La2O3,None,45.6,672.9,-12.8,,,1000.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,35.0
-Ag,Liposome,82.73,139.5,-16.26,,Sphere,2.5,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,Alamar_Blue,AlamarBlue,other,73.89
-Cr2O3,None,193.0,416.3,-5.62,,Rhombohedral,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
-ZnO,None,100.0,258.55,-9.96,,Sphere,20.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,81.23
-C60,None,34.64,142.0,-37.4,,Sphere,50.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,52.61
-IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,25.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,102.54
-ZnO,None,86.0,687.0,31.3,7.0,,0.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,101.31
-IronOxide,None,6.0,,-36.5,,Sphere,4.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,84.58
-Ag,None,66.0,28.41,-33.33,,,0.01,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,22.35
-ZnO,None,20.0,327.9,,,Sphere,500.0,48.0,HFL1,Human,Lung,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,meta_oxide,43.95
-Diamond,None,4.0,,-35.6,,Sphere,100.0,24.0,C3A,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,110.36
-Au,GSH,3.6,,-140.0,,Sphere,15.0,24.0,PBMC,Human,Blood,Lymphoblast,Adult,Normal,,MTT,TetrazoliumSalt,other,72.25
-SiO2,None,8.5,,-27.0,,Sphere,1.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,meta_oxide,95.32
-IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,150.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,91.44
-Au,None,65.0,,-28.05,,Rod,4.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,72.44
-IronOxide,Folic_acid_based,20.0,344.25,-23.5,,,0.0,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,88.36
-Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,65.11
-SiO2,None,199.89,,-36.3,,Sphere,10.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,64.14
-IronOxide,silica_based,420.7,,-17.65,,Sphere,100.0,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,84.11
-TiO2,None,124.9,171.0,-17.6,,,0.0,6.0,A431,Human,Skin,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,97.14
-SiO2,NH2,289.56,,21.7,,Sphere,15.6,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,94.23
-Ag,Citrate_based,50.0,,-20.0,,Sphere,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,74.94
-La2O3,None,24.6,711.3,23.04,,Hexagon,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
-SiO2,None,,,-28.0,,Sphere,500.0,48.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,100.35
-Au,Chitosan,16.0,,33.23,,Rod,,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTT,TetrazoliumSalt,other,3.76
-SWCNT,None,9.0,,12.9,,Needle,1.0,48.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,52.54
-Au,Cystein_based,25.76,,-46.8,,Sphere,25.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,96.83
-SLN,None,98.4,,-14.6,,Sphere,7861.4,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,8.24
-Cr2O3,None,193.0,316.9,-32.6,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,71.3
-Ag,None,,,-1.4,,Wire,50.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,MTS,TetrazoliumSalt,other,76.22
-Ag,None,29.57,,-27.0,,Sphere,250.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,22.22
-Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,60.2
-IronOxide,PEG_based,16.5,,-0.52,,Sphere,3.12,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.86
-IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,100.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,95.8
-Ag,Citrate_based,50.0,,-19.5,,Sphere,12.5,72.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,98.72
-Ag,PEG_based,59.9,,-9.3,,Sphere,100.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,66.53
-SiO2,CTAB,90.0,386.9,-35.9,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,94.57
-Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,400.0,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,11.16
-SiO2,None,33.5,120.0,-47.6,576.23,,1.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,113.25
-IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,50.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,105.53
-Ag,None,29.57,,-24.58,,Sphere,25.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,112.01
-Ag,None,29.57,,-24.58,,Sphere,50.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,38.1
-C60,Dextran,30.0,,-16.9,,Sphere,50.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,90.66
-ZnO,None,97.0,,-29.0,,Rod,5.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,95.02
-SiO2,None,8.5,,-27.0,,Sphere,1000.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,CalceinAM,meta_oxide,44.27
-Ag,None,7.0,14.7,-20.0,,,0.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Promegas CTB Assay,AlamarBlue,other,96.87
-TiO2,None,42.3,1307.0,-9.6,,,1500.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,40.3
-TiO2,None,10.0,1457.0,-11.0,166.0,,100.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,96.76
-TiO2,None,25.0,228.3,-10.7,40.0,,120.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,112.47
-PTFE-PMMA,None,851.05,,-5.25,,Irregular,400.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,42.76
-Ag,None,14.3,,-17.2,,Sphere,0.62,48.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,Alamar_Blue,AlamarBlue,other,82.85
-Ag,None,29.57,,-27.0,,Sphere,40.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,71.76
-SiO2,None,203.3,,-36.3,,Sphere,10.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,50.0
-WO3,None,50.0,179.6,-9.1,,,100.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,other,104.0
-IronOxide,Chitosan,8.0,,11.0,,Sphere,4.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,74.47
-TiO2,None,25.0,228.3,-10.7,40.0,,100.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,88.29
-C60,None,34.64,142.0,-37.4,,Sphere,50.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,78.62
-Ag,Citrate_based,50.0,,-21.5,,Sphere,12.5,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,80.05
-Ni2O3,None,140.6,339.5,32.2,,,100.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,71.1
-IronOxide,silica_based,420.7,,-17.65,,Sphere,0.5,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,93.14
-TiO2,None,15.5,420.0,-12.0,107.4,,10.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,meta_oxide,70.9
-PLGA,Poloxamer,107.5,,-21.0,,Sphere,5000.0,4.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,103.33
-ZnO,None,32.0,1093.0,21.6,37.0,,6.25,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,69.35
-Ag,None,29.57,,-24.58,,Sphere,600.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,20.43
-Polystyrene,COOH,94.06,,-29.9,,Sphere,25.0,24.0,AT2,Human,Lung,Epithelial,,Normal,,MTT,TetrazoliumSalt,other,93.45
-Y2O3,None,32.7,743.3,26.09,,Cubic,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,92.83
-Ag,None,65.0,,-30.0,,Sphere,200.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,48.24
-TiO2,None,25.0,434.1,-7.83,,Sphere,5.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,95.65
-Au,None,30.0,58.55,,,Sphere,5.0,72.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,80.58
-ZnO,None,21.34,127.0,-33.0,,,15.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,33.39
-IronOxide,Chitosan,8.0,,11.0,,Sphere,2.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,87.74
-ZnO,None,141.0,404.0,,,Sphere,50.0,12.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,27.61
-TiO2,None,15.84,124.0,-43.29,,Sphere,60.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,14.71
-IronOxide,PEG_based,16.5,,-0.52,,Sphere,50.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,83.33
-SWCNT,None,601.7,,-13.0,,Needle,200.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,11.4
-IronOxide,PEG_based,35.8,,-0.52,,Sphere,12.5,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTS,TetrazoliumSalt,meta_oxide,100.0
-IronOxide,Chitosan,8.0,,11.0,,Sphere,0.5,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,96.6
-Ni2O3,None,140.6,339.5,32.2,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,89.8
-Ag,None,66.0,28.41,-33.33,,,0.01,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,24.17
-Ag,None,,,-16.2,,Sphere,30.0,72.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTT,TetrazoliumSalt,other,52.31
-IronOxide,Dextran,7.5,,-11.0,,Sphere,50.0,24.0,Monocytes,Human,Blood,Monocyte,Adult,Normal,,CCK_8,TetrazoliumSalt,meta_oxide,102.4
-TiO2,None,25.0,504.5,-10.7,210.0,,80.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,87.01
-Ni2O3,None,140.6,339.5,32.2,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,100.0
-IronOxide,PEG_based,35.8,,-0.52,,Sphere,12.5,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,103.26
-WO3,None,50.0,179.6,-9.1,,,1500.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,other,38.5
-Polystyrene,None,100.0,,-39.05,,Sphere,25.0,24.0,Macrophages,Human,Lung,Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,other,100.69
-Ag,PVP,27.02,,-18.4,,Sphere,2.7,24.0,KEC,Human,Skin,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,other,95.92
-IronOxide,None,28.33,,-18.4,,Sphere,1.0,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,meta_oxide,100.0
-SiO2,None,33.5,120.0,-47.6,576.23,,75.0,24.0,MeT_5A,Human,Mesothelium,Epithelial,,Normal,,MTT,TetrazoliumSalt,meta_oxide,53.61
-Pt,PVP,13.5,,-8.0,,Sphere,200.0,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,78.97
-MWCNT,COOH,50.0,50.4,-11.0,,Needle,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,96.41
-PLGA,Poloxamer,107.5,,-21.0,,Sphere,200.0,4.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,113.08
-Cu,AscorbicAcid,250.0,,-24.7,,Sphere,7.81,24.0,HGF,Human,Gingiva,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,other,75.64
-SiO2,None,59.72,,-38.1,,Sphere,100.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,60.92
-Au,PAMAM,9.65,,17.1,,Sphere,,24.0,PBMC,Human,Blood,Lymphoblast,Adult,Normal,,MTT,TetrazoliumSalt,other,64.96
-SiO2,None,199.89,,-36.3,,Sphere,500.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,61.04
-ZnO,None,60.0,320.0,-7.5,7.34,,0.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,100.0
-ZnO,None,45.3,310.0,32.7,21.3,,5.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.73
-SiO2,None,14.23,128.0,-26.5,,Sphere,1.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,NR,toluylene red,meta_oxide,96.71
-Au,Citrate_based,61.06,,-30.55,,Sphere,0.5,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,126.34
-Pt,PVP,13.5,,-8.0,,Sphere,50.0,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,95.61
-Chitosan,None,,,72.1,,Irregular,750.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,112.78
-MWCNT,None,,,-13.0,,Needle,100.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,26.48
-Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.01,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,17.14
-Ag,None,29.57,,-27.0,,Sphere,150.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,26.39
-Pt,None,24.6,,-11.0,,Sphere,20.0,6.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,NR,toluylene red,other,97.67
-ZnO,None,50.0,278.8,-11.5,,Sphere,1.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,91.34
-SLN,CTAB,135.1,,28.2,,Sphere,165.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,other,4.69
-Polystyrene,COOH,500.0,465.3,-30.2,,Sphere,50.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,96.29
-Au,None,124.1,,-24.14,,Star,0.2,24.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,120.51
-Polystyrene,None,44.0,,-36.72,,Sphere,10.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTT,TetrazoliumSalt,other,83.95
-IronOxide,Folic_acid_based,20.0,344.25,-23.5,,,0.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,88.09
-Au,PAMAM,9.65,,17.1,,Sphere,,24.0,PBMC,Human,Blood,Lymphoblast,Adult,Normal,,MTT,TetrazoliumSalt,other,72.08
-In2O3,None,29.8,224.3,-9.6,,,1000.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,28.8
-SiO2,Phosphonate,255.62,,-26.8,,Sphere,1000.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,71.76
-SiO2,None,100.33,,-31.7,,Sphere,100.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,51.71
-Carbon,None,53.7,,-39.9,,Sphere,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,carbon,87.92
-Fe3O4,None,46.8,1025.0,1.7,147.4,,20.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,90.16
-Pt,PVP,13.5,,-8.0,,Sphere,50.0,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,89.49
-Ag,PVP,20.0,134.5,-13.05,,Irregular,0.67,24.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,WST-1,TetrazoliumSalt,other,102.69
-ZrO2,None,40.1,508.8,-14.85,,Monoclinic,12.5,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.99
-TiO2,None,42.3,1307.0,-9.6,,,1000.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,60.8
-Au,CyA,6.5,,88.0,,Sphere,15.0,24.0,Jurkat,Human,Blood,Lymphoblast,Adult,cancer,male,MTT,TetrazoliumSalt,other,83.46
-NiO,None,20.0,223.5,-12.1,,,50.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,101.0
-ZnO,None,45.3,310.0,32.7,,Sphere,50.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,36.18
-PLGA,Chitosan,204.0,,10.0,,Sphere,312.0,24.0,Colo­205,Human,Colon,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,99.31
-Au,None,30.0,58.55,,,Sphere,10.0,72.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,74.11
-Au,None,65.0,,-28.05,,Rod,200.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,83.33
-Hydroxyapatite,None,30.0,,-5.7,,Rod,100.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,105.75
-Ag,None,14.3,,-17.2,,Sphere,0.3,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,Alamar_Blue,AlamarBlue,other,85.83
-TiO2,None,21.0,160.5,-27.8,,Sphere,100.0,3.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,98.46
-Au,None,26.5,,-4.52,,Sphere,12.5,72.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,94.71
-Ni2O3,None,140.2,386.9,-4.46,,Hexagon,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,104.08
-ZnO,None,52.0,640.0,29.4,15.0,,25.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,4.75
-IronOxide,silica_based,199.0,,-9.77,,Sphere,50.0,24.0,HK-2,Human,Kidney,Epithelial,Adult,cancer,male,XTT,TetrazoliumSalt,meta_oxide,85.83
-TiO2,None,169.4,365.0,-13.0,9.8,,0.0,48.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,meta_oxide,100.75
-TiO2,None,42.3,1307.0,-9.6,,,250.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,66.1
+PTFE-PMMA,None,618.05,,-8.05,,Irregular,400.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,other,35.16
+SiO2,None,203.3,,-36.3,,Sphere,200.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,24.88
+SiO2,None,21.06,,-24.5,,Sphere,100.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,55.17
 SiO2,CTAB,90.0,386.9,-35.9,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,95.87
-C60,Dextran,30.29,372.0,-10.1,,Sphere,100.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,Live/Dead,CalceinAM,carbon,86.92
-IronOxide,PEI,17.2,,29.28,,Sphere,3.12,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,98.28
-Ag,None,29.57,,-24.58,,Sphere,200.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,14.31
-TiO2,None,30.6,266.0,,,Sphere,5.0,24.0,WISH,Human,Amniotic-membrane,Epithelial,fetus,cancer,,MTT,TetrazoliumSalt,meta_oxide,75.7
-Dendrimer,None,28.6,,11.07,,Sphere,5.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,76.08
-Ag,Citrate_based,50.0,94.5,-22.5,,Sphere,25.0,24.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,84.14
-SnO2,None,64.2,480.0,-27.45,,Tetragonal,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,98.8
-IronOxide,Folic_acid_based,80.0,420.55,-27.7,,,0.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,87.37
-C70,Dextran,15.0,109.1,-20.7,,Sphere,40.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,Live/Dead,CalceinAM,carbon,89.02
-Au,None,90.0,107.85,,,Sphere,15.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,71.2
-TiO2,None,81.8,486.0,-8.6,,Sphere,30.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,46.83
-Polystyrene,NH2,100.0,,25.0,,Sphere,50.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,CCK_8,TetrazoliumSalt,other,17.64
-MWCNT,None,50.0,,-7.28,,Needle,100.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,93.11
-IronOxide,None,28.33,,-18.4,,Sphere,10.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,85.39
-HfO2,None,28.4,262.2,-27.78,,Monoclinic,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,101.79
-Y2O3,None,38.0,1222.9,-10.7,,,50.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,101.0
-IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,5.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,96.92
-Dendrimer,None,31.2,,3.18,,Sphere,5.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,101.09
-IronOxide,Chitosan,8.0,,11.0,,Sphere,2.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,meta_oxide,97.63
-SiO2,CTAB,238.5,,-35.9,,Sphere,125.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,94.23
-ZnO,None,45.3,310.0,32.7,21.3,,0.1,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,97.41
-IronOxide,silica_based,188.0,,-6.52,,Sphere,25.0,24.0,HK-2,Human,Kidney,Epithelial,Adult,cancer,male,XTT,TetrazoliumSalt,meta_oxide,77.33
-Chitosan,None,,,62.1,,Irregular,1000.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,112.77
-SiO2,NH2,,437.0,21.7,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,111.52
-IronOxide,None,42.5,,-8.2,,Sphere,10.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,88.85
+Co3O4,None,10.0,222.7,24.6,,,25.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,43.9
+Sm2O3,None,108.3,765.1,47.34,,Cubic,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,86.97
+Polystyrene,None,100.0,,-35.65,,Sphere,1.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTT,TetrazoliumSalt,other,95.77
+Ag,Citrate_based,50.0,96.5,-35.0,,Sphere,25.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,66.33
+Au,Citrate_based,61.06,,-30.55,,Sphere,5.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,111.89
+Chitosan,None,,,50.0,,Sphere,25.0,36.0,K562,Human,BoneMarrow,Lymphoblast,Adult,cancer,female,MTT,TetrazoliumSalt,other,18.32
 Hydroxyapatite,None,30.0,,-5.7,,Rod,10.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,104.89
-MgO,None,39.2,,11.6,,Sphere,50.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,86.8
-MWCNT,None,17.4,190.6,-18.9,,Needle,16.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,85.91
-Dendrimer,None,390.3,,-6.64,,Sphere,100.0,24.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,93.77
-TiO2,None,25.0,228.3,-10.7,40.0,,40.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,94.16
-IronOxide,PEG_based,18.0,120.0,,,Sphere,300.0,24.0,MDCK,Dog,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,31.92
-ZnO,None,100.0,273.4,-11.7,20.0,,15.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,80.41
-ZnO,None,86.0,687.0,31.3,7.0,,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,8.61
-ZnO,None,245.0,,-15.8,,Sphere,8.0,24.0,HEK,Human,Skin,Keratinocyte,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,59.34
-PLGA,PEG_based,30.0,,-24.09,,Needle,10.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,88.71
-Au,None,26.5,,-4.52,,Sphere,12.5,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,98.38
-ZnO,None,32.0,1093.0,21.6,37.0,,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,6.68
-SiO2,sodium_based,345.2,,-13.0,,Sphere,50.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,98.11
-SiO2,CTAB,238.5,,-35.9,,Sphere,7.8,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,117.25
-Ag,None,,,-31.7,,Rod,40.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,89.76
-SiO2,None,100.33,,-31.7,,Sphere,200.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,65.76
-Au,None,30.0,58.55,,,Sphere,15.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,67.39
-Au,None,90.0,107.85,,,Sphere,15.0,72.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,68.36
-TiO2,None,21.0,160.5,-27.8,,Sphere,20.0,3.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,105.23
-Chitosan,None,,,74.4,,Irregular,125.0,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,95.04
-MWCNT,None,25.0,186.5,-27.22,,Needle,32.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,85.22
-SLN,CTAB,135.1,,28.2,,Sphere,660.0,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,1.02
-Au,Citrate_based,18.2,8.7,-8.1,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,75.04
-Ag,None,29.57,,-24.58,,Sphere,800.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,5.17
-IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,75.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,99.01
-Chitosan,None,,,72.1,,Irregular,1000.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,100.37
-Bi2O3,None,90.0,2029.0,-2.3,,,750.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,63.3
-ZnO,None,45.3,310.0,32.7,,Sphere,5.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,91.78
-Ag,Citrate_based,27.1,54.05,-25.6,,Sphere,10.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,85.26
-MgO,None,,,-7.01,,Sphere,800.0,24.0,3T3_L1,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,37.09
-Au,PAMAM,9.65,,17.1,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,52.45
-Mn2O3,None,51.5,298.4,-46.1,,,0.4,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
-Ag,Citrate_based,50.0,,-20.0,,Sphere,25.0,24.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,96.16
-Ag,None,29.57,,-27.0,,Sphere,80.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,18.78
-ZnO,None,21.34,127.0,-33.0,,,0.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,100.0
-SiO2,CTAB,238.5,,-35.9,,Sphere,15.6,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,106.06
-EudragitRL,None,185.0,,56.0,,Sphere,25.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Live/Dead,Trypan_Blue,other,96.96
-Ag,None,28.41,66.0,-33.33,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,60.79
-TiO2,None,25.0,504.5,-10.7,210.0,,150.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,98.87
-PLGA,PVA,230.0,178.5,-3.5,,Sphere,1000.0,72.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,65.24
-ZnO,None,100.0,273.4,-11.7,20.0,,25.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,76.8
-Pt,PVP,13.5,,-8.0,,Sphere,50.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,87.44
-MWCNT,None,25.0,,-9.78,,Needle,100.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,99.09
-Mn2O3,None,51.5,298.4,-46.1,,,0.4,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,100.0
-IronOxide,None,46.8,,1.7,,Sphere,5.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,97.04
-Au,Citrate_based,4.7,79.18,-57.5,,Sphere,5.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,other,100.28
-Ag,PVP,20.0,148.0,-14.2,,Irregular,6.8,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,83.06
-Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,25.0,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,44.89
-SiO2,None,59.72,,-38.1,,Sphere,200.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,31.44
-Pt,PVP,13.5,,-8.0,,Sphere,25.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,96.92
-SiO2,None,100.33,,-31.7,,Sphere,500.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,53.53
-MgO,None,,,-7.01,,Sphere,200.0,24.0,3T3_L1,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,64.13
-ZnO,None,52.0,640.0,29.4,15.0,,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,4.43
-Fe2O3,None,12.3,297.2,-3.87,,Rhombohedral,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
-IronOxide,silica_based,188.0,,-6.52,,Sphere,400.0,24.0,HK-2,Human,Kidney,Epithelial,Adult,cancer,male,XTT,TetrazoliumSalt,meta_oxide,45.34
-Ni2O3,None,140.6,339.5,32.2,,,50.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,76.3
-SiO2,Digestive enzymes,12.0,96.0,-11.0,,,0.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Live/Dead,Sytox Red,meta_oxide,100.5
-Au,None,124.1,,-24.14,,Star,4.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,153.91
-ZnO,None,45.3,310.0,32.7,,Sphere,0.1,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.07
-Pt,Folic_acid_based,12.5,,-40.5,,Sphere,100.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,69.32
-Hydroxyapatite,None,20.0,,-5.3,,Rod,100.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,CCK_8,TetrazoliumSalt,other,96.03
-Ag,None,66.0,28.41,-33.33,,,0.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,0.83
-IronOxide,Folic_acid_based,20.0,344.25,-23.5,,,0.0,24.0,Monocytes,Human,Blood,Monocyte,Adult,Normal,,LDH,LDHrelease,meta_oxide,79.8
-Polystyrene,None,100.0,,-33.05,,Sphere,50.0,24.0,TT1,Human,Lung,Epithelial,Adult,cancer,,MTT,TetrazoliumSalt,other,92.2
-Polystyrene,COOH,100.0,165.25,-29.8,,Sphere,50.0,24.0,TT1,Human,Lung,Epithelial,Adult,cancer,,MTT,TetrazoliumSalt,other,91.16
-Ag,PEG_based,59.9,,-9.3,,Sphere,5.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,85.03
-SiO2,sodium_based,345.2,,-13.0,,Sphere,200.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,90.72
-TiO2,None,60.0,239.1,-51.9,,Sphere,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,meta_oxide,44.9
-Au,Citrate_based,13.0,36.5,-35.0,,Sphere,0.06,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,80.4
-TiO2,None,148.15,,-14.55,,Irregular,80.0,6.0,A431,Human,Skin,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,93.06
-PLGA,Chitosan,204.0,,10.0,,Sphere,5000.0,24.0,Colo­205,Human,Colon,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,86.9
-TiO2,None,33.7,303.0,-25.3,42.5,,1.0,24.0,SW480,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,73.77
-Diamond,None,4.0,,-35.6,,Sphere,20.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,98.96
-PLGA,PEG_based,90.0,,-22.46,,Sphere,25.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,90.0
-Dendrimer,C12,4.0,,5.8,,Sphere,,24.0,Neuron,Mouse,Cortex,Neural,Adult,Normal,,Live/Dead,propidium_iodide,other,90.65
-ZnO,None,35.6,236.0,-41.6,27.9,,0.1,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,111.79
-CuO,None,12.8,246.2,21.06,,Monoclinic,12.5,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,107.14
-Polystyrene,NH2,50.0,,15.8,,Sphere,10.0,24.0,AT2,Human,Lung,Epithelial,,Normal,,MTT,TetrazoliumSalt,other,83.71
-TiO2,None,21.0,74.0,-9.42,57.0,,0.0,24.0,MCF-10A,Human,Breast,Epithelial,Adult,cancer,female,Annexiv_V_,propidium_iodide,meta_oxide,96.56
-Ag,None,,,-2.09,,Wire,2.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,MTS,TetrazoliumSalt,other,100.7
-ZnO,None,60.0,936.0,-2.4,7.34,,80.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,10.98
-SiO2,sodium_based,345.2,,-13.0,,Sphere,100.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,36.88
-Au,None,65.0,,-28.05,,Rod,200.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,83.56
-Ag,None,29.57,,-27.0,,Sphere,250.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,32.11
-TiO2,None,25.0,434.1,-7.83,,Sphere,5.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,92.74
-CuO,None,52.51,,-39.67,,Sphere,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,48.0
-Co3O4,None,10.0,222.7,24.6,,,50.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,23.8
-MgO,None,39.2,,11.6,,Sphere,10.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,85.25
-Chitosan,None,,,63.2,,Sphere,250.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,112.26
-Au,None,124.1,,-24.14,,Star,2.0,24.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,121.65
-Ni2O3,None,140.6,339.5,32.2,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,80.2
-Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.02,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,12.67
-TiO2,None,148.15,,-14.55,,Irregular,0.01,24.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,97.57
-PLGA,None,,,-14.0,,Sphere,1.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,WST-1,TetrazoliumSalt,other,84.91
-Diamond,None,4.0,,-35.6,,Sphere,20.0,24.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,90.95
-Ag,None,28.41,66.0,-33.33,,,0.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,48.48
-IronOxide,None,46.8,,1.7,,Sphere,1.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,95.74
-Fe3O4,None,46.8,1025.0,1.7,147.4,,20.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,97.49
-TiO2,None,25.0,420.7,-9.96,,Sphere,120.0,6.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,119.44
-Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,400.0,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,19.86
-Chitosan,None,,,71.3,,Irregular,125.0,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,99.59
-SiO2,None,19.1,98.5,-36.74,,Sphere,10.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,meta_oxide,92.57
-Al2O3,None,39.7,267.0,36.3,64.7,,0.1,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.9
-Fe2O3,None,32.0,297.6,-18.1,,,50.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,92.4
-Ag,None,,,-31.7,,Rod,200.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,110.47
-Ag,None,21.8,,-11.93,,Sphere,711.1,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,87.61
-Au,None,26.5,,-4.52,,Sphere,5.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,106.49
-ZnO,None,7.5,795.0,27.4,90.0,,12.5,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,63.85
-IronOxide,None,,,-36.5,,Sphere,0.5,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,92.77
-TiO2,None,40.0,322.3,-25.27,50.0,,1.0,24.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,ATPLite,luciferase,meta_oxide,91.1
-TiO2,None,5.9,460.0,-12.0,280.9,,100.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,meta_oxide,44.33
-WO3,None,16.6,111.6,-35.84,,Monoclinic,12.5,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,other,104.92
-Pt,None,24.6,,-11.0,,Sphere,360.0,6.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,NR,toluylene red,other,90.85
-IronOxide,Chitosan,8.0,,11.0,,Sphere,4.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,71.02
-TiO2,None,25.0,228.3,-10.7,40.0,,100.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,94.97
-Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.01,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,29.44
-ZnO,None,71.0,188.9,-10.8,,,250.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,12.1
-Ag,Citrate_based,50.0,,-21.5,,Sphere,100.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,70.57
-Mn2O3,None,29.8,291.1,-3.0,,,100.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,82.5
-ZnO,None,97.0,,-29.0,,Rod,25.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,47.84
-CuO,None,46.3,,42.8,,Sphere,50.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,12.79
-Dendrimer,None,390.3,,-6.64,,Sphere,100.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,95.41
-Al2O3,None,44.0,372.3,-20.2,,,0.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,100.0
-IronOxide,silica_based,420.7,,-17.65,,Sphere,1.0,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,LDH,LDHrelease,meta_oxide,82.57
-SiO2,Phosphonate,135.0,375.4,-26.8,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,93.91
-Ag,None,65.0,,-30.0,,Sphere,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,81.35
-ZnO,None,100.0,258.55,-9.96,,Sphere,20.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,92.8
-Co3O4,None,10.0,222.7,24.6,,,100.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,80.0
-Yb2O3,None,61.7,799.9,13.48,,Cubic,6.2,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,107.49
-SWCNT,None,601.7,,-13.0,,Needle,100.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,15.39
-Al2O3,None,39.7,267.0,36.3,64.7,,50.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.27
-Graphite,None,4.0,,31.4,,Sphere,20.0,24.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,75.31
-TiO2,None,12.6,310.0,14.68,,Tetragonal,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.23
-IronOxide,PEG_based,18.0,120.0,,,Sphere,200.0,24.0,MDCK,Dog,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,75.08
-NiO,None,21.6,346.0,6.9,,Sphere,25.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,71.83
-Al2O3,None,39.7,,36.3,,Sphere,0.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.46
-SiO2,None,199.89,,-36.3,,Sphere,100.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,62.28
-NiO,None,21.6,346.0,6.9,,Sphere,50.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,59.52
-Ni2O3,None,140.2,386.9,-4.46,,Hexagon,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,103.44
-SiO2,NH2,289.56,,21.7,,Sphere,125.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,100.77
-Ag,GSH,6.0,,-50.9,,Sphere,50.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,20.11
-Dy2O3,None,37.5,751.7,22.24,,Cubic,25.0,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.6
-Au,Citrate_based,18.2,8.7,-8.1,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,76.96
-SiO2,None,203.3,,-36.3,,Sphere,500.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,12.25
-Au,None,86.8,,-28.32,,Sphere,2.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,81.82
-CuO,None,46.3,239.0,42.8,24.1,,0.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.13
-IronOxide,silica_based,199.0,,-9.77,,Sphere,100.0,24.0,HK-2,Human,Kidney,Epithelial,Adult,cancer,male,XTT,TetrazoliumSalt,meta_oxide,80.16
-Pt,PVP,13.5,,-8.0,,Sphere,400.0,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,50.0
-Au,PAMAM,9.65,,17.1,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,67.29
-SiO2,CTAB,238.5,,-35.9,,Sphere,62.5,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,96.13
-SiO2,None,70.12,,-38.1,,Sphere,500.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,5.12
-IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,300.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,97.28
-SWCNT,None,1.15,,-15.53,,Needle,0.1,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,83.05
-PTFE-PMMA,None,618.05,,-8.05,,Irregular,400.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,52.36
-Au,Chitosan,,123.9,47.44,,Star,,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,60.89
-EudragitRL,None,142.0,185.0,56.0,,Sphere,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,Live/Dead,Trypan_Blue,other,136.46
-Ag,None,28.41,66.0,-33.33,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,16.27
-EudragitRL,None,185.0,,56.0,,Sphere,100.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,other,70.62
-Au,Chitosan,8.7,190.7,42.28,,Sphere,,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTT,TetrazoliumSalt,other,70.97
-Ag,Citrate_based,50.0,,-20.0,,Sphere,50.0,24.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,78.77
-ZnO,None,115.0,500.0,-9.0,14.5,,80.0,24.0,HONDC,Human,Nose,,,,,CyQuant,,meta_oxide,29.46
-IronOxide,Dextran,18.0,170.0,,,Sphere,500.0,24.0,VERO,Monkey,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,80.0
-ZnO,None,100.0,258.55,-9.96,,Sphere,30.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,11.86
-MWCNT,None,17.6,,0.9,,Needle,2.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,NR,toluylene red,nanotubes,101.23
-HfO2,None,28.4,262.2,-27.78,,Monoclinic,6.2,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.5
-IronOxide,Folic_acid_based,20.0,344.25,-23.5,,,0.0,24.0,Monocytes,Human,Blood,Monocyte,Adult,Normal,,LDH,LDHrelease,meta_oxide,83.56
-Au,Citrate_based,61.06,,-30.55,,Sphere,1.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,126.34
-TiO2,None,6.0,780.0,,,Sphere,100.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,87.31
-Chitosan,None,,,63.2,,Sphere,750.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,110.54
-Ag,Citrate_based,50.0,,-20.0,,Sphere,25.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,78.8
-Au,Citrate_based,5.2,220.0,-30.0,,Sphere,50.0,48.0,HEBC3-KT,Human,Lung,Epithelial,Adult,Normal,female,Alamar_Blue,AlamarBlue,other,96.8
-TiO2,None,25.0,504.5,-10.7,210.0,,0.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,100.0
-SLN,CTAB,135.1,,28.2,,Sphere,66.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,other,4.34
-TiO2,None,21.0,74.0,-9.42,57.0,,150.0,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Annexiv_V_,propidium_iodide,meta_oxide,79.07
-TiO2,None,35.0,1814.0,-35.5,66.0,,50.0,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,101.62
-IronOxide,Chitosan,8.0,,11.0,,Sphere,4.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,86.44
-SiO2,None,148.95,,-73.8,,Sphere,100.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,meta_oxide,25.93
-CuO,None,22.83,181.92,-22.88,,Sphere,2.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,83.4
-Ag,None,,,-16.2,,Sphere,3.0,72.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTT,TetrazoliumSalt,other,87.5
-Ag,None,29.57,,-27.0,,Sphere,20.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,48.92
-Polystyrene,NH2,100.0,,25.0,,Sphere,5.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,CCK_8,TetrazoliumSalt,other,20.32
-Ag,Citrate_based,50.0,,-19.5,,Sphere,100.0,72.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,28.28
-Polystyrene,COOH,100.0,124.4,-28.85,,Sphere,50.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,99.54
-SiO2,None,37.82,,-24.5,,Sphere,10.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,65.37
-Pt,PVP,13.5,,-8.0,,Sphere,400.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,43.37
-Au,GSH,43.17,,-58.0,,Sphere,100.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,95.24
-TiO2,None,25.0,420.7,-9.96,,Sphere,20.0,3.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,120.46
-HfO2,None,28.4,262.2,-27.78,,Monoclinic,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.46
-SLN,DDAB,134.2,,28.2,,Sphere,330.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,other,77.43
-IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,10.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,103.22
-ZnO,None,141.0,404.0,,,Sphere,12.5,3.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,89.39
-ZnO,None,7.5,795.0,27.4,90.0,,6.25,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,58.6
-PLGA,None,,,-11.0,,Sphere,5000.0,24.0,MDBK,Cow,Kidney,Epithelial,Adult,Normal,male,MTS,TetrazoliumSalt,other,73.6
-Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,41.5
-Ag,None,66.0,28.41,-33.33,,,0.01,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,23.26
-IronOxide,Dextran,18.0,170.0,,,Sphere,300.0,24.0,MDCK,Dog,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,115.09
-Dendrimer,None,3.8,,256.0,,Sphere,29.0,1.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Live/Dead,propidium_iodide,other,88.4
-TiO2,None,34.1,400.0,-12.0,48.9,,0.0,48.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,meta_oxide,100.75
-SiO2,None,15.0,,-59.7,,Sphere,50.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CCK_8,TetrazoliumSalt,meta_oxide,10.24
-SLN,DDAB,134.2,,28.2,,Sphere,66.0,24.0,SV-80,Human,Lung,Fibroblast,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,107.72
-SiO2,Phosphonate,135.0,375.4,-26.8,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,96.52
-Fe3O4,None,46.8,1025.0,1.7,147.4,,1.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.63
-Au,None,50.0,74.8,,,Sphere,25.0,24.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,7.23
-TiO2,None,57.5,,-22.0,,Sphere,12.5,48.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,99.71
-Co3O4,None,10.0,202.1,20.78,,Cubic,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
-Pt,PVP,4.0,13.5,-8.0,,,0.01,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,87.0
-Ag,Citrate_based,50.0,,-20.0,,Sphere,50.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,67.35
-IronOxide,Folic_acid_based,20.0,344.25,-23.5,,,0.0,24.0,Monocytes,Human,Blood,Monocyte,Adult,Normal,,LDH,LDHrelease,meta_oxide,83.12
-ZnO,None,100.0,258.55,-9.96,,Sphere,30.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,71.15
-Fe3O4,None,12.0,358.6,-14.85,,Cubic,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,95.67
-ZnO,None,45.3,310.0,32.7,21.3,,1.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,99.22
-ZnO,None,100.0,258.55,-9.96,,Sphere,35.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,61.07
-Hydroxyapatite,COOH,20.0,,-28.3,,Rod,1000.0,72.0,MC3T3-E1,Mouse,Bone,Preosteoblast,neonate,Normal,,MTT,TetrazoliumSalt,other,88.7
-SiO2,COOH,120.0,,-28.7,,Sphere,500.0,96.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,82.16
-Eu2O3,None,52.8,847.3,43.11,,Cubic,6.2,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,105.84
-C70,Dextran,15.0,109.1,-20.7,,Sphere,20.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,NR,toluylene red,carbon,92.25
-TiO2,None,25.0,420.7,-9.96,,Sphere,40.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,113.81
-Ag,None,28.41,66.0,-33.33,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,10.98
-SiO2,Phosphonate,255.62,,-26.8,,Sphere,31.2,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,104.58
-TiO2,None,148.15,,-14.55,,Irregular,0.8,6.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,92.26
-Polystyrene,COOH,100.0,,-28.85,,Sphere,50.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,CCK_8,TetrazoliumSalt,other,54.64
-MWCNT,None,25.0,186.5,-27.22,,Needle,8.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,93.01
-Mn2O3,None,51.5,522.5,-35.68,,Tetragonal,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,92.08
-Ag,None,29.57,,-24.58,,Sphere,1000.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,22.94
-CuO,None,356.5,,-16.05,,Sphere,100.0,48.0,hMSCs,Human,BoneMarrow,Mesenchymal,Adult,Normal,,NR,toluylene red,meta_oxide,0.39
-Ag,None,28.41,66.0,-33.33,,,0.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,4.07
-Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,70.17
-IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,100.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,96.35
-Ag,None,,,-31.7,,Rod,0.2,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,89.98
-TiO2,None,25.0,228.3,-10.7,40.0,,150.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,119.59
-IronOxide,Folic_acid_based,80.0,420.55,-27.7,,,0.0,24.0,Monocytes,Human,Blood,Monocyte,Adult,Normal,,LDH,LDHrelease,meta_oxide,82.58
-Ag,None,28.41,66.0,-33.33,,,0.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,2.85
-Au,Citrate_based,5.2,220.0,-30.0,,Sphere,20.0,48.0,HEBC3-KT,Human,Lung,Epithelial,Adult,Normal,female,Alamar_Blue,AlamarBlue,other,98.17
-Al2O3,None,39.7,,36.3,,Sphere,50.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,97.03
-Cr2O3,None,193.0,316.9,-32.6,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
-Cr2O3,None,193.0,316.9,-32.6,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,104.0
-Ag,None,53.3,155.3,-11.9,,,15.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTS,TetrazoliumSalt,other,95.93
-Cr2O3,None,60.0,616.8,5.7,,,150.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,89.6
-Ag,Citrate_based,50.0,,-20.0,,Sphere,12.5,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,96.68
-ZnO,None,100.0,273.4,-11.7,20.0,,0.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,100.46
-SiO2,sodium_based,345.2,,-13.0,,Sphere,200.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,82.68
-TiO2,None,33.7,308.0,-25.3,42.5,,100.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,105.99
-C70,Dextran,15.0,109.1,-20.7,,Sphere,80.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,NR,toluylene red,carbon,83.27
-Ag,PVP,20.0,148.0,-14.2,,Irregular,10.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,48.76
-NiO,None,20.0,223.5,-12.1,,,750.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,16.1
-Polystyrene,NH2,,,56.0,,Sphere,1.0,48.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,XTT,TetrazoliumSalt,other,119.65
-SWCNT,None,601.7,,-13.0,,Needle,100.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,4.6
-ZnO,None,100.0,273.4,-11.7,20.0,,25.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,15.14
-Pt,PVP,13.5,,-8.0,,Sphere,200.0,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,79.27
-CuO,None,46.3,239.0,42.8,24.1,,50.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,15.78
-Mn2O3,None,51.5,298.4,-46.1,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,92.8
-SiO2,Phosphonate,255.62,,-26.8,,Sphere,125.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,94.65
-La2O3,None,24.6,711.3,23.04,,Hexagon,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,82.8
-TiO2,None,10.0,1457.0,-11.0,,,30.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,91.3
+PLGA,Chitosan,227.0,,32.0,,Sphere,5000.0,24.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,88.02
+MWCNT,None,25.0,,-9.78,,Needle,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,100.3
+Au,PEG_based,21.7,,-7.6,,Sphere,,24.0,C17_2,Mouse,Cerebellum,Neural,fetus,Normal,,MTT,TetrazoliumSalt,other,91.48
+SLN,None,98.4,,-14.6,,Sphere,4674.1,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,21.24
 ZrO2,None,10.0,,-45.5,,Sphere,150.0,24.0,HCT-116,Human,Colon,Epithelial,Adult,cancer,male,Live/Dead,Trypan_Blue,meta_oxide,52.62
-SiO2,None,18.3,224.0,,,Sphere,50.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.45
-IronOxide,Folic_acid_based,20.0,344.25,-23.5,,,0.0,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,90.68
-TiO2,None,81.8,486.0,-8.6,,Sphere,3.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,87.56
-MWCNT,None,17.6,171.4,0.9,,Needle,2.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,97.09
-MWCNT,None,38.8,179.13,-16.84,,Needle,32.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,96.85
-Dy2O3,None,37.5,751.7,22.24,,Cubic,200.0,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,89.7
-Ag,None,29.57,,-27.0,,Sphere,80.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,48.09
-Ni2O3,None,140.6,339.5,32.2,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,91.4
-MWCNT,COOH,8.0,,-9.64,,Needle,200.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,76.36
-Au,GSH,43.17,,-58.0,,Sphere,25.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,102.12
-Fe2O3,None,32.0,297.6,-18.1,,,200.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,83.1
-SiO2,Phosphonate,135.0,375.4,-26.8,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,71.74
-Co3O4,None,10.0,202.1,20.78,,Cubic,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,102.51
-Au,Chitosan,99.0,123.9,47.44,,Star,,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTT,TetrazoliumSalt,other,88.53
-Dendrimer,Ac,4.0,,150.0,,Sphere,6.1,1.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Live/Dead,propidium_iodide,other,97.8
-Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,200.0,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,16.39
-Ag,None,29.57,,-27.0,,Sphere,150.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,38.77
-CuO,None,46.3,239.0,42.8,24.1,,10.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,62.33
-Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.01,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,26.09
-ZnO,None,100.0,258.55,-9.96,,Sphere,80.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,-3.56
-Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.0,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,77.94
-ZnO,None,141.0,404.0,,,Sphere,10.0,9.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,88.46
-Pt,PVP,4.0,13.5,-8.0,,,0.0,72.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,92.64
-SnO2,None,46.1,264.9,-10.5,,,100.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,86.8
-Au,Citrate_based,61.06,,-30.55,,Sphere,5.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,107.46
-Chitosan,None,,,72.1,,Irregular,62.5,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,98.33
-MnO2,None,43.0,432.2,-28.38,,Tetragonal,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.34
-La2O3,None,24.6,711.3,23.04,,Hexagon,6.2,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,108.59
-Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,40.0
-Cr2O3,None,193.0,316.9,-32.6,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,14.9
-Y2O3,None,32.7,743.3,26.09,,Cubic,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.7
-C60,None,34.64,142.0,-37.4,,Sphere,10.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,71.59
-TiO2,None,33.7,308.0,-25.3,42.5,,1.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,101.84
-ZnO,None,141.0,404.0,,,Sphere,100.0,3.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,72.08
-Polystyrene,NH2,100.0,,25.0,,Sphere,5.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,92.72
-Eu2O3,None,52.8,847.3,43.11,,Cubic,100.0,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,95.78
-SiO2,Phosphonate,255.62,,-26.8,,Sphere,250.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,72.36
-SiO2,None,178.0,297.5,58.0,,Sphere,0.0,24.0,primary,Human,Lung,Macrophage,Adult,Normal,,Vialight,luciferase,meta_oxide,87.11
-Polystyrene,COOH,165.25,,-29.8,,Sphere,10.0,24.0,AT2,Human,Lung,Epithelial,,Normal,,MTT,TetrazoliumSalt,other,85.91
-Polystyrene,NH2,100.0,,25.0,,Sphere,5.0,48.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,CCK_8,TetrazoliumSalt,other,61.42
-Sm2O3,None,108.3,765.1,47.34,,Cubic,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.67
-Chitosan,None,,,74.4,,Irregular,125.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,102.98
-SiO2,None,100.33,,-31.7,,Sphere,100.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,71.46
-SiO2,None,19.1,,-36.74,,Sphere,400.0,24.0,L-132,Human,Lung,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,35.28
-Dy2O3,None,37.5,751.7,22.24,,Cubic,6.2,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,108.77
-SWCNT,None,1.15,,-15.53,,Needle,0.1,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,XTT,TetrazoliumSalt,nanotubes,101.74
-Ag,Citrate_based,50.0,96.5,-35.0,,Sphere,100.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,31.67
+IronOxide,silica_based,199.0,,-9.77,,Sphere,100.0,24.0,HK-2,Human,Kidney,Epithelial,Adult,cancer,male,XTT,TetrazoliumSalt,meta_oxide,80.16
+Ag,Citrate_based,50.0,,-19.5,,Sphere,12.5,72.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,98.72
+Au,None,65.0,,-28.05,,Rod,200.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,83.56
+TiO2,None,21.0,160.5,-27.8,,Sphere,120.0,6.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,135.38
+EudragitRL,None,142.0,185.0,56.0,,Sphere,6.25,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,Live/Dead,Trypan_Blue,other,116.57
+PLGA,Poloxamer,112.0,,-21.0,,Sphere,3000.0,24.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,87.43
+Pt,None,24.6,,-11.0,,Sphere,180.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTS,TetrazoliumSalt,other,83.9
+PLGA,PEG_based,90.0,,-22.46,,Sphere,10.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,92.62
+SiO2,None,19.1,,-36.74,,Sphere,500.0,24.0,L-132,Human,Lung,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,31.88
+IronOxide,PEG_based,344.65,,-16.45,,Sphere,10.0,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,90.93
+TiO2,None,20.0,338.0,-7.7,50.4,,30.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,116.97
+Pt,Folic_acid_based,12.5,,-40.5,,Sphere,400.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,19.81
+SiO2,NH2,289.56,,21.7,,Sphere,500.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,103.94
+MWCNT,COOH,24.6,,-20.2,,Needle,25.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,WST-1,TetrazoliumSalt,nanotubes,91.12
+Ag,None,66.0,28.41,-33.33,,,0.01,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,11.56
+Ag,None,66.0,28.41,-33.33,,,0.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,0.0
+ZnO,None,32.0,1093.0,21.6,37.0,,6.25,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,94.92
+Dendrimer,None,11.0,,4.93,,Sphere,100.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,9.25
+Graphite,None,4.0,,31.4,,Sphere,20.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,70.15
 Sb2O3,None,11.8,231.5,-30.04,,Orthorhombic,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.68
-Ag,None,29.57,,-24.58,,Sphere,400.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,19.0
-CoO,None,71.8,208.3,21.6,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,93.6
-CuO,None,12.8,305.3,7.6,,,6.3,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,87.6
-SiO2,None,21.06,,-24.5,,Sphere,50.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,61.07
-Polystyrene,COOH,500.0,465.3,-30.2,,Sphere,5.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,105.35
-IronOxide,PEI,17.2,,29.28,,Sphere,12.5,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,15.64
-SWCNT,None,112.9,,12.9,,Needle,100.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,64.28
-ZnO,None,100.0,273.4,-11.7,20.0,,20.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,82.07
-SWCNT,None,16.4,,-9.72,,Needle,200.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,87.13
-ZnO,None,100.0,273.4,-11.7,20.0,,0.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,100.27
-ZnO,None,100.0,273.4,-11.7,20.0,,40.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,53.63
-CeO2,None,18.3,808.5,13.45,,Cubic,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.83
-Au,None,13.5,,-8.1,,Sphere,6.25,72.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,10.0
-TiO2,None,148.15,,-14.55,,Irregular,0.01,6.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,98.75
-Ag,PEG_based,59.9,,-9.3,,Sphere,50.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,69.23
-TiO2,None,25.0,228.3,-10.7,40.0,,150.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,91.11
-SiO2,None,13.0,100.0,-27.0,,,0.54,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CellTiterBlue,AlamarBlue,meta_oxide,107.2
-MWCNT,COOH,,128.5,,,Needle,15.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,91.68
-IronOxide,PEI,17.2,,29.28,,Sphere,25.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTS,TetrazoliumSalt,meta_oxide,3.53
-ZnO,None,94.5,253.6,17.5,,Sphere,10.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,meta_oxide,57.36
-Ag,PEG_based,59.9,,-9.3,,Sphere,0.5,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,107.48
-Chitosan,None,,,71.3,,Irregular,125.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,93.92
-Au,None,50.0,74.8,,,Sphere,15.0,24.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,68.78
-IronOxide,Chitosan,8.0,,11.0,,Sphere,4.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,78.82
-IronOxide,None,28.33,,-18.4,,Sphere,10.0,48.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,84.35
-Au,None,2.0,,24.4,,Sphere,,24.0,ASM,Human,Lung,Spindle,,Normal,,MTS,TetrazoliumSalt,other,54.98
-MWCNT,None,17.4,190.6,-18.9,,Needle,2.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,92.5
-SWCNT,None,9.0,,12.9,,Needle,0.1,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,39.21
-TiO2,None,25.0,434.1,-7.83,,Sphere,10.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,88.72
-EudragitRL,None,185.0,,56.0,,Sphere,50.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,80.38
-Ag,None,29.57,,-27.0,,Sphere,60.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,7.38
-SiO2,None,21.06,,-24.5,,Sphere,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,67.49
-MgO,None,39.2,,11.6,,Sphere,0.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,97.03
+IronOxide,silica_based,199.0,,-9.77,,Sphere,400.0,24.0,HK-2,Human,Kidney,Epithelial,Adult,cancer,male,XTT,TetrazoliumSalt,meta_oxide,52.23
+Chitosan,None,,,63.2,,Sphere,250.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,107.47
+Ag,Citrate_based,50.0,,-20.0,,Sphere,50.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,67.35
+Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,400.0,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,11.16
 SWCNT,None,112.9,,12.9,,Needle,0.1,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,61.04
-C70,Dextran,15.0,109.1,-20.7,,Sphere,80.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,Live/Dead,CalceinAM,carbon,83.69
-ZnO,None,94.5,253.6,17.5,,Sphere,20.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,meta_oxide,45.65
-In2O3,None,29.8,224.3,-9.6,,,500.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,36.6
-C60,Dextran,30.0,,-16.9,,Sphere,50.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,77.48
-IronOxide,None,,,-36.5,,Sphere,4.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,91.28
+Ag,None,29.57,,-24.58,,Sphere,100.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,18.66
+IronOxide,None,28.33,,-18.4,,Sphere,100.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,80.0
+SiO2,None,21.06,,-24.5,,Sphere,500.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,46.44
+SiO2,None,33.5,120.0,-47.6,576.23,,25.0,24.0,MeT_5A,Human,Mesothelium,Epithelial,,Normal,,MTT,TetrazoliumSalt,meta_oxide,94.98
+TiO2,None,25.0,228.3,-10.7,40.0,,100.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,94.97
+C60,None,34.64,142.0,-37.4,,Sphere,50.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,52.61
+SiO2,None,37.82,,-24.5,,Sphere,10.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,45.58
+WO3,None,16.6,111.6,-35.84,,Monoclinic,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,other,103.3
+Ag,None,29.57,,-24.58,,Sphere,800.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,6.72
+Ag,None,,,-2.55,,Wire,2.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,MTS,TetrazoliumSalt,other,95.63
+SiO2,None,33.5,120.0,-47.6,576.23,,100.0,24.0,MeT_5A,Human,Mesothelium,Epithelial,,Normal,,MTT,TetrazoliumSalt,meta_oxide,67.87
+Chitosan,None,,,71.3,,Irregular,750.0,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,106.69
+Ag,None,29.57,,-24.58,,Sphere,800.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,5.91
+Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,25.0,72.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,45.22
+CuO,None,12.8,305.3,7.6,,,6.3,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,81.7
+Ag,Citrate_based,50.0,,-21.5,,Sphere,100.0,48.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,70.57
+Pt,None,24.6,,-11.0,,Sphere,20.0,48.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTS,TetrazoliumSalt,other,90.0
+Ag,None,29.57,,-24.58,,Sphere,200.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,14.31
+Ag,Citrate_based,27.1,54.05,-25.6,,Sphere,10.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,85.26
+ZnO,None,35.6,295.5,-41.6,27.9,,10.0,24.0,SW480,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,26.34
+TiO2,None,21.0,74.0,-9.42,57.0,,0.0,24.0,Chang_Liver,Human,Liver,Epithelial,,Normal,,Annexiv_V_,propidium_iodide,meta_oxide,95.64
+Chitosan,None,,,71.3,,Irregular,62.5,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,100.81
+ZnO,None,45.3,310.0,32.7,,Sphere,20.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,63.82
+Pt,PVP,4.0,13.5,-8.0,,,0.01,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,89.85
+TiO2,None,25.0,420.7,-9.96,,Sphere,60.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,108.95
+PLGA,PEG_based,30.0,,-24.09,,Needle,50.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,64.63
+Chitosan,None,,,72.1,,Irregular,750.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,115.19
+Dendrimer,None,31.2,,3.18,,Sphere,100.0,24.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,17.3
+IronOxide,Folic_acid_based,80.0,420.55,-27.7,,,0.0,24.0,Monocytes,Human,Blood,Monocyte,Adult,Normal,,LDH,LDHrelease,meta_oxide,77.68
+MgO,None,39.2,,11.6,,Sphere,20.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.74
+MWCNT,None,,,-13.0,,Needle,200.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,11.73
+Au,None,65.0,,-28.05,,Rod,400.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,62.0
+Pt,None,24.6,,-11.0,,Sphere,180.0,6.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,NR,toluylene red,other,93.21
+Ag,None,66.0,28.41,-33.33,,,0.01,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,6.78
+Pt,PVP,13.5,,-8.0,,Sphere,25.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,90.05
+Ag,None,7.0,14.7,-20.0,,,0.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Promegas CTB Assay,AlamarBlue,other,96.87
+IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,5.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,94.55
+TiO2,None,34.1,400.0,-12.0,48.9,,0.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,meta_oxide,100.75
+Ni2O3,None,140.6,339.5,32.2,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
+Ag,None,66.0,28.41,-33.33,,,0.01,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,35.11
+CuO,None,30.0,276.4,-18.08,,Sphere,1.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,101.36
+TiO2,None,81.8,486.0,-8.6,,Sphere,30.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,57.4
+SiO2,None,105.5,,-31.7,,Sphere,10.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,53.9
+Ag,None,66.0,28.41,-33.33,,,0.01,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,6.78
+SiO2,NH2,,437.0,21.7,,,0.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,101.05
+Polystyrene,None,44.0,,-36.72,,Sphere,10.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTT,TetrazoliumSalt,other,83.95
+TiO2,None,124.9,171.0,-17.6,,,0.0,24.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,98.57
+SiO2,None,21.06,,-24.5,,Sphere,50.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,61.07
+Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,48.33
+Al2O3,None,14.7,429.5,22.95,,Rhombohedral,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,104.08
+Ag,Citrate_based,50.0,,-19.5,,Sphere,25.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,75.56
+SWCNT,None,1.15,,-15.53,,Needle,10.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,XTT,TetrazoliumSalt,nanotubes,92.13
+SiO2,None,105.5,,-31.7,,Sphere,500.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,29.02
+Polystyrene,None,50.0,,-22.66,,Sphere,125.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,CoulterCounter,Impedance,other,110.7
+Au,Citrate_based,18.2,8.7,-8.1,,Sphere,,24.0,PBMC,Human,Blood,Lymphoblast,Adult,Normal,,MTT,TetrazoliumSalt,other,62.61
+Hydroxyapatite,None,25.0,,-0.4,,Rod,30.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,101.71
+SiO2,None,19.1,,-36.74,,Sphere,300.0,24.0,L-132,Human,Lung,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,47.09
+ZnO,None,100.0,258.55,-9.96,,Sphere,80.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,59.83
+IronOxide,None,28.33,,-18.4,,Sphere,0.1,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,83.54
+Au,None,90.0,107.85,,,Sphere,1.0,24.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,99.63
+SiO2,None,50.0,79.0,-13.2,108.3,,10.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,97.92
+Au,None,86.8,,-28.32,,Sphere,0.2,96.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,120.0
+Ag,None,29.57,,-24.58,,Sphere,50.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,46.6
+ZnO,None,32.0,1093.0,21.6,37.0,,12.5,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,76.45
+SiO2,None,14.23,128.0,-26.5,,Sphere,1.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,NR,toluylene red,meta_oxide,96.71
+ZnO,None,52.0,640.0,29.4,15.0,,50.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,4.26
+SiO2,COOH,120.0,,-28.7,,Sphere,200.0,96.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,81.03
+SiO2,None,22.27,,-26.96,,Sphere,1000.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,meta_oxide,9.69
+SiO2,DPPC,19.4,889.03,-13.5,,Sphere,16.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,98.62
+SiO2,None,120.0,232.2,-5.21,,Sphere,50.0,96.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,88.51
+Au,None,124.1,,-24.14,,Star,40.0,96.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,116.24
+Dendrimer,None,11.0,,4.93,,Sphere,10.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,45.81
+IronOxide,None,6.0,,-36.5,,Sphere,0.5,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,meta_oxide,93.8
+SWCNT,None,112.9,,12.9,,Needle,100.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,nanotubes,64.28
+Au,Citrate_based,270.0,199.0,-45.96,,Sphere,10.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,CalceinAM,other,86.01
+Ag,None,29.57,,-27.0,,Sphere,150.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,25.46
+TiO2,None,10.0,1457.0,-11.0,,,0.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,100.0
+Chitosan,None,,,63.2,,Sphere,1000.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,82.95
+MWCNT,COOH,24.6,,-20.2,,Needle,5.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,95.6
+SWCNT,None,9.0,,12.9,,Needle,0.1,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,81.34
+SLN,DDAB,134.2,,28.2,,Sphere,330.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,other,77.43
+Ag,None,29.57,,-24.58,,Sphere,100.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,17.73
+MWCNT,None,,,-13.0,,Needle,25.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,47.83
+Dendrimer,None,28.6,,11.07,,Sphere,5.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,76.08
+Polystyrene,NH2,100.0,,23.85,,Sphere,10.0,24.0,Macrophages,Human,Lung,Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,other,97.05
+Cr2O3,None,193.0,416.3,-5.62,,Rhombohedral,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,94.85
+SiO2,None,13.0,100.0,-27.0,,,5.45,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CellTiterBlue,AlamarBlue,meta_oxide,100.59
+Polystyrene,COOH,100.0,124.4,-28.85,,Sphere,50.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,102.16
+TiO2,None,25.0,228.3,-10.7,40.0,,80.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,90.05
+TiO2,None,20.0,707.0,-12.1,50.4,,30.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,100.0
+TiO2,None,25.0,504.5,-10.7,210.0,,150.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,121.11
+SiO2,None,148.95,,-73.8,,Sphere,100.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,CalceinAM,meta_oxide,27.48
+SiO2,None,232.0,590.6,87.0,,,0.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,Vialight,luciferase,meta_oxide,121.21
+MWCNT,None,,,-13.0,,Needle,6.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,70.59
+IronOxide,PEG_based,35.8,,-0.52,,Sphere,50.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,88.14
+Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,25.0,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,65.32
+IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,25.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,100.1
+ZnO,None,100.0,273.4,-11.7,20.0,,40.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,56.69
+SWCNT,None,601.7,,-13.0,,Needle,6.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,103.13
+Au,Chitosan,,123.9,47.44,,Star,,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,34.69
+SiO2,None,59.72,,-38.1,,Sphere,10.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,95.17
+Ag,None,28.41,66.0,-33.33,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,71.13
+ZnO,None,100.0,258.55,-9.96,,Sphere,80.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,-3.56
+Dendrimer,Ac,4.0,,150.0,,Sphere,6.1,1.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Live/Dead,propidium_iodide,other,97.8
+TiO2,None,25.0,504.5,-10.7,210.0,,100.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,122.22
+Chitosan,None,,,63.2,,Sphere,62.5,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,100.0
+Au,PEG_based,21.7,,-7.6,,Sphere,,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,other,96.95
+La2O3,None,24.6,711.3,23.04,,Hexagon,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,92.7
+CeO2,None,18.3,808.5,13.45,,Cubic,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
+TiO2,None,25.0,504.5,-10.7,210.0,,150.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,151.11
+IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,100.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,98.27
+IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,10.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,108.02
+SiO2,None,203.3,,-36.3,,Sphere,10.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,50.0
+Ni2O3,None,140.6,339.5,32.2,,,0.4,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
+Au,Cystein_based,25.76,,-46.8,,Sphere,25.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,96.83
+Dendrimer,None,2.5,,64.0,,Sphere,21.3,1.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Live/Dead,propidium_iodide,other,95.7
+Gd2O3,None,43.8,687.3,22.63,,Cubic,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,107.49
+PTFE-PMMA,None,618.05,,-8.05,,Irregular,50.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,96.41
+Ag,None,7.0,14.7,-20.0,,,0.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Promegas CTB Assay,AlamarBlue,other,72.23
+PLGA,Poloxamer,112.0,,-21.0,,Sphere,200.0,24.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,102.97
+Hydroxyapatite,None,30.0,,-5.7,,Rod,10.0,24.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,CCK_8,TetrazoliumSalt,other,98.4
+Dendrimer,SC,70.2,,-13.65,,Sphere,1.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,113.09
+SiO2,None,,229.5,-21.77,,Sphere,64.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,104.41
+EudragitRL,None,142.0,185.0,56.0,,Sphere,6.25,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,other,119.09
+IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,300.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,96.35
+Au,PEG_based,21.7,,-7.6,,Sphere,,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,other,92.05
+Al2O3,None,85.0,,0.4,,Sphere,200.0,24.0,BJ,Human,Skin,Fibroblast,,Normal,male,EZ4U,TetrazoliumSalt,meta_oxide,98.74
+ZnO,None,100.0,273.4,-11.7,20.0,,10.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,101.98
+Fe2O3,None,42.5,957.0,-8.2,82.8,,100.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,91.97
+Polystyrene,None,50.0,,-33.0,,Sphere,10.0,24.0,TT1,Human,Lung,Epithelial,Adult,cancer,,MTT,TetrazoliumSalt,other,92.8
+Chitosan,None,,,50.0,,Sphere,25.0,48.0,K562,Human,BoneMarrow,Lymphoblast,Adult,cancer,female,MTT,TetrazoliumSalt,other,13.68
+Pt,PVP,13.5,,-8.0,,Sphere,100.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,82.23
+SiO2,None,13.0,100.0,-27.0,,,54.47,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,meta_oxide,69.19
+EudragitRL,None,185.0,,56.0,,Sphere,25.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Live/Dead,Trypan_Blue,other,96.96
+Diamond,None,4.0,,-35.6,,Sphere,20.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,98.96
+Nd2O3,None,133.8,652.1,30.26,,Hexagon,12.5,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,106.07
+CoO,None,71.8,208.3,21.6,,,6.3,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,102.0
+CuO,None,12.8,305.3,7.6,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,14.8
+TiO2,None,24.59,172.0,-14.25,,Sphere,100.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,8.6
+TiO2,None,24.59,172.0,-14.25,,Sphere,30.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,30.61
+SiO2,None,22.27,,-26.96,,Sphere,5.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,meta_oxide,89.74
+PLGA,PEG_based,30.0,,-24.09,,Needle,250.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,55.91
+Dendrimer,NH2,6.7,,4.35,,Sphere,5.0,24.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,87.07
+MWCNT,None,,,-13.0,,Needle,6.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,51.78
+SiO2,None,369.0,546.0,-38.7,9.0,,0.0,20.0,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,94.2
+La2O3,None,24.6,711.3,23.04,,Hexagon,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.54
+TiO2,None,193.0,,-11.2,,Sphere,10.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,105.66
+IronOxide,Chitosan,8.0,,11.0,,Sphere,0.5,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,93.5
+Au,CyA,6.5,,88.0,,Sphere,15.0,24.0,Jurkat,Human,Blood,Lymphoblast,Adult,cancer,male,MTT,TetrazoliumSalt,other,83.46
+Ag,None,,,-31.7,,Rod,20.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,103.34
+Au,None,13.5,,-8.1,,Sphere,1.67,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,102.43
+Fe2O3,None,42.5,957.0,-8.2,82.8,,1.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,98.7
+TiO2,None,25.0,504.5,-10.7,210.0,,40.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,94.12
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.01,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,38.01
+Au,PEG_based,21.7,,-7.6,,Sphere,,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,other,84.71
+Ag,None,28.41,66.0,-33.33,,,0.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,25.83
+Polystyrene,NH2,,,56.0,,Sphere,100.0,48.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,XTT,TetrazoliumSalt,other,106.84
+SiO2,None,37.82,,-24.5,,Sphere,200.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,38.05
+ZnO,None,100.0,258.55,-9.96,,Sphere,30.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,70.74
+Ag,None,28.41,66.0,-33.33,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,58.98
+IronOxide,silica_based,420.7,,-17.65,,Sphere,1.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,87.79
+Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,38.76
+Au,PEG_based,21.7,,-7.6,,Sphere,,24.0,C17_2,Mouse,Cerebellum,Neural,fetus,Normal,,MTT,TetrazoliumSalt,other,92.34
+Fe3O4,None,46.8,1025.0,1.7,147.4,,20.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,90.16
+La2O3,None,24.6,711.3,23.04,,Hexagon,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
+TiO2,None,124.9,171.0,-17.6,,,0.0,24.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,77.86
+Au,Chitosan,,190.7,42.28,,Sphere,,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,107.26
+Ag,None,29.57,,-27.0,,Sphere,150.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,38.77
+Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,100.85
+SiO2,Phosphonate,255.62,,-26.8,,Sphere,500.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,70.77
+Au,None,26.5,,-4.52,,Sphere,2.5,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,101.01
+Al2O3,None,39.7,,36.3,,Sphere,1.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,99.67
+Fe2O3,None,12.3,297.2,-3.87,,Rhombohedral,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.57
+ZnO,None,45.3,310.0,32.7,21.3,,50.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,36.62
+ZnO,None,7.5,795.0,27.4,90.0,,12.5,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,79.19
+Pt,PVP,13.5,,-8.0,,Sphere,25.0,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,98.29
+Ag,None,,,-16.2,,Sphere,30.0,72.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTT,TetrazoliumSalt,other,52.31
+Au,None,124.1,,-24.14,,Star,2.0,96.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,106.84
+IronOxide,Dextran,18.0,170.0,,,Sphere,400.0,24.0,VERO,Monkey,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,100.0
+Fe2O3,None,42.5,957.0,-8.2,82.8,,50.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,94.56
+SWCNT,None,9.0,,12.9,,Needle,50.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,45.98
+Ag,Cystein_based,8.0,,-56.9,,Sphere,1.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,103.7
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.01,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,34.29
+Au,None,86.8,,-28.32,,Sphere,40.0,24.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,1.21
+Ni2O3,None,140.6,339.5,32.2,,,25.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,68.2
+Al2O3,None,39.7,267.0,36.3,64.7,,0.1,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.9
+SiO2,None,100.0,,-14.37,,Sphere,40.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CCK_8,TetrazoliumSalt,meta_oxide,28.7
+PLGA,Chitosan,204.0,,10.0,,Sphere,5000.0,24.0,Colo­205,Human,Colon,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,86.9
+TiO2,None,40.0,322.3,-25.27,50.0,,10.0,12.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,ATPLite,luciferase,meta_oxide,92.5
+La2O3,None,24.6,711.3,23.04,,Hexagon,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,82.8
+MgO,None,,,-7.01,,Sphere,200.0,24.0,3T3_L1,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,64.13
+TiO2,None,25.0,228.3,-10.7,40.0,,20.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,87.62
+IronOxide,None,28.33,,-18.4,,Sphere,10.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,88.33
+SiO2,None,18.3,224.0,,,Sphere,25.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,97.29
+ZnO,None,141.0,404.0,,,Sphere,100.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,5.92
+ZnO,None,100.0,258.55,-9.96,,Sphere,35.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,56.11
+SiO2,Phosphonate,135.0,375.4,-26.8,,,0.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,105.96
+IronOxide,Chitosan,8.0,,11.0,,Sphere,0.5,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,meta_oxide,98.9
+Ni2O3,None,140.6,339.5,32.2,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,68.1
+Chitosan,None,,,50.0,,Sphere,15.0,48.0,K562,Human,BoneMarrow,Lymphoblast,Adult,cancer,female,MTT,TetrazoliumSalt,other,37.48
+Dendrimer,None,35.8,,4.35,,Sphere,10.0,24.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,64.37
+Au,None,26.5,,-4.52,,Sphere,2.5,72.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,92.55
+SiO2,None,13.0,100.0,-27.0,,,0.54,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CellTiterBlue,AlamarBlue,meta_oxide,107.2
+Pt,None,24.6,,-11.0,,Sphere,20.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,NR,toluylene red,other,91.8
+Polystyrene,COOH,100.0,165.25,-29.8,,Sphere,50.0,24.0,TT1,Human,Lung,Epithelial,Adult,cancer,,MTT,TetrazoliumSalt,other,91.16
+TiO2,None,25.0,228.3,-10.7,40.0,,0.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,100.0
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.02,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,19.91
+TiO2,None,25.0,228.3,-10.7,40.0,,0.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,100.0
+SWCNT,None,1.15,,-15.53,,Needle,1.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,48.79
+Pt,PVP,4.0,13.5,-8.0,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,86.13
+SiO2,None,14.23,128.0,-26.5,,Sphere,10.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,91.18
+TiO2,None,25.0,504.5,-10.7,210.0,,40.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,120.0
+Ag,None,29.57,,-24.58,,Sphere,800.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,6.53
+Ag,Citrate_based,39.94,,-23.5,,Sphere,0.5,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,102.86
+Chitosan,None,,,74.4,,Irregular,62.5,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,100.99
+Diamond,None,4.0,,-35.6,,Sphere,100.0,24.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,103.09
+ZnO,None,253.6,,17.5,,Sphere,50.0,24.0,L-132,Human,Lung,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,29.49
+MWCNT,COOH,,128.5,,,Needle,60.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,86.77
+TiO2,None,21.0,160.5,-27.8,,Sphere,60.0,6.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,134.15
+Hydroxyapatite,None,25.0,,-0.4,,Rod,10.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,98.47
+Au,None,124.1,,-24.14,,Star,200.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,137.68
+Pt,PVP,13.5,,-8.0,,Sphere,25.0,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,98.13
+PLGA,PVA,172.0,,-3.5,,Sphere,5000.0,24.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,80.14
+Ag,PVP,20.0,134.5,-13.05,,Irregular,3.1,48.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,NR,toluylene red,other,24.59
+CuO,None,12.8,305.3,7.6,,,0.4,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
+EudragitRL,None,185.0,,56.0,,Sphere,6.25,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,101.08
+IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,300.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,96.04
+ZrO2,None,10.0,,-45.5,,Sphere,200.0,24.0,HCT-116,Human,Colon,Epithelial,Adult,cancer,male,Live/Dead,Trypan_Blue,meta_oxide,42.93
+Ag,Citrate_based,50.0,94.5,-22.5,,Sphere,50.0,24.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,66.75
+Au,None,90.0,107.85,,,Sphere,15.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,71.2
+TiO2,None,40.0,322.3,-25.27,50.0,,10.0,6.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,ATPLite,luciferase,meta_oxide,91.5
+Ag,PEG_based,59.9,,-9.3,,Sphere,75.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,65.07
+Ag,None,66.0,28.41,-33.33,,,0.01,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,6.38
+ZnO,None,100.0,258.55,-9.96,,Sphere,20.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,92.8
+PTFE-PMMA,None,851.05,,-5.25,,Irregular,100.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,93.13
+IronOxide,Dextran,7.5,,-11.0,,Sphere,50.0,24.0,Monocytes,Human,Blood,Monocyte,Adult,Normal,,CCK_8,TetrazoliumSalt,meta_oxide,102.4
+ZrO2,None,44.5,,11.8,,Sphere,50.0,48.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,81.09
+IronOxide,None,28.33,,-18.4,,Sphere,10.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,85.39
+CuO,None,46.3,,42.8,,Sphere,100.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,12.79
+Pt,Citrate_based,4.8,195.0,-43.0,,Sphere,20.0,48.0,HEBC3-KT,Human,Lung,Epithelial,Adult,Normal,female,Alamar_Blue,AlamarBlue,other,99.27
+Ag,None,,,-16.2,,Sphere,100.0,72.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTT,TetrazoliumSalt,other,30.1
+Ag,None,29.57,,-24.58,,Sphere,200.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,5.91
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.01,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,38.95
+IronOxide,PEI,17.2,,29.28,,Sphere,12.5,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,15.64
+Fe2O3,None,42.5,957.0,-8.2,82.8,,1.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,95.85
+Ag,None,29.57,,-27.0,,Sphere,250.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,32.11
+Al2O3,None,44.0,372.3,-20.2,,,200.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,73.5
+IronOxide,PEG_based,16.5,,-0.52,,Sphere,12.5,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTS,TetrazoliumSalt,meta_oxide,105.38
+IronOxide,None,28.33,,-18.4,,Sphere,100.0,24.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,76.37
+SLN,CTAB,135.1,,28.2,,Sphere,165.0,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,3.38
+Chitosan,None,,,71.3,,Irregular,250.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,104.26
+ZnO,None,100.0,273.4,-11.7,20.0,,35.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,9.8
+SiO2,None,21.06,,-24.5,,Sphere,50.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,50.8
+Au,Chitosan,8.7,190.7,42.28,,Sphere,,24.0,HT29,Human,Colon,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,75.69
+IronOxide,Chitosan,8.0,,11.0,,Sphere,0.5,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,92.94
+Ag,Citrate_based,50.0,,-20.0,,Sphere,100.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,59.13
+TiO2,None,25.0,420.7,-9.96,,Sphere,100.0,6.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,116.11
+Ag,Citrate_based,50.0,96.5,-35.0,,Sphere,25.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,41.9
+Au,Chitosan,8.7,190.7,42.28,,Sphere,,24.0,HT29,Human,Colon,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,97.37
+IronOxide,silica_based,420.7,,-17.65,,Sphere,1.0,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,LDH,LDHrelease,meta_oxide,82.57
+Chitosan,None,,,71.3,,Irregular,125.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,99.59
+Al2O3,None,39.7,267.0,36.3,64.7,,5.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,94.66
+ZnO,None,141.0,404.0,,,Sphere,1.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,93.57
+Pt,Folic_acid_based,12.5,,-40.5,,Sphere,100.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,58.45
+ZnO,None,20.0,327.9,,,Sphere,1000.0,48.0,HFL1,Human,Lung,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,meta_oxide,31.47
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.0,72.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,38.12
+ZnO,None,100.0,258.55,-9.96,,Sphere,35.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,59.61
+Au,None,30.0,58.55,,,Sphere,5.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,80.58
+Chitosan,None,,,62.1,,Irregular,62.5,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,104.32
+Pt,PVP,13.5,,-8.0,,Sphere,50.0,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,95.61
+C60,Dextran,30.29,372.0,-10.1,,Sphere,20.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,77.69
+PLGA,PEG_based,90.0,,-22.46,,Sphere,50.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,94.75
+TiO2,None,25.0,504.5,-10.7,210.0,,120.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,95.71
+ZnO,None,245.0,,-15.8,,Sphere,20.0,6.0,HEK,Human,Skin,Keratinocyte,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,75.95
+Polystyrene,NH2,100.0,,24.6,,Sphere,50.0,24.0,TT1,Human,Lung,Epithelial,Adult,cancer,,MTT,TetrazoliumSalt,other,98.79
+TiO2,None,25.0,228.3,-10.7,40.0,,150.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,97.78
+Pt,PVP,13.5,,-8.0,,Sphere,200.0,72.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,70.49
+Au,None,13.5,,-8.1,,Sphere,2.5,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,109.53
+Ag,None,28.41,66.0,-33.33,,,0.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,25.43
+ZnO,None,45.3,310.0,32.7,,Sphere,0.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,95.72
+SiO2,None,,229.5,,,Sphere,8.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,101.67
+Au,GSH,43.17,,-58.0,,Sphere,10.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,106.88
+Au,Chitosan,99.0,123.9,47.44,,Star,,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTT,TetrazoliumSalt,other,48.75
+Polystyrene,None,100.0,,-33.05,,Sphere,10.0,24.0,AT2,Human,Lung,Epithelial,,Normal,,MTT,TetrazoliumSalt,other,98.47
+ZrO2,None,10.0,,-45.5,,Sphere,200.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,Live/Dead,Trypan_Blue,meta_oxide,36.98
+ZnO,None,245.0,,-15.8,,Sphere,8.0,24.0,HEK,Human,Skin,Keratinocyte,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,59.34
+TiO2,None,30.0,1843.0,-30.8,69.0,,0.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,101.58
+Pt,None,24.6,,-11.0,,Sphere,60.0,48.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,NR,toluylene red,other,80.63
+C70,Dextran,15.0,109.1,-20.7,,Sphere,80.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,NR,toluylene red,carbon,83.27
+Au,Citrate_based,13.0,34.5,-34.2,,Sphere,0.6,48.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,NR,toluylene red,other,95.35
+Chitosan,None,,,74.4,,Irregular,62.5,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,94.84
+TiO2,None,125.0,1054.0,-40.8,38.0,,0.0,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,100.87
+TiO2,None,125.0,1054.0,-40.8,38.0,,0.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,101.7
+SiO2,None,100.33,,-31.7,,Sphere,100.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,65.21
+IronOxide,Dextran,18.0,170.0,,,Sphere,100.0,24.0,MDCK,Dog,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,101.97
+Au,PAMAM,9.65,,17.1,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,70.17
+ZnO,None,32.0,1093.0,21.6,37.0,,3.13,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,93.44
+Ag,Citrate_based,39.94,,-23.5,,Sphere,5.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,109.29
+IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,5.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,96.06
+ZnO,None,141.0,404.0,,,Sphere,10.0,9.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,88.46
+Au,None,57.0,,-11.08,,Sphere,12.5,72.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,93.14
+HfO2,None,28.4,262.2,-27.78,,Monoclinic,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.29
+EudragitRL,None,142.0,185.0,56.0,,Sphere,12.5,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,WST-1,TetrazoliumSalt,other,132.53
+Dendrimer,OS,377.6,,8.3,,Sphere,1.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,91.85
+MWCNT,None,8.0,,-6.96,,Needle,200.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,56.36
+Au,None,124.1,,-24.14,,Star,400.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,128.7
+MWCNT,None,17.6,,0.9,,Needle,2.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,NR,toluylene red,nanotubes,101.23
+Ag,PVP,20.0,148.0,-14.2,,Irregular,1.5,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,104.75
+IronOxide,None,46.8,,1.7,,Sphere,0.1,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.79
+SiO2,None,148.95,,-73.8,,Sphere,5.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,meta_oxide,100.28
+SiO2,Phosphonate,255.62,,-26.8,,Sphere,1.95,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,97.46
+IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,100.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,100.38
+SiO2,None,59.72,,-38.1,,Sphere,50.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,67.4
+C60,Dextran,30.29,372.0,-10.1,,Sphere,5.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,95.39
+Au,None,86.8,,-28.32,,Sphere,2.0,24.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,94.24
+ZnO,None,86.0,687.0,31.3,7.0,,1.56,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,98.03
+NiO,None,20.0,223.5,-12.1,,,50.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,101.0
+Ag,None,29.57,,-24.58,,Sphere,600.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,34.95
+C60,Dextran,30.29,372.0,-10.1,,Sphere,10.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,81.35
+Ag,None,,,-2.09,,Wire,10.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,MTS,TetrazoliumSalt,other,88.46
+ZnO,None,100.0,273.4,-11.7,20.0,,15.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,101.04
+Ag,Citrate_based,27.1,54.05,-25.6,,Sphere,100.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,14.92
+Mn2O3,None,51.5,522.5,-35.68,,Tetragonal,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
+SWCNT,None,1.15,,-15.53,,Needle,100.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,25.09
+ZnO,None,115.0,500.0,-9.0,14.5,,30.0,24.0,HONDC,Human,Nose,,,,,MTT,TetrazoliumSalt,meta_oxide,26.76
+Fe3O4,None,10.0,80.0,-35.0,110.0,,0.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,100.0
+Ni2O3,None,140.2,386.9,-4.46,,Hexagon,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,103.44
+TiO2,None,25.0,228.3,-10.7,40.0,,150.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,108.55
+IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,75.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,99.01
+SiO2,NH2,,437.0,21.7,,,0.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,100.35
+PLGA,Poloxamer,112.0,,-21.0,,Sphere,1000.0,24.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,96.47
+Au,None,50.0,74.8,,,Sphere,10.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,77.28
+TiO2,None,124.9,171.0,-17.6,,,0.0,24.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,94.29
+Chitosan,None,,,74.4,,Irregular,250.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,101.79
+MgO,None,,,-7.01,,Sphere,600.0,24.0,3T3_L1,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,49.38
+TiO2,None,15.84,124.0,-43.29,,Sphere,60.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,14.71
+IronOxide,None,46.8,,1.7,,Sphere,0.01,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,100.66
+MWCNT,None,,,-13.0,,Needle,6.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,76.55
+Au,Citrate_based,18.2,8.7,-8.1,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,82.4
+Pt,PVP,4.0,13.5,-8.0,,,0.02,72.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,43.2
+Au,Citrate_based,13.0,34.5,-34.2,,Sphere,1.3,24.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,WST-1,TetrazoliumSalt,other,93.37
+Ag,None,66.0,28.41,-33.33,,,0.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,18.74
+Nd2O3,None,133.8,652.1,30.26,,Hexagon,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,89.93
+SiO2,NH2,,437.0,21.7,,,0.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,103.86
+Graphite,None,4.0,,31.4,,Sphere,50.0,2.0,U87,Human,Brain,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,carbon,78.29
+Au,None,124.1,,-24.14,,Star,0.2,96.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,78.63
+ZnO,None,94.5,253.6,17.5,,Sphere,40.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,meta_oxide,36.96
+SiO2,Chitosan,578.27,,8.0,,Sphere,50.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,96.82
+Ag,Citrate_based,39.94,,-23.5,,Sphere,1.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,101.43
+Chitosan,None,,,62.1,,Irregular,500.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,116.7
+Au,Chitosan,,123.9,47.44,,Star,,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,83.54
+Y2O3,None,38.0,1222.9,-10.7,,,0.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,100.0
+SLN,None,98.4,,-14.6,,Sphere,7861.4,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,8.24
+MWCNT,COOH,8.0,16.3,-9.64,,Needle,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,102.99
+Pt,PVP,13.5,,-8.0,,Sphere,50.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,87.44
+Ni2O3,None,140.6,339.5,32.2,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,91.4
+SiO2,None,50.0,79.0,-13.2,108.3,,0.1,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,96.48
+TiO2,None,21.0,160.5,-27.8,,Sphere,120.0,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,124.0
+TiO2,None,21.0,74.0,-9.42,57.0,,0.0,24.0,MCF-10A,Human,Breast,Epithelial,Adult,cancer,female,Annexiv_V_,propidium_iodide,meta_oxide,96.56
+CeO2,None,18.3,808.5,13.45,,Cubic,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,102.94
+Polystyrene,NH2,500.0,,21.75,,Sphere,5.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,CCK_8,TetrazoliumSalt,other,109.13
+Au,Chitosan,,,33.23,,Rod,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,1.35
+C60,None,125.0,,-25.3,,Sphere,36.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,carbon,79.85
+CoO,None,71.8,208.3,21.6,,,100.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,32.9
+SiO2,None,203.3,,-36.3,,Sphere,200.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,22.68
+Cr2O3,None,60.0,616.8,5.7,,,100.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,93.4
+ZnO,None,45.3,310.0,32.7,,Sphere,0.1,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,100.33
+TiO2,None,21.0,160.5,-27.8,,Sphere,120.0,3.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,95.08
+TiO2,None,21.0,160.5,-27.8,,Sphere,100.0,3.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,98.46
+SLN,CTAB,135.1,,28.2,,Sphere,66.0,24.0,Y-79,Human,Retina,MulticellularClusters,Young,cancer,female,Alamar_Blue,AlamarBlue,other,7.09
+Au,None,90.0,107.85,,,Sphere,25.0,48.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,13.23
+Ag,None,,,-31.7,,Rod,200.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,110.47
+Chitosan,None,,,62.1,,Irregular,31.25,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,100.98
+TiO2,None,40.0,322.3,-25.27,50.0,,5.0,12.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,ATPLite,luciferase,meta_oxide,92.2
+SiO2,CTAB,238.5,,-35.9,,Sphere,125.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,94.23
+Dendrimer,None,1.9,,16.0,,Sphere,0.3,1.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Live/Dead,propidium_iodide,other,98.0
+SiO2,None,33.5,120.0,-47.6,576.23,,75.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,91.37
+SiO2,None,33.5,120.0,-47.6,576.23,,75.0,24.0,MeT_5A,Human,Mesothelium,Epithelial,,Normal,,MTT,TetrazoliumSalt,meta_oxide,53.61
+SiO2,DPPC,19.4,889.03,-13.5,,Sphere,128.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,98.62
+SWCNT,COOH,1.5,,-8.1,,Needle,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,89.22
+SiO2,None,13.0,100.0,-27.0,,,54.47,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,LDH,LDHrelease,meta_oxide,22.37
+CuO,None,23.0,,-25.0,,Sphere,10.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,56.48
+SLN,DDAB,134.2,,28.2,,Sphere,330.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,other,63.3
+CuO,None,30.0,276.4,-18.08,,Sphere,20.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,27.82
+TiO2,None,21.0,74.0,-9.42,57.0,,150.0,24.0,WI_38,Human,Lung,Fibroblast,fetus,cancer,female,Annexiv_V_,propidium_iodide,meta_oxide,75.88
+ZnO,None,35.6,236.0,-41.6,27.9,,1.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,84.46
+Pt,PVP,13.5,,-8.0,,Sphere,50.0,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,89.49
+Y2O3,None,32.7,743.3,26.09,,Cubic,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.7
+Au,None,86.8,,-28.32,,Sphere,20.0,24.0,RFPEC,Rat,FatPad,Endothelial,Adult,Normal,,MTS,TetrazoliumSalt,other,23.03
+ZnO,None,100.0,273.4,-11.7,20.0,,0.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,100.27
+Ag,None,14.3,,-17.2,,Sphere,2.5,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,Alamar_Blue,AlamarBlue,other,88.61
+SiO2,None,12.0,96.0,-11.0,,,0.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,LDH,LDHrelease,meta_oxide,105.37
+IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,300.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,88.32
+Ag,PVP,20.0,148.0,-14.2,,Irregular,3.1,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,106.2
+EudragitRL,None,142.0,185.0,56.0,,Sphere,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,Live/Dead,Trypan_Blue,other,136.46
+PTFE-PMMA,None,618.05,,-8.05,,Irregular,200.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,87.27
+SWCNT,None,601.7,,-13.0,,Needle,200.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,1.57
+Al2O3,None,39.7,,36.3,,Sphere,0.01,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,95.05
+Ag,None,66.0,28.41,-33.33,,,0.01,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,9.57
+Au,Chitosan,8.7,190.7,42.28,,Sphere,,24.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTT,TetrazoliumSalt,other,70.97
+Cr2O3,None,193.0,316.9,-32.6,,,50.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,38.2
+ZnO,None,100.0,273.4,-11.7,20.0,,35.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,57.03
+SiO2,None,100.33,,-31.7,,Sphere,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,70.47
+IronOxide,PEI,17.2,,29.28,,Sphere,100.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,1.2
+C60,None,34.64,142.0,-37.4,,Sphere,50.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,carbon,100.0
+ZnO,None,35.6,295.5,-41.6,27.9,,10.0,24.0,SW480,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,2.0
+ZnO,None,100.0,273.4,-11.7,20.0,,10.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,77.21
+ZnO,None,52.0,640.0,29.4,15.0,,1.56,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,99.18
+Polystyrene,COOH,500.0,465.3,-30.2,,Sphere,50.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,99.85
+IronOxide,PEG_based,35.8,,-0.52,,Sphere,100.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,73.2
+Co3O4,None,10.0,222.7,24.6,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
+Ag,Citrate_based,50.0,,-19.5,,Sphere,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,77.24
+Ni2O3,None,140.6,339.5,32.2,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,80.2
+ZnO,None,141.0,404.0,,,Sphere,1.0,3.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,97.5
+Cr2O3,None,193.0,316.9,-32.6,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,14.9
+SiO2,sodium_based,345.2,,-13.0,,Sphere,500.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,77.32
+ZnO,None,115.0,360.0,-10.0,14.4,,30.0,24.0,HONDC,Human,Nose,,,,,MTT,TetrazoliumSalt,meta_oxide,20.14
+TiO2,None,20.0,338.0,-7.7,50.4,,300.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.68
+TiO2,None,40.0,322.3,-25.27,50.0,,10.0,24.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,ATPLite,luciferase,meta_oxide,89.6
+ZnO,None,100.0,273.4,-11.7,20.0,,25.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,75.9
+MWCNT,None,50.0,,-7.28,,Needle,100.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,98.18
+La2O3,None,24.6,711.3,23.04,,Hexagon,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.75
+IronOxide,None,28.33,,-18.4,,Sphere,50.0,6.0,mDF,Mouse,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,87.54
+SiO2,None,8.5,,-27.0,,Sphere,1000.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,LDH,LDHrelease,meta_oxide,69.47
+IronOxide,PEG_based,18.0,120.0,,,Sphere,200.0,24.0,MDCK,Dog,Kidney,Epithelial,Adult,Normal,female,MTT,TetrazoliumSalt,meta_oxide,75.08
+SiO2,None,105.5,,-31.7,,Sphere,500.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,17.23
+Al2O3,None,85.0,,0.4,,Sphere,50.0,24.0,BJ,Human,Skin,Fibroblast,,Normal,male,EZ4U,TetrazoliumSalt,meta_oxide,97.48
+ZnO,None,45.3,310.0,32.7,21.3,,10.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,75.32
+Ag,None,29.57,,-27.0,,Sphere,150.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,4.49
+ZnO,None,100.0,273.4,-11.7,20.0,,20.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,55.84
+SiO2,None,13.0,100.0,-27.0,,,5.45,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,LDH,LDHrelease,meta_oxide,5.57
+Au,None,65.0,,-28.05,,Rod,0.2,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,77.33
+Ag,None,29.57,,-24.58,,Sphere,100.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,33.97
+Ag,Citrate_based,27.1,54.05,-25.6,,Sphere,50.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,35.17
+IronOxide,Chitosan,8.0,,11.0,,Sphere,0.5,48.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,meta_oxide,98.94
+IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,150.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,107.67
+C60,Dextran,30.29,372.0,-10.1,,Sphere,40.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,63.92
+Au,Citrate_based,61.06,,-30.55,,Sphere,10.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,113.05
+TiO2,None,125.0,1054.0,-40.8,38.0,,25.0,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,51.61
+SiO2,Phosphonate,255.62,,-26.8,,Sphere,31.2,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,95.09
+ZnO,None,100.0,258.55,-9.96,,Sphere,35.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,7.91
+Al2O3,None,39.7,,36.3,,Sphere,5.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,95.38
+Fe3O4,None,12.0,358.6,-14.85,,Cubic,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,99.03
+Chitosan,None,,,50.0,,Sphere,15.0,24.0,K562,Human,BoneMarrow,Lymphoblast,Adult,cancer,female,MTT,TetrazoliumSalt,other,51.81
+SiO2,sodium_based,345.2,,-13.0,,Sphere,500.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,79.42
+ZnO,None,100.0,273.4,-11.7,20.0,,25.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,15.14
+SiO2,NH2,289.56,,21.7,,Sphere,125.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,106.95
+MWCNT,COOH,50.0,,-11.0,,Needle,100.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,91.82
+Polystyrene,None,50.0,,-42.85,,Sphere,100.0,24.0,Macrophages,Human,Lung,Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,other,96.52
+ZnO,None,100.0,273.4,-11.7,20.0,,40.0,48.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,7.07
+NiO,None,21.6,346.0,6.9,,Sphere,5.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,NR,toluylene red,meta_oxide,97.39
+SiO2,NH2,289.56,,21.7,,Sphere,7.8,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,109.52
+Fe2O3,None,42.5,957.0,-8.2,82.8,,100.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,98.01
+C60,Dextran,30.0,,-16.9,,Sphere,50.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,90.66
+Au,Citrate_based,13.0,36.5,-35.0,,Sphere,1.3,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,82.09
+PLGA,Chitosan,204.0,,10.0,,Sphere,1250.0,24.0,MDBK,Cow,Kidney,Epithelial,Adult,Normal,male,MTS,TetrazoliumSalt,other,95.37
+C70,None,8.0,,-20.0,,Sphere,20.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,57.1
+Ag,None,66.0,28.41,-33.33,,,0.01,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,20.52
+TiO2,None,124.9,171.0,-17.6,,,0.0,24.0,A431,Human,Skin,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,97.78
+Ag,PVP,20.0,148.0,-14.2,,Irregular,0.67,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,97.11
+ZnO,None,60.0,329.0,-9.3,7.34,,80.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,15.29
+Pt,None,24.6,,-11.0,,Sphere,360.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTS,TetrazoliumSalt,other,70.5
+IronOxide,PEG_based,16.5,,-0.52,,Sphere,25.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTS,TetrazoliumSalt,meta_oxide,91.47
+SiO2,CTAB,90.0,386.9,-35.9,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,113.48
+ZnO,None,245.0,,-15.8,,Sphere,4.0,12.0,HEK,Human,Skin,Keratinocyte,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,104.43
+Au,None,90.0,107.85,,,Sphere,5.0,24.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,90.85
+TiO2,None,10.0,262.0,-5.7,166.0,,300.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,91.05
+TiO2,None,148.15,,-14.55,,Irregular,0.8,48.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,85.77
+Au,Citrate_based,13.0,34.5,-34.2,,Sphere,0.06,48.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,NR,toluylene red,other,96.9
+CuO,None,46.3,,42.8,,Sphere,0.01,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,95.71
+Ag,GSH,6.0,,-50.9,,Sphere,5.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,77.25
+Pt,PVP,13.5,,-8.0,,Sphere,200.0,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,74.88
+Al2O3,None,44.0,372.3,-20.2,,,50.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,94.9
+MWCNT,None,17.4,,-18.9,,Needle,8.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,NR,toluylene red,nanotubes,100.0
+ZnO,None,100.0,273.4,-11.7,20.0,,0.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,100.27
+IronOxide,Folic_acid_based,80.0,420.55,-27.7,,,0.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,85.35
+TiO2,None,24.59,172.0,-14.25,,Sphere,30.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,41.17
+Au,Chitosan,3.7,,33.23,,Rod,,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,5.49
+Mn2O3,None,51.5,298.4,-46.1,,,0.8,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,100.0
+Ag,None,66.0,28.41,-33.33,,,0.01,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,22.35
+PLGA,PEG_based,30.0,,-24.09,,Needle,5.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,94.06
+SiO2,DPPC,19.4,889.03,-13.5,,Sphere,64.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,98.32
+La2O3,None,45.6,672.9,-12.8,,,500.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,27.6
+IronOxide,PEG_based,16.5,,-0.52,,Sphere,50.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTS,TetrazoliumSalt,meta_oxide,77.92
+Ag,Citrate_based,50.0,,-20.5,,Sphere,25.0,24.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,96.68
+SnO2,None,64.2,480.0,-27.45,,Tetragonal,6.2,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.81
+Polystyrene,None,100.0,,-39.05,,Sphere,100.0,24.0,Macrophages,Human,Lung,Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,other,96.01
+MWCNT,None,25.0,186.5,-27.22,,Needle,32.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,85.22
+Polystyrene,COOH,100.0,,-28.85,,Sphere,50.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,CCK_8,TetrazoliumSalt,other,83.23
+SWCNT,None,9.0,,12.9,,Needle,1.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,42.17
+Au,None,65.0,,-28.05,,Rod,40.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,90.89
+SiO2,None,178.0,297.5,58.0,,Sphere,0.0,24.0,primary,Human,Lung,Macrophage,Adult,Normal,,Vialight,luciferase,meta_oxide,87.11
+Mn2O3,None,51.5,522.5,-35.68,,Tetragonal,6.2,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,86.42
+SiO2,None,14.23,128.0,-26.5,,Sphere,25.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,NR,toluylene red,meta_oxide,78.33
+Cu,AscorbicAcid,250.0,,-24.7,,Sphere,1000.0,24.0,HGF,Human,Gingiva,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,other,32.4
+CoO,None,71.8,208.3,21.6,,,1.6,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,91.7
+CoO,None,71.8,208.3,21.6,,,25.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,77.8
+Au,GSH,3.6,,-140.0,,Sphere,15.0,24.0,PBMC,Human,Blood,Lymphoblast,Adult,Normal,,MTT,TetrazoliumSalt,other,72.25
+Chitosan,None,,,62.1,,Irregular,125.0,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,109.43
+SiO2,NH2,289.56,,21.7,,Sphere,3.9,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,102.89
+CuO,None,30.0,276.4,-18.08,,Sphere,30.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,56.42
+Ag,PVP,20.0,134.5,-13.05,,Irregular,1.5,24.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,WST-1,TetrazoliumSalt,other,98.97
+SiO2,None,59.72,,-38.1,,Sphere,100.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,60.92
+Polystyrene,NH2,100.0,,25.0,,Sphere,50.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,10.02
+Ni2O3,None,140.6,339.5,32.2,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,63.5
+PLGA,PEG_based,30.0,,-24.09,,Needle,100.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,59.73
+HfO2,None,28.4,262.2,-27.78,,Monoclinic,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
+Chitosan,None,,,50.0,,Sphere,10.0,48.0,K562,Human,BoneMarrow,Lymphoblast,Adult,cancer,female,MTT,TetrazoliumSalt,other,48.26
+Ag,None,29.57,,-27.0,,Sphere,80.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,NR,toluylene red,other,66.36
+TiO2,None,25.0,420.7,-9.96,,Sphere,100.0,3.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,116.62
+Fe2O3,None,32.0,297.6,-18.1,,,50.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,92.4
+In2O3,None,29.8,224.3,-9.6,,,1000.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,28.8
+Co3O4,None,10.0,222.7,24.6,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,66.3
+CuO,None,30.0,276.4,-18.08,,Sphere,100.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,0.78
+IronOxide,None,46.8,,1.7,,Sphere,10.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.79
+ZnO,None,141.0,404.0,,,Sphere,10.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,85.45
+IronOxide,PEG_based,344.65,,-16.45,,Sphere,5.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,93.15
+Pt,None,24.6,,-11.0,,Sphere,60.0,48.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTS,TetrazoliumSalt,other,86.0
+Pt,Folic_acid_based,12.5,,-40.5,,Sphere,50.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,77.54
+Au,Citrate_based,61.06,,-30.55,,Sphere,1.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,94.17
+Ag,None,29.57,,-24.58,,Sphere,100.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,39.25
+CeO2,None,25.0,305.0,-16.5,,Cubic,100.0,24.0,HT-1080,Human,Connective-tissue,Epithelial,Adult,cancer,male,NR,toluylene red,meta_oxide,114.95
+Ag,Citrate_based,50.0,,-20.0,,Sphere,100.0,24.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,62.4
+IronOxide,None,42.5,,-8.2,,Sphere,10.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,88.85
+SWCNT,None,9.0,,12.9,,Needle,1.0,6.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,78.78
+Ag,Citrate_based,50.0,,-19.5,,Sphere,50.0,72.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,50.13
+SiO2,None,178.0,362.0,79.0,,Sphere,0.0,24.0,primary,Human,Lung,Macrophage,Adult,Normal,,Vialight,luciferase,meta_oxide,3.56
+EudragitRL,None,142.0,185.0,56.0,,Sphere,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,other,142.93
+IronOxide,None,6.0,,-36.5,,Sphere,0.5,48.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTT,TetrazoliumSalt,meta_oxide,87.05
+EudragitRL,None,142.0,185.0,56.0,,Sphere,12.5,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,other,110.4
+Pt,PVP,13.5,,-8.0,,Sphere,50.0,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,88.32
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,77.25
+SiO2,None,148.95,,-73.8,,Sphere,1000.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,CalceinAM,meta_oxide,10.94
+Au,None,90.0,107.85,,,Sphere,10.0,72.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,81.46
+Au,None,57.0,,-11.08,,Sphere,2.5,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,102.43
+Chitosan,None,,,74.4,,Irregular,31.25,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,97.42
+Au,None,57.0,,-11.08,,Sphere,1.67,72.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,99.22
+Pt,PVP,4.0,13.5,-8.0,,,0.0,72.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,89.79
+Au,None,50.0,74.8,,,Sphere,25.0,24.0,NHDF,Human,Skin,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,other,7.23
+Au,PAMAM,9.65,,17.1,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,73.49
+TiO2,None,5.9,460.0,-12.0,280.9,,100.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,meta_oxide,44.33
+TiO2,None,148.15,,-14.55,,Irregular,8.0,48.0,A431,Human,Skin,Epithelial,Adult,cancer,female,NR,toluylene red,meta_oxide,74.95
+Ag,None,29.57,,-24.58,,Sphere,200.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,23.1
+Au,None,65.0,,-28.05,,Rod,4.0,24.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,89.11
+Dendrimer,None,390.3,,-6.64,,Sphere,5.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,103.19
+Pt,Citrate_based,4.8,195.0,-43.0,,Sphere,0.5,48.0,HEBC3-KT,Human,Lung,Epithelial,Adult,Normal,female,Alamar_Blue,AlamarBlue,other,100.0
+SiO2,None,18.3,224.0,,,Sphere,1.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,96.28
+Au,PEG_based,21.7,,-7.6,,Sphere,,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,MTT,TetrazoliumSalt,other,53.73
+Au,Chitosan,,,33.23,,Rod,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,4.04
+NiO,None,13.1,862.1,23.82,,Cubic,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,102.62
+Ag,None,29.57,,-27.0,,Sphere,40.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,10.65
+EudragitRL,None,142.0,185.0,56.0,,Sphere,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,other,122.67
+Au,Chitosan,,190.7,42.28,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,63.98
+TiO2,None,81.8,486.0,-8.6,,Sphere,3.0,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,87.56
+Pt,None,24.6,,-11.0,,Sphere,60.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,NR,toluylene red,other,89.15
+SiO2,None,214.0,440.0,79.0,,,0.0,24.0,primary,Human,Lung,Macrophage,Adult,Normal,,Vialight,luciferase,meta_oxide,121.78
+Dy2O3,None,37.5,751.7,22.24,,Cubic,200.0,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,89.7
+Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,200.0,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,26.13
+TiO2,None,21.0,160.5,-27.8,,Sphere,20.0,3.0,AGS,Human,Stomach,Epithelial,,cancer,female,MTS,TetrazoliumSalt,meta_oxide,105.23
+IronOxide,None,42.5,,-8.2,,Sphere,10.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,99.01
+EudragitRL,None,142.0,185.0,56.0,,Sphere,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTT,TetrazoliumSalt,other,123.47
+ZnO,None,7.5,795.0,27.4,90.0,,6.25,72.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,58.6
+Chitosan,None,,,50.0,,Sphere,20.0,36.0,K562,Human,BoneMarrow,Lymphoblast,Adult,cancer,female,MTT,TetrazoliumSalt,other,30.58
+Chitosan,None,,,63.2,,Sphere,500.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,107.47
+Ag,None,29.57,,-24.58,,Sphere,100.0,72.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,25.45
+Pt,Folic_acid_based,12.5,91.3,-40.5,,Sphere,400.0,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,16.87
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,67.5
+EudragitRL,None,185.0,,56.0,,Sphere,100.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,75.54
+ZrO2,None,40.1,508.8,-14.85,,Monoclinic,3.1,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,102.44
+Ag,None,,,-1.4,,Wire,50.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,MTS,TetrazoliumSalt,other,76.22
+IronOxide,silica_based,420.7,,-17.65,,Sphere,100.0,24.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,84.11
+ZnO,None,97.0,,-29.0,,Rod,5.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,93.25
+Au,Chitosan,,190.7,42.28,,Sphere,,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,67.26
+SLN,None,98.4,,-14.6,,Sphere,2607.3,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,88.42
+Polystyrene,COOH,50.0,,-16.3,,Sphere,5.0,72.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,CCK_8,TetrazoliumSalt,other,113.83
+Al2O3,None,39.7,267.0,36.3,64.7,,0.01,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,94.48
+MgO,None,39.2,,11.6,,Sphere,1.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,97.03
+SiO2,None,214.0,440.0,79.0,,,0.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Vialight,luciferase,meta_oxide,59.48
+Ag,Citrate_based,50.0,96.5,-35.0,,Sphere,12.5,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,other,77.56
+SWCNT,None,601.7,,-13.0,,Needle,50.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,40.46
+IronOxide,OleicAcid,10.9,183.6,-28.5,,Sphere,25.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,101.54
+Au,Citrate_based,270.0,199.0,-45.96,,Sphere,5.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,CalceinAM,other,93.89
+Ag,PVP,20.0,134.5,-13.05,,Irregular,1.0,24.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,WST-1,TetrazoliumSalt,other,94.22
+C60,Dextran,30.29,372.0,-10.1,,Sphere,40.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,NR,toluylene red,carbon,70.0
+Chitosan,None,,,62.1,,Irregular,750.0,24.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,111.59
+CoO,None,71.8,208.3,21.6,,,6.3,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,80.9
+WO3,None,50.0,179.6,-9.1,,,1000.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,other,49.3
+ZnO,None,141.0,404.0,,,Sphere,10.0,3.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,94.54
+Pt,None,24.6,,-11.0,,Sphere,60.0,24.0,HEK293,Human,Kidney,Epithelial,fetus,cancer,female,MTS,TetrazoliumSalt,other,91.0
+PLGA,PVA,182.0,,-3.5,,Sphere,200.0,4.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,98.14
+ZnO,None,60.0,320.0,-7.5,7.34,,80.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,10.88
+SWCNT,None,9.0,,12.9,,Needle,100.0,24.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,38.79
+Al2O3,None,,,-16.8,,Sphere,400.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CCK_8,TetrazoliumSalt,meta_oxide,54.32
+PLGA,Chitosan,225.0,,32.0,,Sphere,1000.0,72.0,Calu-3,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,82.36
+NiO,None,21.6,346.0,6.9,,Sphere,5.0,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,meta_oxide,101.65
+Pt,PVP,4.0,13.5,-8.0,,,0.01,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,78.79
+Polystyrene,NH2,500.0,,21.75,,Sphere,5.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,86.34
+TiO2,None,6.0,780.0,,,Sphere,1.0,24.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,98.31
+Polystyrene,None,100.0,,-39.05,,Sphere,50.0,24.0,Macrophages,Human,Lung,Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,other,100.0
+SiO2,CTAB,238.5,,-35.9,,Sphere,250.0,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,103.94
+SWCNT,None,16.4,,-9.72,,Needle,50.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTS,TetrazoliumSalt,nanotubes,100.3
+Ag,None,66.0,28.41,-33.33,,,0.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,7.92
+Pt,PVP,13.5,,-8.0,,Sphere,400.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,43.37
+ZnO,None,35.6,236.0,-41.6,27.9,,0.1,48.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,119.24
+SWCNT,PEG_based,183.3,,-30.14,,Needle,0.1,24.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,nanotubes,84.6
+SiO2,None,21.06,,-24.5,,Sphere,10.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,76.92
+Al2O3,None,39.7,,36.3,,Sphere,20.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,94.72
+Ag,None,29.57,,-27.0,,Sphere,20.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,other,101.44
+Ag,None,7.0,14.7,-20.0,,,0.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Promegas CTB Assay,AlamarBlue,other,100.06
+Al2O3,None,39.7,267.0,36.3,64.7,,0.0,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,92.53
+ZnO,None,100.0,258.55,-9.96,,Sphere,40.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,9.29
+MWCNT,PEG_based,27.3,,-35.6,,Needle,50.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,WST-1,TetrazoliumSalt,nanotubes,84.62
+C60,None,7.0,,-25.0,,Sphere,5.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,carbon,81.86
+Co3O4,None,10.0,202.1,20.78,,Cubic,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,49.96
+Hydroxyapatite,None,25.0,,-0.4,,Rod,30.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,101.15
+Ag,None,66.0,28.41,-33.33,,,0.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,1.25
+SiO2,None,12.0,96.0,-11.0,,,0.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Live/Dead,Sytox Red,meta_oxide,100.0
+Fe2O3,None,32.0,297.6,-18.1,,,100.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,88.4
+SLN,CTAB,135.1,,28.2,,Sphere,66.0,24.0,SV-80,Human,Lung,Fibroblast,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,8.89
+Pt,PVP,13.5,,-8.0,,Sphere,100.0,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,87.32
+Mn2O3,None,51.5,298.4,-46.1,,,12.5,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,49.7
+Chitosan,None,,,71.3,,Irregular,31.25,72.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,94.93
+Pt,PVP,4.0,13.5,-8.0,,,0.0,48.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,96.46
+Ag,Cystein_based,8.0,,-56.9,,Sphere,10.0,24.0,L929,Mouse,Connective-tissue,Fibroblast,neonate,Normal,male,MTT,TetrazoliumSalt,other,85.19
+Cu,AscorbicAcid,250.0,,-24.7,,Sphere,15.62,24.0,HGF,Human,Gingiva,Fibroblast,Adult,Normal,male,MTT,TetrazoliumSalt,other,70.28
+Ag,PVP,20.0,134.5,-13.05,,Irregular,6.8,24.0,BALB_c3T3,Mouse,Embryo,Fibroblast,,cancer,,WST-1,TetrazoliumSalt,other,2.27
+Chitosan,None,,,50.0,,Sphere,25.0,12.0,K562,Human,BoneMarrow,Lymphoblast,Adult,cancer,female,MTT,TetrazoliumSalt,other,52.45
+Ag,None,66.0,28.41,-33.33,,,0.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,14.47
+WO3,None,16.6,111.6,-35.84,,Monoclinic,200.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,other,98.26
+Au,PAMAM,9.65,,17.1,,Sphere,,24.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,52.45
+SiO2,Phosphonate,135.0,375.4,-26.8,,,0.0,12.0,PC12,Rat,Adrenal-gland,Irregular,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,72.39
+Mn2O3,None,51.5,298.4,-46.1,,,0.8,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,LDH,LDHrelease,meta_oxide,100.0
+SWCNT,None,9.0,,12.9,,Needle,50.0,48.0,hPDLF,Human,Teeth,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,nanotubes,50.28
+Ag,None,,,-2.36,,Wire,20.0,24.0,J774A.1,Mouse,Ascites,Macrophage,Adult,cancer,female,MTS,TetrazoliumSalt,other,81.99
+Ni2O3,None,140.6,339.5,32.2,,,0.8,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,ATPLite,luciferase,meta_oxide,100.0
+MWCNT,None,,,-13.0,,Needle,12.5,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,Alamar_Blue,AlamarBlue,nanotubes,63.99
+MgO,None,39.2,,11.6,,Sphere,0.01,24.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,98.36
+Hydroxyapatite,None,20.0,,-5.3,,Rod,30.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,110.82
+MWCNT,None,38.8,179.13,-16.84,,Needle,4.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,98.11
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.01,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,44.25
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.01,24.0,IMR90,Human,Lung,Fibroblast,neonate,Normal,female,CellTiter_Glo,luciferase,other,33.86
+Chitosan,None,,,63.2,,Sphere,125.0,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,97.32
+Ag,None,66.0,28.41,-33.33,,,0.01,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,Alamar_Blue,AlamarBlue,other,4.68
+SiO2,None,,232.2,-5.21,,Sphere,200.0,96.0,A2780,Human,Ovary,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,84.64
+Au,None,26.5,,-4.52,,Sphere,1.67,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,other,98.38
+CuO,None,46.3,239.0,42.8,24.1,,10.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,62.33
+SiO2,None,13.0,100.0,-27.0,,,544.72,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,LDH,LDHrelease,meta_oxide,70.11
+TiO2,None,30.0,1843.0,-30.8,69.0,,0.0,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,100.99
+Cr2O3,None,193.0,316.9,-32.6,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,52.2
+MWCNT,None,38.8,179.13,-16.84,,Needle,16.0,24.0,HUVEC,Human,Umbilical,Endothelial,fetus,Normal,,CCK_8,TetrazoliumSalt,nanotubes,95.43
+Hydroxyapatite,None,30.0,,-5.7,,Rod,300.0,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,CCK_8,TetrazoliumSalt,other,115.9
+Au,Citrate_based,13.0,36.5,-35.0,,Sphere,0.6,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,82.79
+ZnO,None,100.0,258.55,-9.96,,Sphere,15.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,80.24
+Ag,None,29.57,,-27.0,,Sphere,100.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,40.1
+EudragitRL,None,185.0,,56.0,,Sphere,50.0,24.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,WST-1,TetrazoliumSalt,other,80.38
+IronOxide,None,6.0,,-36.5,,Sphere,2.0,24.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,MTT,TetrazoliumSalt,meta_oxide,86.44
 ZnO,None,22.6,276.6,-14.85,,Hexagon,100.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,47.64
-ZnO,None,141.0,404.0,,,Sphere,25.0,9.0,SIRC,Rabbit,Cornea,Fibroblast,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,70.67
-Ag,None,29.57,,-27.0,,Sphere,80.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,1.0
-IronOxide,Folic_acid_based,80.0,420.55,-27.7,,,0.0,48.0,SKOV­3,Human,Ovary,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,93.43
+SiO2,None,13.0,100.0,-27.0,,,0.54,24.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,meta_oxide,95.23
+Au,Citrate_based,4.7,79.18,-57.5,,Sphere,100.0,48.0,RAW 264.7,Mouse,Blood,Macrophage,Adult,cancer,male,Live/Dead,propidium_iodide,other,53.56
+ZnO,None,32.0,1093.0,21.6,37.0,,3.13,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,80.66
+SiO2,None,59.72,,-38.1,,Sphere,200.0,72.0,HepG2,Human,Liver,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,54.71
+TiO2,None,25.0,504.5,-10.7,210.0,,20.0,6.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,MTT,TetrazoliumSalt,meta_oxide,90.17
+Ag,Citrate_based,50.0,105.5,-22.0,,Sphere,25.0,72.0,HDF,Human,Skin,Fibroblast,Adult,Normal,,MTS,TetrazoliumSalt,other,53.99
+TiO2,None,81.8,486.0,-8.6,,Sphere,10.0,48.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,76.51
+Dendrimer,None,221.7,,-0.43,,Sphere,100.0,72.0,hNPC,Human,Brain,Neural,neonate,Normal,,MTT,TetrazoliumSalt,other,99.62
+QD,DHLA,6.2,,-26.2,,Sphere,,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,quantum_dots,86.09
+TiO2,None,25.0,504.5,-10.7,210.0,,120.0,24.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,115.56
+Polystyrene,NH2,100.0,,24.6,,Sphere,10.0,24.0,AT2,Human,Lung,Epithelial,,Normal,,MTT,TetrazoliumSalt,other,94.57
+Ag,None,29.57,,-27.0,,Sphere,20.0,72.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,15.31
+TiO2,None,40.0,322.3,-25.27,50.0,,0.0,6.0,L-02,Human,Liver,Epithelial,Adult,cancer,female,ATPLite,luciferase,meta_oxide,96.2
+Cr2O3,None,193.0,416.3,-5.62,,Rhombohedral,0.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,100.0
+Au,Citrate_based,6.9,,-99.0,,Sphere,1.5,24.0,Jurkat,Human,Blood,Lymphoblast,Adult,cancer,male,MTT,TetrazoliumSalt,other,89.39
+Ag,None,66.0,28.41,-33.33,,,0.01,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,MTT,TetrazoliumSalt,other,3.19
+In2O3,None,59.6,310.6,5.4,,Cubic,50.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,97.92
+ZnO,None,50.0,278.8,-11.5,,Sphere,5.0,24.0,Macrophages,Mouse,Peritoneal Cavity,Macrophage,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,31.82
+Cr2O3,None,193.0,316.9,-32.6,,,0.4,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,104.0
+IronOxide,None,,,-36.5,,Sphere,0.5,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,97.45
+Pt,PVP,4.0,13.5,-8.0,,,0.01,48.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,84.79
+Ag,None,66.0,28.41,-33.33,,,0.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,10.83
+CuO,None,12.8,305.3,7.6,,,200.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTS,TetrazoliumSalt,meta_oxide,16.0
+Pt,Folic_acid_based,4.0,13.5,-40.5,,,0.0,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,CellTiter_Glo,luciferase,other,79.01
+CuO,None,46.3,239.0,42.8,24.1,,5.0,12.0,HCMEC,Human,Heart,Endothelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,82.24
+Chitosan,None,,,74.4,,Irregular,750.0,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,101.39
+Ag,None,66.0,28.41,-33.33,,,0.0,48.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,NR,toluylene red,other,28.73
+MWCNT,None,,,-13.0,,Needle,100.0,4.0,NR8383,Rat,Lung,Macrophage,Adult,Normal,male,MTT,TetrazoliumSalt,nanotubes,26.48
+IronOxide,silica_based,10.0,102.2,-21.05,,Sphere,10.0,3.0,SH­SY5Y,Human,BoneMarrow,Epithelial,Young,cancer,female,NR,toluylene red,meta_oxide,99.54
+NiO,None,20.0,223.5,-12.1,,,750.0,,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CytoTox-Glo,Dead-Cell-Protease,meta_oxide,16.1
+Chitosan,None,,,72.1,,Irregular,750.0,48.0,MBMC,Mouse,BoneMarrow,Spindle,Adult,Normal,,MTT,TetrazoliumSalt,other,115.19
+ZnO,None,21.34,127.0,-33.0,,,15.0,,BEAS_2B,Human,Lung,Epithelial,Adult,Normal,,MTT,TetrazoliumSalt,meta_oxide,33.39
+SiO2,None,70.12,,-38.1,,Sphere,50.0,24.0,NIH3T3,Mouse,Embryo,Fibroblast,fetus,Normal,,MTT,TetrazoliumSalt,meta_oxide,54.15
+SLN,CTAB,135.1,,28.2,,Sphere,66.0,24.0,MCF7,Human,Breast,Epithelial,Adult,cancer,female,Alamar_Blue,AlamarBlue,other,3.38
+TiO2,None,35.0,1814.0,-35.5,66.0,,50.0,12.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,101.62
+SiO2,None,21.06,,-24.5,,Sphere,500.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,63.28
+Au,None,124.1,,-24.14,,Star,20.0,96.0,CCL-110,Human,Skin,Fibroblast,fetus,Normal,female,MTS,TetrazoliumSalt,other,99.13
+MWCNT,COOH,25.0,,-10.3,,Needle,100.0,24.0,V79,Hamster,Lung,Fibroblast,Adult,Normal,male,MTS,TetrazoliumSalt,nanotubes,91.82
+SiO2,None,30.0,,-63.31,,Sphere,40.0,24.0,HaCat,Human,Skin,Keratinocyte,Adult,Normal,male,CCK_8,TetrazoliumSalt,meta_oxide,22.12
+CuO,None,52.51,,-39.67,,Sphere,25.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,66.0
+SiO2,sodium_based,345.2,,-13.0,,Sphere,50.0,24.0,Caco_2,Human,Colon,Epithelial,Adult,cancer,male,Alamar_Blue,AlamarBlue,meta_oxide,88.51
+Polystyrene,COOH,116.0,,-46.0,,Sphere,1.0,48.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,XTT,TetrazoliumSalt,other,120.31
+Cr2O3,None,193.0,416.3,-5.62,,Rhombohedral,25.0,24.0,THP_1,Human,Blood,monocyte,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,101.77
+Dy2O3,None,37.5,751.7,22.24,,Cubic,3.1,24.0,THP_1,Human,Blood,Macrophage,neonate,cancer,male,MTS,TetrazoliumSalt,meta_oxide,105.64
+SiO2,None,59.72,,-38.1,,Sphere,500.0,24.0,A549,Human,Lung,Epithelial,Adult,cancer,male,MTT,TetrazoliumSalt,meta_oxide,62.28
+Polystyrene,COOH,100.0,124.4,-28.85,,Sphere,5.0,48.0,HeLa,Human,Cervix,Epithelial,Adult,cancer,female,CCK_8,TetrazoliumSalt,other,102.2
+C60,Dextran,30.0,,-16.9,,Sphere,400.0,24.0,C6,Rat,Brain,Fibroblast,Adult,cancer,,MTT,TetrazoliumSalt,carbon,63.64

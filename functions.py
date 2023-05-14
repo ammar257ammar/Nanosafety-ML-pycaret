@@ -195,3 +195,72 @@ def round_float(s):
     except:
         r = s
     return r
+
+#https://onlinelibrary.wiley.com/doi/abs/10.1002/qsar.200610151
+#https://doi.org/10.1016/B978-044452701-1.00007-7
+#https://xiangyuw.medium.com/high-leverage-points-in-simple-linear-regression-d7bfed545540
+def calculate_leverage(df):
+
+    actualmean = df['Viability'].mean()
+    num = df.shape[0]
+
+    within_domain=[]
+    leverage = []
+
+    denom = 0
+    for i in range(0, num):
+        denom += (df['Viability'][i] - actualmean) ** 2.
+
+    for i in range(0, num):
+        leverage_i = ((df['Viability'][i] - actualmean)** 2.)/(denom)  + (1/num)
+        leverage.append(leverage_i)
+
+    df.insert(df.shape[1]-1, "Leverage", leverage, True)
+
+    hat = df.shape[1] * 3 / df.shape[0]
+    # Another threshold: hat = df['Leverage'].mean()*3.0
+
+    for i in range(0, num):
+
+        if df['Leverage'][i] > hat:
+            within_domain.append('Invalid')
+        else:
+            within_domain.append('Valid')
+
+    df.insert(df.shape[1]-1, "Within Domain", within_domain, True)
+
+    return df
+
+
+def calculate_residuals(df):
+    df.insert(df.shape[1]-1, "Residual", df['Viability']-df['Label'], True)
+    return df
+
+# The standardized residual is the ratio of the individual raw residual divided by the standard deviation.
+def calculate_standard_residuals(df):
+
+    df.insert(df.shape[1]-1, "Standard Residual", df['Residual']/(df['Residual'].std()), True)
+
+    within_sd = []
+    within_domain_and_sd = []
+
+    consec = 0
+
+    for i in range(0, df.shape[0]):
+
+        if ((df['Standard Residual'][i] < 3.0) & (df['Standard Residual'][i] > -3.0)):
+
+            within_sd.append('Valid')
+
+            if((df['Within Domain'][i] == 'Valid')):
+                within_domain_and_sd.append('Valid')
+            else:
+                within_domain_and_sd.append('Invalid')
+
+        else:
+            within_sd.append('Invalid')
+            within_domain_and_sd.append('Invalid')
+
+    df.insert(df.shape[1]-1, 'Within SD', within_sd, True)
+    df.insert(df.shape[1]-1, 'Within Domain and SD', within_domain_and_sd, True)
+    return df

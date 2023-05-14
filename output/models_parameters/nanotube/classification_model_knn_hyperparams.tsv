@@ -4,6 +4,6 @@ leaf_size	30
 metric	manhattan
 metric_params	
 n_jobs	-1
-n_neighbors	22
+n_neighbors	23
 p	2
 weights	distance

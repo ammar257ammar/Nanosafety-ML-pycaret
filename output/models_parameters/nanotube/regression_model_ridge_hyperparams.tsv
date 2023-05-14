@@ -1,9 +1,9 @@
 index	parameter_value
-alpha	0.5529451653519443
+alpha	2.384341019464811
 copy_X	True
-fit_intercept	False
+fit_intercept	True
 max_iter	
 normalize	False
-random_state	834
+random_state	123456
 solver	auto
 tol	0.001

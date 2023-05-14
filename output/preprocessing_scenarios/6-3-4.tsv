@@ -1,9 +1,0 @@
-index	Model	MAE	MSE	RMSE	R2	RMSLE	MAPE	TT (Sec)
-et	Extra Trees Regressor	9.1345	189.0519	13.7496	0.8079	0.4361	0.5706	0.51
-lightgbm	Light Gradient Boosting Machine	10.7447	219.6281	14.8199	0.7769	0.4963	0.9858	0.25
-rf	Random Forest Regressor	10.5345	231.1057	15.2022	0.7652	0.4965	0.9181	0.62
-gbr	Gradient Boosting Regressor	15.7408	440.7453	20.9939	0.5522	0.6692	1.7556	0.44
-ridge	Ridge Regression	21.2382	771.917	27.7834	0.2158	0.7648	2.3929	0.0
-lr	Linear Regression	21.2674	772.8493	27.8002	0.2148	0.7646	2.3915	0.01
-lasso	Lasso Regression	23.0504	888.0411	29.8	0.0978	0.8093	2.7361	0.01
-svm	Support Vector Regression	22.4803	1039.2432	32.2373	-0.0558	0.8668	3.2002	0.85

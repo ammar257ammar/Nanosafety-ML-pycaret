@@ -1,2 +1,2 @@
 index	Model	Accuracy	AUC	Recall	Prec.	F1	Kappa	MCC
-0	SVM - Linear Kernel	0.98	0.94	0.89	1.0	0.94	0.93	0.93
+0	SVM - Linear Kernel	0.93	0.91	0.89	0.8	0.84	0.8	0.8

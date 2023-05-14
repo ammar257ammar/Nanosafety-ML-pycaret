@@ -1,12 +1,12 @@
 index	parameter_value
-alpha	0.0001
+alpha	3.294357641011959e-05
 average	False
 class_weight	
 early_stopping	False
 epsilon	0.1
-eta0	0.001
-fit_intercept	True
-l1_ratio	0.15
+eta0	0.3577135059696825
+fit_intercept	False
+l1_ratio	0.060451857473559176
 learning_rate	optimal
 loss	hinge
 max_iter	1000
@@ -14,7 +14,7 @@ n_iter_no_change	5
 n_jobs	-1
 penalty	l2
 power_t	0.5
-random_state	834
+random_state	123456
 shuffle	True
 tol	0.001
 validation_fraction	0.1

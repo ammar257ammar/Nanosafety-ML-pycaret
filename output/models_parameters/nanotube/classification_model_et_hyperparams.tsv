@@ -1,20 +1,20 @@
 index	parameter_value
 bootstrap	True
 ccp_alpha	0.0
-class_weight	{}
+class_weight	balanced_subsample
 criterion	entropy
-max_depth	10
-max_features	0.9324853944547926
+max_depth	9
+max_features	0.8797298116091954
 max_leaf_nodes	
 max_samples	
-min_impurity_decrease	0.0008331920610002093
+min_impurity_decrease	0.0002870535894807819
 min_impurity_split	
-min_samples_leaf	2
-min_samples_split	4
+min_samples_leaf	1
+min_samples_split	7
 min_weight_fraction_leaf	0.0
-n_estimators	264
+n_estimators	99
 n_jobs	-1
 oob_score	False
-random_state	834
+random_state	123456
 verbose	0
 warm_start	False
